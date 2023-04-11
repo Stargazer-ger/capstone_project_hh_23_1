@@ -6,7 +6,7 @@
   3. #### We assume the grades became worse after the covid
 
 
-### Questions
+### Assumptions
   1. #### We assume the grades became worse after the covid
 
 ### Hypotheses
