@@ -1,4 +1,4 @@
-## How big of an impact did Covid19 have in Education.
+## How big of an impact did Covid19 have on Education.
 
 ### Questions
   1. #### How were the grades before 2019, are there any consistencies in the grades or any increase or decrease?
