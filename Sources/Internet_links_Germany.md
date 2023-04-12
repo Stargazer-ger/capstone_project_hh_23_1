@@ -37,3 +37,4 @@
 ### Internationale Studien
 * [Schulschließung Corona 4.1](https://www.sciencedirect.com/science/article/pii/S1743919120303162#bib21)
 * [Surveillance of COVID-19 school outbreaks, Germany, March to August 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533620/)
+* [Physical activity, screen time and the COVID-19 school closures in Europe – An observational study in 10 countries](https://www.tandfonline.com/doi/full/10.1080/17461391.2021.1897166)
