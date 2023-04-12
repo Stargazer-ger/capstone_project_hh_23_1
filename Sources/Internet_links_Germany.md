@@ -40,3 +40,5 @@
 * [Surveillance of COVID-19 school outbreaks, Germany, March to August 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533620/)
 * [Physical activity, screen time and the COVID-19 school closures in Europe – An observational study in 10 countries](https://www.tandfonline.com/doi/full/10.1080/17461391.2021.1897166)
 * [Impact of School Closures on the Proportion of Children in the COVID-19 Pandemic: An Example from the Winter Lockdown in Germany](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1594-2818)
+* [Physical Activity and Stress of Children and Adolescents during the COVID-19 Pandemic in Germany—A Cross-Sectional Study in Rural Areas
+](https://www.researchgate.net/publication/361809326_Physical_Activity_and_Stress_of_Children_and_Adolescents_during_the_COVID-19_Pandemic_in_Germany-A_Cross-Sectional_Study_in_Rural_Areas)
