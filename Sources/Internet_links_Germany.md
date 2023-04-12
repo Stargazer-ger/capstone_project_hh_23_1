@@ -27,6 +27,10 @@
 
 * [Statistiken der Abschlussnoten](https://www.uni-passau.de/pruefungssekretariat/informationen-fuer-alle-studiengaenge/statistiken-der-abschlussnoten)
 
+### Statistisches Bundesamt
+
+* [Anzahl Schüler:innen in D pro Schulart](https://www-genesis.destatis.de/genesis/online?language=de&sequenz=tabelleErgebnis&selectionname=21111-0011&sachmerkmal=BILSA1&sachschluessel=SCHULE03,SCHULE05,SCHULE07,SCHULE081,SCHULE082,SCHULE09#abreadcrumb)
+
 ### Studien
 
 * [Wie Ausbildungssysteme Chancen verteilen](https://edoc.unibas.ch/16082/)
@@ -44,3 +48,4 @@
 ](https://www.researchgate.net/publication/361809326_Physical_Activity_and_Stress_of_Children_and_Adolescents_during_the_COVID-19_Pandemic_in_Germany-A_Cross-Sectional_Study_in_Rural_Areas)
 * [Forced Remote Learning During the COVID-19 Pandemic in Germany: A Mixed-Methods Study on Students' Positive and Negative Expectations](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.642616/full)
 * [Work-related online learning during the COVID-19 pandemic in Germany](https://fis.uni-bamberg.de/bitstream/uniba/54543/1/fisba54543.pdf)
+* [Against All Odds: Education in Germany Coping with Covid-19](https://link.springer.com/article/10.1007/s42438-020-00130-7)
