@@ -43,3 +43,4 @@
 * [Physical Activity and Stress of Children and Adolescents during the COVID-19 Pandemic in Germany—A Cross-Sectional Study in Rural Areas
 ](https://www.researchgate.net/publication/361809326_Physical_Activity_and_Stress_of_Children_and_Adolescents_during_the_COVID-19_Pandemic_in_Germany-A_Cross-Sectional_Study_in_Rural_Areas)
 * [Forced Remote Learning During the COVID-19 Pandemic in Germany: A Mixed-Methods Study on Students' Positive and Negative Expectations](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.642616/full)
+* [Work-related online learning during the COVID-19 pandemic in Germany](https://fis.uni-bamberg.de/bitstream/uniba/54543/1/fisba54543.pdf)
