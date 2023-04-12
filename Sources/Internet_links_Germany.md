@@ -36,3 +36,4 @@
 
 ### Internationale Studien
 * [Schulschließung Corona 4.1](https://www.sciencedirect.com/science/article/pii/S1743919120303162#bib21)
+* [Surveillance of COVID-19 school outbreaks, Germany, March to August 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7533620/)
