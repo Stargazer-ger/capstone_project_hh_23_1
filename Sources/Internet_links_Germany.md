@@ -32,3 +32,7 @@
 * [Wie Ausbildungssysteme Chancen verteilen](https://edoc.unibas.ch/16082/)
 * [Schulabschlüsse in Deutschland – ein Überblick](https://media.suub.uni-bremen.de/handle/elib/5410)
 * [DESTATIS Statistisches Bundesamt](https://www.destatis.de/EN/Themes/Society-Environment/Education-Research-Culture/_node.html)
+
+
+### Internationale Studien
+* [Schulschließung Corona 4.1](https://www.sciencedirect.com/science/article/pii/S1743919120303162#bib21)
