@@ -1,13 +1,20 @@
 # __Expectations for the stakeholder meetings__
 Deliverable: A slide presentation (google/powerpoint/keynote)
-###Content:
+### Content:
 * Why?
   * Introduction to topic
+    - Als in Bildung interessierte Gruppe beobachten wir pandemiebedingt negative auswirkungen auf Schüler, moralisch, kompetenzschwächen, entwicklungsdefizite, schwächung der Sozialkompetenz, Zugang zu Bildung durch Schulschließungen sozial ungleich verteilt
+    - Beobachtungen sind bei Nachhilfeunterricht gemacht worden (Znati)
   * Problem
+    - Noten sind schlechter geworden 
   * Target group/stakeholder
-* What?
+    - Kultus-, (Bildungs)ministerien
+    - Bildungs- und Gesundheitspolitik i. A.?
+* What? (We need more!!)
   * Data catalog
     * Number of data sets
+      - 'Abiturnoten im Ländervergleich' von der Kultusministerkonferenz
+      - Statistisches Bundesamt: 'Demografische Auswertung/Daten'
     * Number of columns and rows
     * Data model (ER-diagram)
     * Column definitions
@@ -16,28 +23,43 @@ Deliverable: A slide presentation (google/powerpoint/keynote)
     * Data Quality (Outliers, null values etc.)
   * Objective
     * Questions
+      1. How were the grades before 2019, are there any consistencies in the grades or any increase or decrease?
+      2. How is the 2020 grades till date?
+      3. Classification by sex, age? Who is more affected?
     * Hypotheses
+      1. Grades became worse after the covid
     * Assumptions
   * Deliverables
     * Project scope (in/out)
     * Minimum viable product (MVP) 
+      - Analysis of grades in Germany (Abitur)
 * How? - Project Management
     * Team
-      * Relative skill ranking of each team member
+      * Relative skill ranking of each team member  
+        Kamil               | Naoufal               | Johannes            | David 
+        --------            | --------              | --------            | --------  
+        Python              | Excel                 | Tableau             | SQL  
+        Tableau             | Project Management    | Project Management  | Python/Pandas  
+        SQL                 | SQL                   | Problem Solving     | Excel  
+        Problem Solving     | Python                | Python              | Tableau  
+        Project Management  | --                    | SQL                 | google sheet  
+        ---                 | --                    | --                  | Project Management  
       * Responsibilities
       * Protocol
       * Process to track progress
-  * Technologies/Tools
+        - Kanban? Daily updated, daily meeting z. B. at 9 am, 9.30 am screenshot?
+  * Technologies/Tools (tbd)
       * Excel/Google Sheets
       * Python
       * SQL Database
       * Tableau
       * Kanban
-   * Execution
+   * Execution (tbd)
       * Prioritisation**
       * Timeline
       * Milestones
       * Deadlines
+        - Präsentation für Stakeholder meeting (termin tba)
       * Blockers
       * Risks
       * Answer: How do you ensure success?
