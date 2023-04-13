@@ -3,10 +3,10 @@ Deliverable: A slide presentation (google/powerpoint/keynote)
 ### Content:
 * Why?
   * Introduction to topic
-    - Als in Bildung interessierte Gruppe beobachten wir pandemiebedingt negative auswirkungen auf Schüler, moralisch, kompetenzschwächen, entwicklungsdefizite, schwächung der Sozialkompetenz, Zugang zu Bildung durch Schulschließungen sozial ungleich verteilt
-    - Beobachtungen sind bei Nachhilfeunterricht gemacht worden (Znati)
+    - As a group interested in education, we observe the negative effects of the pandemic on students. We see a decline in morale, weakened skills, developmental deficits, and a weakening of social skills. Furthermore, school closures disproportionately impacted certain communities, resulting in distributing unequal access to education.
+    - Observations were made during tutoring (Znati).
   * Problem
-    - Noten sind schlechter geworden 
+    - Grades have gotten worse.
   * Target group/stakeholder
     - Kultus-, (Bildungs)ministerien
     - Bildungs- und Gesundheitspolitik i. A.?
