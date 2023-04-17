@@ -16,10 +16,10 @@ def read_csv_file(filepath):
     # Replace commas with dots in selected rows
     df_copy.replace(',', '.', regex=True, inplace=True)
 
-    # Convert other columns to int data type
-    df_copy.iloc[:, 0:] = df_copy.iloc[:, 0:].astype(int)
-
     # Convert first column to float data type
-    #df_copy.iloc[:, 0] = df_copy.iloc[:, 0].astype(float)
+    df_copy.iloc[:,0] = df_copy.iloc[:,0].astype(float)
+
+    # Convert other columns to int data type
+    df_copy.iloc[:,1:] = df_copy.iloc[:,1:].astype(int)
 
     return df_copy
