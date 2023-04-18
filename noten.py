@@ -14,7 +14,16 @@ def load_noten_data(year):
     
     # Add the 'year' column
     noten_data = add_year.add_year(noten_data, 'year', year)
+
+    # Convert other columns to int data type
+    noten_data.iloc[:, 1:] = noten_data.iloc[:, 1:].astype(int)
     
+    #noten_data = noten_data.T
+    
+    #noten_data.iloc[2:, :] = noten_data.iloc[2:, :].astype(int)
+
+    #noten_data = noten_data.T
+
     return noten_data
 
 # Load data for each year
