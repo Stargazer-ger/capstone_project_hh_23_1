@@ -5,7 +5,9 @@ import add_year
 
 def load_noten_data(year):
     # Construct the file path
-    file_path = f"data/Converted to CSV/Aus_Abiturnoten_{year}/Noten-Table 1.csv"
+    file_path = f"/Users/kamilkarim/neuefische/capstone_project_hh_23_1/data/Converted to CSV/Aus_Abiturnoten_{year}/Noten-Table 1.csv"
+    # Datenauslesen mit Relativ Path
+    # file_path = f"data/Converted to CSV/Aus_Abiturnoten_{year}/Noten-Table 1.csv"
     
     # Read the CSV file
     df = pd.read_csv(file_path, encoding='latin-1', delimiter=';')
