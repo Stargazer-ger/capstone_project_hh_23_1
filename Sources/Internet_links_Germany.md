@@ -49,3 +49,6 @@
 * [Forced Remote Learning During the COVID-19 Pandemic in Germany: A Mixed-Methods Study on Students' Positive and Negative Expectations](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.642616/full)
 * [Work-related online learning during the COVID-19 pandemic in Germany](https://fis.uni-bamberg.de/bitstream/uniba/54543/1/fisba54543.pdf)
 * [Against All Odds: Education in Germany Coping with Covid-19](https://link.springer.com/article/10.1007/s42438-020-00130-7)
+
+### Warum ist Thüringen so gut?
+* [Welcome to the Jungle Artikel](https://www.cicero.de/innenpolitik/schulsysteme-deutschland-von-der-werkrealschule-bis-zur-integrierten)
