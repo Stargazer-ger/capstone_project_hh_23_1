@@ -52,3 +52,17 @@
 
 ### Warum ist Thüringen so gut?
 * [Welcome to the Jungle Artikel](https://www.cicero.de/innenpolitik/schulsysteme-deutschland-von-der-werkrealschule-bis-zur-integrierten)
+
+
+### __Bildungsausgaben__ und __Schüler/-innen, Klassen, Lehrkräfte und Absolvierende der Schulen__
+* https://www.statistischebibliothek.de/mir/receive/DESerie_mods_00007654
+* https://www-genesis.destatis.de/genesis/online?operation=previous&levelindex=2&step=2&titel=Ergebnis&levelid=1682611696063&acceptscookies=false#abreadcrumb
+* https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Bildungsfinanzen-Ausbildungsfoerderung/Publikationen/Downloads-Bildungsfinanzen/ausgaben-schueler-5217109177004.pdf?__blob=publicationFile
+* https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Bildungsfinanzen-Ausbildungsfoerderung/Publikationen/Downloads-Bildungsfinanzen/ausgaben-schueler-5217109197004.pdf?__blob=publicationFile#:~:text=Bei%20allgemeinbildenden%20Schulen%20waren%20dies,allem%20durch%20den%20Teilzeitunterricht%20bedingt.
+* https://www.statistischebibliothek.de/mir/receive/DESerie_mods_00002310
+* https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEHeft_derivate_00011402/5217109107004.pdf;jsessionid=83844D33F15ECCC7CB4EFAD5FD79AD65
+* https://www.kmk.org/fileadmin/Dateien/pdf/Statistik/Dokumentationen/Dok_235_SKL_2021.pdf
+* https://www.kmk.org/fileadmin/Dateien/pdf/Statistik/Dokumentationen/Dok224_SKL2018.pdf
+* https://www.kmk.org/fileadmin/Dateien/pdf/Statistik/Dokumentationen/Dok_232_SKL_2020.pdf
+* https://www.kmk.org/dokumentation-statistik/statistik/schulstatistik/schueler-innen-klassen-lehrkraefte-und-absolvierende/archiv-schueler-innen-klassen-lehrkraefte-und-absolvierende.html
+* https://www.kmk.org/fileadmin/Dateien/pdf/Statistik/Dokumentationen/Dok_227_SKL_2019.pdf
