@@ -7,7 +7,6 @@ def load_teachers_data(Year):
     # Construct the file path
     file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
     
-    ###############################################
     #Extract number of students from  the excel file
     df = pd.read_excel(file_path, sheet_name='Z3.2', header=4) #, skipfooter =)
 
@@ -33,13 +32,14 @@ def load_teachers_data(Year):
                       'BB': 'Brandenburg', 'HB': 'Bremen', 'HH': 'Hamburg', 'HE': 'Hessen', 'MV': 'Mecklenburg-Vorpommern',
                       'NI': 'Niedersachsen', 'NW': 'Nordrhein-Westfalen', 'RP': 'Rheinland-Pfalz',
                       'SL': 'Saarland', 'SN': 'Sachsen', 'ST': 'Sachsen-Anhalt', 'SH': 'Schleswig-Holstein'}, inplace=True)
-
     return teachers
+
+###############################################
 
 def load_students_data(Year):
     # Construct the file path
     file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
-    ###############################################
+
     #Extract number of students from  the excel file
     df1 = pd.read_excel(file_path, sheet_name='Z1.2', header=4) #, skipfooter =)
 
@@ -68,10 +68,12 @@ def load_students_data(Year):
 
     return students
 
+###############################################
+
 def load_students_per_teacher_data(Year):
     # Construct the file path
     file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
-    ###############################################
+    
     #Extract number of students from  the excel file
     df2 = pd.read_excel(file_path, sheet_name='Z6.2 ', header=4) #, skipfooter =)
 
@@ -96,14 +98,14 @@ def load_students_per_teacher_data(Year):
                       'BB': 'Brandenburg', 'HB': 'Bremen', 'HH': 'Hamburg', 'HE': 'Hessen', 'MV': 'Mecklenburg-Vorpommern',
                       'NI': 'Niedersachsen', 'NW': 'Nordrhein-Westfalen', 'RP': 'Rheinland-Pfalz',
                       'SL': 'Saarland', 'SN': 'Sachsen', 'ST': 'Sachsen-Anhalt', 'SH': 'Schleswig-Holstein'}, inplace=True)
-
-
     return students_per_teacher
+
+###############################################
 
 def load_hours_per_student_data(Year):
     # Construct the file path
     file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
-    ###############################################
+
     #Extract number of students from  the excel file
     df3 = pd.read_excel(file_path, sheet_name='Z7.2', header=4) #, skipfooter =)
 
@@ -128,9 +130,9 @@ def load_hours_per_student_data(Year):
                       'BB': 'Brandenburg', 'HB': 'Bremen', 'HH': 'Hamburg', 'HE': 'Hessen', 'MV': 'Mecklenburg-Vorpommern',
                       'NI': 'Niedersachsen', 'NW': 'Nordrhein-Westfalen', 'RP': 'Rheinland-Pfalz',
                       'SL': 'Saarland', 'SN': 'Sachsen', 'ST': 'Sachsen-Anhalt', 'SH': 'Schleswig-Holstein'}, inplace=True)
-
     return hours_per_student
 
+###############################################
 
 
 # Load data for teachers each year
