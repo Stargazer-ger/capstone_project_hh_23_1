@@ -120,6 +120,13 @@ def load_hours_per_student_data(Year):
                     'Allgemeinbildende Schulen', 'Sekundarstufe I', 'Sekundarstufe II', 'Förderschulen']
     hours_per_student = hours_per_student[hours_per_student['SchoolType'].isin(school_types)]
 
+    # replacing some names to have consistency
+    name_mapping = {'Sekundarbereich I': 'Sekundarstufe I',
+                    'Sekundarbereich II':'Sekundarstufe I'}
+
+    # Use the .replace() function to replace old names with new names
+    hours_per_student['SchoolType'] = hours_per_student['SchoolType'].replace(name_mapping)
+
     # drop unneeded columns
     hours_per_student.drop(columns=['Unnamed: 0', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'], inplace=True)
 
