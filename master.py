@@ -98,6 +98,8 @@ def load_students_per_teacher_data(Year):
                       'BB': 'Brandenburg', 'HB': 'Bremen', 'HH': 'Hamburg', 'HE': 'Hessen', 'MV': 'Mecklenburg-Vorpommern',
                       'NI': 'Niedersachsen', 'NW': 'Nordrhein-Westfalen', 'RP': 'Rheinland-Pfalz',
                       'SL': 'Saarland', 'SN': 'Sachsen', 'ST': 'Sachsen-Anhalt', 'SH': 'Schleswig-Holstein'}, inplace=True)
+    # Convert the 'year' column to datetime format
+    students_per_teacher['Year'] = pd.to_datetime(students_per_teacher['Year'], format='%Y')
     return students_per_teacher
 
 ###############################################
@@ -119,6 +121,14 @@ def load_hours_per_student_data(Year):
     school_types = ['Allgemein bildende Schulen', 'Sekundarbereich I', 'Sekundarbereich II', 
                     'Allgemeinbildende Schulen', 'Sekundarstufe I', 'Sekundarstufe II', 'Förderschulen']
     hours_per_student = hours_per_student[hours_per_student['SchoolType'].isin(school_types)]
+
+    # replacing some names to have consistency
+    name_mapping = {'Sekundarbereich I': 'Sekundarstufe I',
+                    'Sekundarbereich II':'Sekundarstufe I',
+                    'Allgemein bildende Schulen':'Allgemeinbildende Schulen'}
+
+    # Use the .replace() function to replace old names with new names
+    hours_per_student['SchoolType'] = hours_per_student['SchoolType'].replace(name_mapping)
 
     # drop unneeded columns
     hours_per_student.drop(columns=['Unnamed: 0', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'], inplace=True)
