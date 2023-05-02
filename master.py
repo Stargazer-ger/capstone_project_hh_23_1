@@ -201,6 +201,7 @@ def load_ausgaben_data(year):
 
     # Replace forward slashes with empty strings
     ausgaben = ausgaben.applymap(lambda x: x.replace('/', '0'))
+    ausgaben.iloc[:, 1:] = ausgaben.iloc[:, 1:].applymap(lambda x: x.replace('-', '0'))
 
     # convert all numeric values to float to be able to convert to int
     ausgaben.iloc[:, 1:15] = ausgaben.iloc[:, 1:15].astype('float')
@@ -275,6 +276,9 @@ ausgaben_2015 = load_ausgaben_data(2015)
 ausgaben_2016 = load_ausgaben_data(2016)
 ausgaben_2017 = load_ausgaben_data(2017)
 ausgaben_2019 = load_ausgaben_data(2019)
+ausgaben_2020 = load_ausgaben_data(2020)
+ausgaben_2021 = load_ausgaben_data(2021)
+
 
 teachers_concat = pd.concat([  teachers_2011, teachers_2012, teachers_2013,
                             teachers_2014, teachers_2015, teachers_2016,
@@ -297,5 +301,6 @@ hours_per_student_concat = pd.concat([hours_per_student_2011, hours_per_student_
 
 ausgaben_concat = pd.concat([ausgaben_2010 ,ausgaben_2011, ausgaben_2012,
                              ausgaben_2013, ausgaben_2014, ausgaben_2015,
-                             ausgaben_2016, ausgaben_2017, ausgaben_2019],
+                             ausgaben_2016, ausgaben_2017, ausgaben_2019,
+                             ausgaben_2020, ausgaben_2021],
                              ignore_index=False)
