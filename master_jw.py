@@ -5,7 +5,10 @@ import add_year
 
 def load_teachers_data(Year):
     # Construct the file path
-    file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    # Path Johannes '/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_2011.xlsx'
+    # Realativ path 'testing_data/SKL_Teil_Z_Zusammenfassung_2011.xlsx'
+    # Original Kamil Path '/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
     
     #Extract number of students from  the excel file
     df = pd.read_excel(file_path, sheet_name='Z3.2', header=4) #, skipfooter =)
@@ -38,7 +41,7 @@ def load_teachers_data(Year):
 
 def load_students_data(Year):
     # Construct the file path
-    file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
 
     #Extract number of students from  the excel file
     df1 = pd.read_excel(file_path, sheet_name='Z1.2', header=4) #, skipfooter =)
@@ -72,7 +75,7 @@ def load_students_data(Year):
 
 def load_students_per_teacher_data(Year):
     # Construct the file path
-    file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
     
     #Extract number of students from  the excel file
     df2 = pd.read_excel(file_path, sheet_name='Z6.2 ', header=4) #, skipfooter =)
@@ -106,7 +109,7 @@ def load_students_per_teacher_data(Year):
 
 def load_hours_per_student_data(Year):
     # Construct the file path
-    file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
 
     #Extract number of students from  the excel file
     df3 = pd.read_excel(file_path, sheet_name='Z7.2', header=4) #, skipfooter =)
@@ -146,7 +149,7 @@ def load_hours_per_student_data(Year):
 
 def load_ausgaben_data(year):
     # Construct the file path
-    file_path = f'/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/Bildungsausgaben/Ausgaben_{year}.xlsx'
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/Bildungsausgaben/Ausgaben_{year}.xlsx'
     
     #Extract number of students from  the excel file
     df = pd.read_excel(file_path, sheet_name=f'{year}_1')
@@ -201,7 +204,6 @@ def load_ausgaben_data(year):
 
     # Replace forward slashes with empty strings
     ausgaben = ausgaben.applymap(lambda x: x.replace('/', '0'))
-    ausgaben.iloc[:, 1:] = ausgaben.iloc[:, 1:].applymap(lambda x: x.replace('-', '0'))
 
     # convert all numeric values to float to be able to convert to int
     ausgaben.iloc[:, 1:15] = ausgaben.iloc[:, 1:15].astype('float')
@@ -276,9 +278,6 @@ ausgaben_2015 = load_ausgaben_data(2015)
 ausgaben_2016 = load_ausgaben_data(2016)
 ausgaben_2017 = load_ausgaben_data(2017)
 ausgaben_2019 = load_ausgaben_data(2019)
-ausgaben_2020 = load_ausgaben_data(2020)
-ausgaben_2021 = load_ausgaben_data(2021)
-
 
 teachers_concat = pd.concat([  teachers_2011, teachers_2012, teachers_2013,
                             teachers_2014, teachers_2015, teachers_2016,
@@ -301,6 +300,113 @@ hours_per_student_concat = pd.concat([hours_per_student_2011, hours_per_student_
 
 ausgaben_concat = pd.concat([ausgaben_2010 ,ausgaben_2011, ausgaben_2012,
                              ausgaben_2013, ausgaben_2014, ausgaben_2015,
-                             ausgaben_2016, ausgaben_2017, ausgaben_2019,
-                             ausgaben_2020, ausgaben_2021],
+                             ausgaben_2016, ausgaben_2017, ausgaben_2019],
                              ignore_index=False)
+
+
+
+#####################################
+
+# Veränderung für Vorschulen und den zusammenhang zum Educations Level
+
+def load_preschool(Year):
+    # Construct the file path
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    # Path Johannes '/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_2011.xlsx'
+    # Realativ path 'testing_data/SKL_Teil_Z_Zusammenfassung_2011.xlsx'
+    # Original Kamil Path '/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    
+    #Extract number of students from  the excel file
+    df5 = pd.read_excel(file_path, sheet_name='Z5.2', header=4) #, skipfooter =)
+
+    # Make a copy
+    preschool = df5.copy()
+
+    # Rename columns
+    preschool = preschool.rename(columns={'D': 'Deutschland'}) #, preschool.columns[1]: 'SchoolType'})
+
+    # Filter by school types
+    # school_types = ['Allgemein bildende Schulen', 'Sekundarbereich I', 'Sekundarbereich II', 
+    #                'Allgemeinbildende Schulen', 'Sekundarstufe I', 'Sekundarstufe II']
+    # teachers = teachers[teachers['SchoolType'].isin(school_types)]
+
+    # drop unneeded columns
+    preschool.drop(columns=['Unnamed: 0', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'], inplace=True)
+
+    # Add the 'year' column
+    preschool = add_year.add_year(preschool, 'Year', Year)
+
+    # Rename the columns 
+    preschool.rename(columns={'TH': 'Thüringen', 'BW': 'Baden-Wüttemberg', 'BY': 'Bayern', 'BE': 'Berlin',
+                      'BB': 'Brandenburg', 'HB': 'Bremen', 'HH': 'Hamburg', 'HE': 'Hessen', 'MV': 'Mecklenburg-Vorpommern',
+                      'NI': 'Niedersachsen', 'NW': 'Nordrhein-Westfalen', 'RP': 'Rheinland-Pfalz',
+                      'SL': 'Saarland', 'SN': 'Sachsen', 'ST': 'Sachsen-Anhalt', 'SH': 'Schleswig-Holstein'}, inplace=True)
+    
+    return preschool
+
+
+# Load data for preschool each year
+
+preschool_2011 = load_preschool(2011)
+preschool_2012 = load_preschool(2012)
+preschool_2013 = load_preschool(2013)
+preschool_2014 = load_preschool(2014)
+preschool_2015 = load_preschool(2015)
+preschool_2016 = load_preschool(2016)
+preschool_2017 = load_preschool(2017)
+preschool_2018 = load_preschool(2018)
+preschool_2019 = load_preschool(2019)
+preschool_2020 = load_preschool(2020)
+preschool_2021 = load_preschool(2021)
+
+
+def load_abschluss(Year):
+    # Construct the file path
+    file_path = f'/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    # Path Johannes '/Users/jw/Documents/Neue_Fische_Bootcamp/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_2011.xlsx'
+    # Realativ path 'testing_data/SKL_Teil_Z_Zusammenfassung_2011.xlsx'
+    # Original Kamil Path '/Users/kamilkarim/neuefische/capstone_project_hh_23_1/testing_data/SKL_Teil_Z_Zusammenfassung_{Year}.xlsx'
+    
+    #Extract number of students from  the excel file
+    df6 = pd.read_excel(file_path, sheet_name='Z10.2', header=4) #, skipfooter =)
+
+    # Make a copy
+    abschluss = df6.copy()
+
+    # Rename columns
+    abschluss = abschluss.rename(columns={'D': 'Deutschland', abschluss.columns[1]: 'SchoolType'})
+
+    # Filter by school types
+    #school_types = ['Abgänger nach Beendigung der Vollzeitschulpflicht ohne Hauptschulabschluss', 'Absolventen nach Beendigung der Vollzeitschulpflicht mit Hauptschulabschluss', 'Absolventen mit mittlerem Abschluss und entsprechenden Abschlüssen', 
+    #                'Absolventen mit Hochschul- und Fachhochschulreife', 'Abgänger/-innen nach Beendigung der Vollzeitschulpflicht ohne Hauptschulabschluss', 'Absolventen/-innen nach Beendigung der Vollzeitschulpflicht mit Hauptschulabschluss', 'Absolventen/-innen mit mittlerem Abschluss und entsprechenden Abschlüssen', 'Absolventen/-innen mit Hochschul- und Fachhochschulreife', 'Abgehende nach Beendigung der Vollzeitschulpflicht ohne Hauptschulabschluss', 'Absolvierende nach Beendigung der Vollzeitschulpflicht mit Hauptschulabschluss', 'Absolvierende mit mittlerem Abschluss und entsprechenden Abschlüssen', 'Absolvierende mit Hochschul- und Fachhochschulreife']
+    #abschluss = abschluss[abschluss['SchoolType'].isin(school_types)]
+
+    # drop unneeded columns
+    abschluss.drop(columns=['Unnamed: 0', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4'], inplace=True)
+
+    # Add the 'year' column
+    abschluss = add_year.add_year(abschluss, 'Year', Year)
+
+    # Rename the columns 
+    abschluss.rename(columns={'TH': 'Thüringen', 'BW': 'Baden-Wüttemberg', 'BY': 'Bayern', 'BE': 'Berlin',
+                      'BB': 'Brandenburg', 'HB': 'Bremen', 'HH': 'Hamburg', 'HE': 'Hessen', 'MV': 'Mecklenburg-Vorpommern',
+                      'NI': 'Niedersachsen', 'NW': 'Nordrhein-Westfalen', 'RP': 'Rheinland-Pfalz',
+                      'SL': 'Saarland', 'SN': 'Sachsen', 'ST': 'Sachsen-Anhalt', 'SH': 'Schleswig-Holstein'}, inplace=True)
+    
+
+    return abschluss
+
+
+# Load data for abschluss each year
+
+abschluss_2011 = load_abschluss(2011)
+abschluss_2012 = load_abschluss(2012)
+abschluss_2013 = load_abschluss(2013)
+abschluss_2014 = load_abschluss(2014)
+abschluss_2015 = load_abschluss(2015)
+abschluss_2016 = load_abschluss(2016)
+abschluss_2017 = load_abschluss(2017)
+abschluss_2018 = load_abschluss(2018)
+abschluss_2019 = load_abschluss(2019)
+abschluss_2020 = load_abschluss(2020)
+abschluss_2021 = load_abschluss(2021)
