@@ -53,6 +53,57 @@ def load_noten_data(year):
 
     return noten_data
 
+
+def load_schulform_data(year):
+    # Construct the file path
+    file_path = f"/Users/kamilkarim/neuefische/capstone_project_hh_23_1/data/graduation_by_gender_jw.csv"
+    # Read the CSV file
+    df = pd.read_csv(file_path, encoding='latin-1', delimiter=';')
+
+    # Create a copy of the file with specific rows and columns
+    #schulform = df.iloc[6:].copy()
+    
+    # Rename land to noten
+    #schulform.rename(columns={'Land': ' '}, inplace=True)
+
+    # Apply replace method to all columns except the first one
+    schulform.iloc[:, 1:] = schulform.iloc[:, 1:].apply(lambda x: x.str.replace('.', ''))
+
+    # Replace commas with dots in selected rows
+    schulform.replace(',', '.', regex=True, inplace=True)
+    
+    # Transposing the dataframe
+    schulform = schulform.T
+    
+    # Extract the first row as column headers
+    new_header = schulform.iloc[0]
+    
+    # Set the first row as column headers
+    schulform.columns = new_header
+    
+    # Drop the first row from the DataFrame
+    schulform = schulform[1:]
+
+    # Add the 'year' column
+    schulform = add_year.add_year(schulform, 'year', year)
+    
+    #Convert other columns to int data type
+    schulform.iloc[:, 0:] = schulform.iloc[:, 0:].astype(int)
+
+    # Create a new column with the name from the index
+    schulform['Federal States'] = schulform.index
+
+    # Replace the index with a default RangeIndex
+    schulform.index = pd.RangeIndex(len(schulform.index))
+
+    # Rearrange columns to have 'name' as the first column
+    schulform = schulform[['Federal States'] + schulform.columns[:-1].tolist()]
+
+    # Convert the 'year' column to datetime format
+    schulform['year'] = pd.to_datetime(schulform['year'], format='%Y')
+
+    return schulform
+
 # Load data for each year
 noten_2010 = load_noten_data(2010)
 noten_2011 = load_noten_data(2011)
@@ -67,3 +118,18 @@ noten_2019 = load_noten_data(2019)
 noten_2020 = load_noten_data(2020)
 noten_2021 = load_noten_data(2021)
 noten_2022 = load_noten_data(2022)
+
+# Load data for each year
+schulform_2010 = load_schulform_data(2010)
+schulform_2011 = load_schulform_data(2011)
+schulform_2012 = load_schulform_data(2012)
+schulform_2013 = load_schulform_data(2013)
+schulform_2014 = load_schulform_data(2014)
+schulform_2015 = load_schulform_data(2015)
+schulform_2016 = load_schulform_data(2016)
+schulform_2017 = load_schulform_data(2017)
+schulform_2018 = load_schulform_data(2018)
+schulform_2019 = load_schulform_data(2019)
+schulform_2020 = load_schulform_data(2020)
+schulform_2021 = load_schulform_data(2021)
+schulform_2022 = load_schulform_data(2022)
