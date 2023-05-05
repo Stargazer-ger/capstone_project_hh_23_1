@@ -267,7 +267,7 @@ ausgaben_2017 = load_ausgaben_data(2017)
 ausgaben_2019 = load_ausgaben_data(2019)
 
 teachers_concat = pd.concat([  teachers_2011, teachers_2012, teachers_2013,
-                            teachers_2014, teachers_2015, teachers_2016,
+                            teachers_2014, teachers_2015, teachers_2016,pull
                             teachers_2017, teachers_2018, teachers_2019,
                             teachers_2020, teachers_2021], ignore_index=True)
 
@@ -312,3 +312,5 @@ def calculate_investment_per_student(Year):
     investment_per_student = total_spending / total_students
 
     return investment_per_student
+
+
