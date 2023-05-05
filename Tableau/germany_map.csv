@@ -1,0 +1,1734 @@
+,city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+159,Berlin,Berlin,52.52,13.405,Germany,DE,DEU,Berlin,primary,4473101.0,1276451290
+290,Stuttgart,Stuttgart,48.7775,9.18,Germany,DE,DEU,Baden-Württemberg,admin,2787724.0,1276171358
+317,Munich,Munich,48.1375,11.575,Germany,DE,DEU,Bayern,admin,2606021.0,1276692352
+335,Hamburg,Hamburg,53.55,10.0,Germany,DE,DEU,Hamburg,admin,2484800.0,1276041799
+700,Cologne,Cologne,50.9364,6.9528,Germany,DE,DEU,Nordrhein-Westfalen,,1083498.0,1276015998
+1101,Frankfurt,Frankfurt,50.1106,8.6822,Germany,DE,DEU,Hessen,minor,764104.0,1276054552
+1269,Düsseldorf,Dusseldorf,51.2333,6.7833,Germany,DE,DEU,Nordrhein-Westfalen,admin,645923.0,1276615258
+1329,Leipzig,Leipzig,51.34,12.375,Germany,DE,DEU,Sachsen,minor,615081.0,1276563678
+1374,Dortmund,Dortmund,51.5167,7.4667,Germany,DE,DEU,Nordrhein-Westfalen,minor,587696.0,1276562886
+1383,Essen,Essen,51.4508,7.0131,Germany,DE,DEU,Nordrhein-Westfalen,minor,582415.0,1276769247
+1410,Bremen,Bremen,53.0833,8.8,Germany,DE,DEU,Bremen,admin,566573.0,1276376509
+1418,Dresden,Dresden,51.05,13.74,Germany,DE,DEU,Sachsen,admin,561922.0,1276561036
+1451,Hannover,Hannover,52.3667,9.7167,Germany,DE,DEU,Niedersachsen,admin,542668.0,1276457707
+1510,Nuremberg,Nuremberg,49.4539,11.0775,Germany,DE,DEU,Bayern,minor,515543.0,1276166609
+1567,Duisburg,Duisburg,51.4347,6.7625,Germany,DE,DEU,Nordrhein-Westfalen,minor,495885.0,1276977172
+1964,Bochum,Bochum,51.4819,7.2158,Germany,DE,DEU,Nordrhein-Westfalen,minor,364454.0,1276227288
+2021,Wuppertal,Wuppertal,51.2667,7.1833,Germany,DE,DEU,Nordrhein-Westfalen,minor,355004.0,1276004611
+2128,Bielefeld,Bielefeld,52.0211,8.5347,Germany,DE,DEU,Nordrhein-Westfalen,minor,334002.0,1276112885
+2133,Bonn,Bonn,50.7333,7.1,Germany,DE,DEU,Nordrhein-Westfalen,minor,331885.0,1276807850
+2229,Münster,Munster,51.9625,7.6256,Germany,DE,DEU,Nordrhein-Westfalen,minor,317713.0,1276714504
+2252,Mannheim,Mannheim,49.4878,8.4661,Germany,DE,DEU,Baden-Württemberg,minor,311831.0,1276150104
+2275,Karlsruhe,Karlsruhe,49.0092,8.404,Germany,DE,DEU,Baden-Württemberg,minor,308436.0,1276923210
+2354,Augsburg,Augsburg,48.3689,10.8978,Germany,DE,DEU,Bayern,minor,296478.0,1276314100
+2468,Wiesbaden,Wiesbaden,50.0825,8.24,Germany,DE,DEU,Hessen,admin,278950.0,1276652118
+2593,Gelsenkirchen,Gelsenkirchen,51.5167,7.1,Germany,DE,DEU,Nordrhein-Westfalen,minor,260126.0,1276788537
+2594,Mönchengladbach,Monchengladbach,51.2,6.4333,Germany,DE,DEU,Nordrhein-Westfalen,minor,261001.0,1276982173
+2698,Aachen,Aachen,50.7756,6.0836,Germany,DE,DEU,Nordrhein-Westfalen,minor,249070.0,1276805572
+2705,Braunschweig,Braunschweig,52.2667,10.5167,Germany,DE,DEU,Niedersachsen,minor,248823.0,1276941443
+2717,Chemnitz,Chemnitz,50.8333,12.9167,Germany,DE,DEU,Sachsen,minor,248042.0,1276519956
+2726,Kiel,Kiel,54.3233,10.1394,Germany,DE,DEU,Schleswig-Holstein,admin,246601.0,1276305306
+2800,Halle,Halle,51.4828,11.9697,Germany,DE,DEU,Sachsen-Anhalt,minor,238061.0,1276167077
+2828,Magdeburg,Magdeburg,52.1317,11.6392,Germany,DE,DEU,Sachsen-Anhalt,admin,236188.0,1276418236
+2874,Freiburg im Breisgau,Freiburg im Breisgau,47.995,7.85,Germany,DE,DEU,Baden-Württemberg,minor,231848.0,1276371228
+2921,Krefeld,Krefeld,51.3333,6.5667,Germany,DE,DEU,Nordrhein-Westfalen,minor,227050.0,1276149829
+3020,Mainz,Mainz,49.9833,8.2667,Germany,DE,DEU,Rheinland-Pfalz,admin,217556.0,1276801317
+3055,Lübeck,Lubeck,53.8697,10.6864,Germany,DE,DEU,Schleswig-Holstein,minor,216277.0,1276852342
+3093,Erfurt,Erfurt,50.9833,11.0333,Germany,DE,DEU,Thüringen,admin,213835.0,1276924655
+3120,Oberhausen,Oberhausen,51.4967,6.8706,Germany,DE,DEU,Nordrhein-Westfalen,minor,209566.0,1276448936
+3148,Rostock,Rostock,54.0833,12.1333,Germany,DE,DEU,Mecklenburg-Vorpommern,,209061.0,1276210265
+3246,Kassel,Kassel,51.3158,9.4979,Germany,DE,DEU,Hessen,minor,201048.0,1276791686
+3440,Hagen,Hagen,51.3667,7.4833,Germany,DE,DEU,Nordrhein-Westfalen,minor,188713.0,1276389303
+3517,Potsdam,Potsdam,52.4,13.0667,Germany,DE,DEU,Brandenburg,admin,183154.0,1276395100
+3579,Saarbrücken,Saarbrucken,49.2333,7.0,Germany,DE,DEU,Saarland,admin,179634.0,1276419711
+3592,Hamm,Hamm,51.6833,7.8167,Germany,DE,DEU,Nordrhein-Westfalen,minor,179238.0,1276808737
+3678,Ludwigshafen,Ludwigshafen,49.4811,8.4353,Germany,DE,DEU,Rheinland-Pfalz,minor,172557.0,1276912330
+3715,Mülheim,Mulheim,51.4275,6.8825,Germany,DE,DEU,Nordrhein-Westfalen,minor,170921.0,1276676856
+3726,Oldenburg,Oldenburg,53.1439,8.2139,Germany,DE,DEU,Niedersachsen,minor,170389.0,1276946953
+3820,Osnabrück,Osnabruck,52.2833,8.05,Germany,DE,DEU,Niedersachsen,minor,165034.0,1276554949
+3831,Leverkusen,Leverkusen,51.0333,6.9833,Germany,DE,DEU,Nordrhein-Westfalen,minor,163851.0,1276002465
+3929,Solingen,Solingen,51.1667,7.0833,Germany,DE,DEU,Nordrhein-Westfalen,minor,159360.0,1276728190
+3934,Darmstadt,Darmstadt,49.8722,8.6528,Germany,DE,DEU,Hessen,minor,159631.0,1276607395
+3940,Heidelberg,Heidelberg,49.4167,8.7167,Germany,DE,DEU,Baden-Württemberg,minor,159245.0,1276519742
+3964,Herne,Herne,51.55,7.2167,Germany,DE,DEU,Nordrhein-Westfalen,minor,156621.0,1276656117
+4062,Regensburg,Regensburg,49.0167,12.0833,Germany,DE,DEU,Bayern,minor,153542.0,1276000325
+4066,Neuss,Neuss,51.2,6.7,Germany,DE,DEU,Nordrhein-Westfalen,minor,153796.0,1276075502
+4109,Paderborn,Paderborn,51.7181,8.7542,Germany,DE,DEU,Nordrhein-Westfalen,minor,152531.0,1276339087
+4472,Ingolstadt,Ingolstadt,48.7631,11.425,Germany,DE,DEU,Bayern,minor,138016.0,1276803150
+4689,Fürth,Furth,49.4667,11.0,Germany,DE,DEU,Bayern,minor,129122.0,1276580165
+4748,Würzburg,Wurzburg,49.7833,9.9333,Germany,DE,DEU,Bayern,minor,127880.0,1276233514
+4797,Ulm,Ulm,48.4,9.9833,Germany,DE,DEU,Baden-Württemberg,minor,126949.0,1276002212
+4810,Heilbronn,Heilbronn,49.15,9.2167,Germany,DE,DEU,Baden-Württemberg,minor,126458.0,1276377359
+4820,Pforzheim,Pforzheim,48.895,8.705,Germany,DE,DEU,Baden-Württemberg,minor,126016.0,1276732622
+4905,Wolfsburg,Wolfsburg,52.4231,10.7872,Germany,DE,DEU,Niedersachsen,minor,124151.0,1276033981
+5039,Göttingen,Gottingen,51.5339,9.9356,Germany,DE,DEU,Niedersachsen,minor,119801.0,1276211234
+5132,Bottrop,Bottrop,51.5247,6.9228,Germany,DE,DEU,Nordrhein-Westfalen,minor,117383.0,1276473363
+5158,Reutlingen,Reutlingen,48.4833,9.2167,Germany,DE,DEU,Baden-Württemberg,minor,116456.0,1276256795
+5282,Koblenz,Koblenz,50.3597,7.5978,Germany,DE,DEU,Rheinland-Pfalz,minor,114024.0,1276605495
+5297,Erlangen,Erlangen,49.5833,11.0167,Germany,DE,DEU,Bayern,minor,113292.0,1276339482
+5298,Bremerhaven,Bremerhaven,53.55,8.5833,Germany,DE,DEU,Bremen,,113634.0,1276991229
+5330,Recklinghausen,Recklinghausen,51.585,7.1619,Germany,DE,DEU,Nordrhein-Westfalen,minor,112267.0,1276179876
+5359,Bergisch Gladbach,Bergisch Gladbach,50.9918,7.1303,Germany,DE,DEU,Nordrhein-Westfalen,minor,111966.0,1276074373
+5362,Remscheid,Remscheid,51.1833,7.2,Germany,DE,DEU,Nordrhein-Westfalen,minor,111770.0,1276043920
+5404,Jena,Jena,50.9272,11.5861,Germany,DE,DEU,Thüringen,minor,111407.0,1276659978
+5439,Trier,Trier,49.7567,6.6414,Germany,DE,DEU,Rheinland-Pfalz,minor,110636.0,1276211430
+5733,Moers,Moers,51.4592,6.6197,Germany,DE,DEU,Nordrhein-Westfalen,,103725.0,1276257182
+5748,Salzgitter,Salzgitter,52.15,10.3333,Germany,DE,DEU,Niedersachsen,minor,104948.0,1276613066
+5819,Siegen,Siegen,50.8833,8.0167,Germany,DE,DEU,Nordrhein-Westfalen,minor,102836.0,1276268768
+5856,Hildesheim,Hildesheim,52.15,9.95,Germany,DE,DEU,Niedersachsen,minor,101990.0,1276244190
+5903,Gütersloh,Gutersloh,51.9,8.3833,Germany,DE,DEU,Nordrhein-Westfalen,minor,101158.0,1276587494
+5956,Kaiserslautern,Kaiserslautern,49.4447,7.7689,Germany,DE,DEU,Rheinland-Pfalz,minor,100030.0,1276674534
+6044,Schwerin,Schwerin,53.6333,11.4167,Germany,DE,DEU,Mecklenburg-Vorpommern,admin,95818.0,1276221707
+6059,Ludwigsburg,Ludwigsburg,48.8975,9.1922,Germany,DE,DEU,Baden-Württemberg,minor,93499.0,1276803720
+6409,Gladbeck,Gladbeck,51.5667,6.9667,Germany,DE,DEU,Nordrhein-Westfalen,,75687.0,1276216238
+6986,Hilden,Hilden,51.1714,6.9394,Germany,DE,DEU,Nordrhein-Westfalen,,55764.0,1276577152
+7167,Elmshorn,Elmshorn,53.7519,9.6511,Germany,DE,DEU,Schleswig-Holstein,,50141.0,1276091723
+7227,Halle-Neustadt,Halle-Neustadt,51.4789,11.9214,Germany,DE,DEU,Sachsen-Anhalt,,46280.0,1276281757
+7450,Pinneberg,Pinneberg,53.6333,9.8,Germany,DE,DEU,Schleswig-Holstein,minor,43603.0,1276865707
+7968,Kornwestheim,Kornwestheim,48.8598,9.1852,Germany,DE,DEU,Baden-Württemberg,,33803.0,1276918130
+8652,Weingarten,Weingarten,47.8092,9.6444,Germany,DE,DEU,Baden-Württemberg,,25168.0,1276346018
+8768,Ottobrunn,Ottobrunn,48.0667,11.6667,Germany,DE,DEU,Bayern,,21719.0,1276842192
+9049,Gröbenzell,Grobenzell,48.2,11.3667,Germany,DE,DEU,Bayern,,19967.0,1276398825
+9266,Wolfratshausen,Wolfratshausen,47.9133,11.4278,Germany,DE,DEU,Bayern,,18984.0,1276706639
+9629,Eilendorf,Eilendorf,50.7794,6.1625,Germany,DE,DEU,Nordrhein-Westfalen,,15892.0,1276960521
+9660,Eppelheim,Eppelheim,49.4,8.6333,Germany,DE,DEU,Baden-Württemberg,,15359.0,1276579726
+9805,Neubiberg,Neubiberg,48.0833,11.6833,Germany,DE,DEU,Bayern,,14538.0,1276417573
+9975,Asperg,Asperg,48.9,9.1333,Germany,DE,DEU,Baden-Württemberg,,13486.0,1276656917
+10274,Kronshagen,Kronshagen,54.3333,10.0833,Germany,DE,DEU,Schleswig-Holstein,,11921.0,1276781907
+10471,Steinbach am Taunus,Steinbach am Taunus,50.1667,8.5667,Germany,DE,DEU,Hessen,,10682.0,1276335395
+10739,Weißenthurm,Weissenthurm,50.4144,7.4606,Germany,DE,DEU,Rheinland-Pfalz,,9171.0,1276833572
+11873,Hanau,Hanau,50.1328,8.9169,Germany,DE,DEU,Hessen,minor,98502.0,1276550409
+11889,Cottbus,Cottbus,51.7606,14.3342,Germany,DE,DEU,Brandenburg,minor,98693.0,1276436655
+11939,Witten,Witten,51.4333,7.3333,Germany,DE,DEU,Nordrhein-Westfalen,,96563.0,1276004960
+12029,Esslingen,Esslingen,48.7333,9.3167,Germany,DE,DEU,Baden-Württemberg,minor,93542.0,1276510955
+12070,Gera,Gera,50.8806,12.0833,Germany,DE,DEU,Thüringen,minor,94152.0,1276548165
+12118,Iserlohn,Iserlohn,51.3833,7.6667,Germany,DE,DEU,Nordrhein-Westfalen,,92666.0,1276837267
+12139,Düren,Duren,50.8,6.4833,Germany,DE,DEU,Nordrhein-Westfalen,minor,91814.0,1276181957
+12149,Flensburg,Flensburg,54.7819,9.4367,Germany,DE,DEU,Schleswig-Holstein,minor,91113.0,1276853315
+12151,Tübingen,Tubingen,48.52,9.0556,Germany,DE,DEU,Baden-Württemberg,minor,91877.0,1276203240
+12160,Gießen,Giessen,50.5833,8.6667,Germany,DE,DEU,Hessen,minor,91255.0,1276576770
+12235,Zwickau,Zwickau,50.7167,12.5,Germany,DE,DEU,Sachsen,minor,89540.0,1276683623
+12340,Ratingen,Ratingen,51.3,6.85,Germany,DE,DEU,Nordrhein-Westfalen,,87297.0,1276005433
+12371,Lünen,Lunen,51.6167,7.5167,Germany,DE,DEU,Nordrhein-Westfalen,,86348.0,1276959723
+12407,Villingen-Schwenningen,Villingen-Schwenningen,48.0603,8.4586,Germany,DE,DEU,Baden-Württemberg,minor,86475.0,1276450523
+12447,Konstanz,Konstanz,47.6667,9.1833,Germany,DE,DEU,Baden-Württemberg,,84760.0,1276601373
+12518,Marl,Marl,51.6667,7.1167,Germany,DE,DEU,Nordrhein-Westfalen,,83941.0,1276451667
+12534,Worms,Worms,49.6319,8.3653,Germany,DE,DEU,Rheinland-Pfalz,minor,83850.0,1276944683
+12593,Velbert,Velbert,51.3333,7.05,Germany,DE,DEU,Nordrhein-Westfalen,,81984.0,1276896645
+12615,Minden,Minden,52.2883,8.9167,Germany,DE,DEU,Nordrhein-Westfalen,minor,81857.0,1276191164
+12660,Norderstedt,Norderstedt,53.7064,10.0103,Germany,DE,DEU,Schleswig-Holstein,,80420.0,1276872953
+12671,Dessau-Roßlau,Dessau-Rosslau,51.8333,12.2333,Germany,DE,DEU,Sachsen-Anhalt,minor,81237.0,1276983641
+12719,Neumünster,Neumunster,54.0714,9.99,Germany,DE,DEU,Schleswig-Holstein,minor,79496.0,1276757733
+12812,Bamberg,Bamberg,49.8914,10.8869,Germany,DE,DEU,Bayern,minor,77749.0,1276824274
+12813,Mosigkau,Mosigkau,51.8333,12.2333,Germany,DE,DEU,Sachsen-Anhalt,,78731.0,1276680755
+12829,Delmenhorst,Delmenhorst,53.0506,8.6317,Germany,DE,DEU,Niedersachsen,minor,77607.0,1276098664
+12855,Viersen,Viersen,51.2561,6.3972,Germany,DE,DEU,Nordrhein-Westfalen,minor,77523.0,1276629059
+12897,Rheine,Rheine,52.2833,7.4333,Germany,DE,DEU,Nordrhein-Westfalen,,76948.0,1276882978
+12898,Marburg,Marburg,50.81,8.7708,Germany,DE,DEU,Hessen,minor,76851.0,1276012023
+12966,Troisdorf,Troisdorf,50.8161,7.1556,Germany,DE,DEU,Nordrhein-Westfalen,,75222.0,1276488227
+13007,Wilhelmshaven,Wilhelmshaven,53.5286,8.1056,Germany,DE,DEU,Niedersachsen,minor,75189.0,1276324633
+13018,Bayreuth,Bayreuth,49.9481,11.5783,Germany,DE,DEU,Bayern,minor,74657.0,1276275069
+13024,Lüneburg,Luneburg,53.2525,10.4144,Germany,DE,DEU,Niedersachsen,minor,75599.0,1276001423
+13058,Dorsten,Dorsten,51.66,6.9642,Germany,DE,DEU,Nordrhein-Westfalen,,74736.0,1276397774
+13076,Castrop-Rauxel,Castrop-Rauxel,51.55,7.3167,Germany,DE,DEU,Nordrhein-Westfalen,,73425.0,1276873073
+13102,Detmold,Detmold,51.9378,8.8833,Germany,DE,DEU,Nordrhein-Westfalen,minor,74388.0,1276802316
+13120,Landshut,Landshut,48.5397,12.1508,Germany,DE,DEU,Bayern,minor,73150.0,1276485277
+13138,Arnsberg,Arnsberg,51.3833,8.0833,Germany,DE,DEU,Nordrhein-Westfalen,,73628.0,1276285824
+13186,Lüdenscheid,Ludenscheid,51.2167,7.6333,Germany,DE,DEU,Nordrhein-Westfalen,minor,72611.0,1276839426
+13242,Brandenburg,Brandenburg,52.4167,12.5333,Germany,DE,DEU,Brandenburg,minor,72461.0,1276372220
+13256,Aschaffenburg,Aschaffenburg,49.9667,9.15,Germany,DE,DEU,Bayern,minor,71381.0,1276069907
+13309,Bocholt,Bocholt,51.8333,6.6167,Germany,DE,DEU,Nordrhein-Westfalen,,71099.0,1276001655
+13412,Kempten,Kempten,47.7333,10.3167,Germany,DE,DEU,Bayern,minor,69053.0,1276008842
+13428,Celle,Celle,52.6256,10.0825,Germany,DE,DEU,Niedersachsen,minor,69602.0,1276282135
+13490,Fulda,Fulda,50.5508,9.6753,Germany,DE,DEU,Hessen,minor,68586.0,1276669051
+13517,Dinslaken,Dinslaken,51.5667,6.7333,Germany,DE,DEU,Nordrhein-Westfalen,,67525.0,1276055868
+13527,Aalen,Aalen,48.8333,10.1,Germany,DE,DEU,Baden-Württemberg,minor,68361.0,1276757787
+13545,Lippstadt,Lippstadt,51.6667,8.35,Germany,DE,DEU,Nordrhein-Westfalen,,68007.0,1276820778
+13627,Herford,Herford,52.1333,8.6833,Germany,DE,DEU,Nordrhein-Westfalen,minor,66608.0,1276588147
+13642,Rüsselsheim,Russelsheim,49.995,8.4119,Germany,DE,DEU,Hessen,,66125.0,1276969472
+13680,Kerpen,Kerpen,50.8719,6.6961,Germany,DE,DEU,Nordrhein-Westfalen,,66294.0,1276675138
+13748,Sindelfingen,Sindelfingen,48.7133,9.0028,Germany,DE,DEU,Baden-Württemberg,,64858.0,1276001469
+13769,Weimar,Weimar,50.9833,11.3167,Germany,DE,DEU,Thüringen,minor,65138.0,1276053525
+13772,Neuwied,Neuwied,50.4286,7.4614,Germany,DE,DEU,Rheinland-Pfalz,minor,65137.0,1276935443
+13824,Dormagen,Dormagen,51.1,6.8167,Germany,DE,DEU,Nordrhein-Westfalen,,64553.0,1276688551
+13825,Plauen,Plauen,50.4833,12.1167,Germany,DE,DEU,Sachsen,minor,64660.0,1276134198
+13832,Rosenheim,Rosenheim,47.85,12.1333,Germany,DE,DEU,Bayern,minor,63508.0,1276301675
+13859,Neubrandenburg,Neubrandenburg,53.5569,13.2611,Germany,DE,DEU,Mecklenburg-Vorpommern,minor,64086.0,1276954105
+13884,Grevenbroich,Grevenbroich,51.0883,6.5875,Germany,DE,DEU,Nordrhein-Westfalen,,63922.0,1276215861
+13961,Herten,Herten,51.6,7.1333,Germany,DE,DEU,Nordrhein-Westfalen,,61910.0,1276440470
+14069,Bergheim,Bergheim,50.9667,6.65,Germany,DE,DEU,Nordrhein-Westfalen,minor,61807.0,1276980188
+14072,Friedrichshafen,Friedrichshafen,47.65,9.4833,Germany,DE,DEU,Baden-Württemberg,,61561.0,1276002705
+14132,Schwäbisch Gmünd,Schwabisch Gmund,48.8,9.8,Germany,DE,DEU,Baden-Württemberg,,61333.0,1276897251
+14155,Offenburg,Offenburg,48.4667,7.9333,Germany,DE,DEU,Baden-Württemberg,minor,60857.0,1276214401
+14164,Garbsen,Garbsen,52.4183,9.5981,Germany,DE,DEU,Niedersachsen,,60754.0,1276318243
+14176,Hürth,Hurth,50.8775,6.8761,Germany,DE,DEU,Nordrhein-Westfalen,,60189.0,1276025332
+14185,Wesel,Wesel,51.6586,6.6178,Germany,DE,DEU,Nordrhein-Westfalen,minor,60688.0,1276261527
+14233,Stralsund,Stralsund,54.3092,13.0819,Germany,DE,DEU,Mecklenburg-Vorpommern,minor,59205.0,1276640152
+14239,Langenfeld,Langenfeld,51.1167,6.95,Germany,DE,DEU,Nordrhein-Westfalen,,59223.0,1276016003
+14251,Neu-Ulm,Neu-Ulm,48.3833,10.0,Germany,DE,DEU,Bayern,minor,59814.0,1276071813
+14253,Greifswald,Greifswald,54.0833,13.3833,Germany,DE,DEU,Mecklenburg-Vorpommern,minor,59382.0,1276867765
+14359,Unna,Unna,51.5347,7.6889,Germany,DE,DEU,Nordrhein-Westfalen,minor,58911.0,1276028114
+14402,Euskirchen,Euskirchen,50.6597,6.7917,Germany,DE,DEU,Nordrhein-Westfalen,minor,58754.0,1276782162
+14422,Göppingen,Goppingen,48.7025,9.6528,Germany,DE,DEU,Baden-Württemberg,minor,58061.0,1276730715
+14529,Hameln,Hameln,52.1,9.3667,Germany,DE,DEU,Niedersachsen,minor,57510.0,1276101153
+14562,Meerbusch,Meerbusch,51.2667,6.6667,Germany,DE,DEU,Nordrhein-Westfalen,,56855.0,1276882223
+14596,Görlitz,Gorlitz,51.1528,14.9872,Germany,DE,DEU,Sachsen,minor,56563.0,1276000121
+14598,Frankfurt (Oder),Frankfurt (Oder),52.3419,14.5517,Germany,DE,DEU,Brandenburg,minor,57015.0,1276397323
+14601,Sankt Augustin,Sankt Augustin,50.77,7.1867,Germany,DE,DEU,Nordrhein-Westfalen,,55767.0,1276196312
+14606,Stolberg,Stolberg,50.7667,6.2333,Germany,DE,DEU,Nordrhein-Westfalen,,56792.0,1276202704
+14632,Eschweiler,Eschweiler,50.8167,6.2833,Germany,DE,DEU,Nordrhein-Westfalen,,56385.0,1276835632
+14645,Langenhagen,Langenhagen,52.4394,9.74,Germany,DE,DEU,Niedersachsen,,56288.0,1276031765
+14671,Waiblingen,Waiblingen,48.8303,9.3169,Germany,DE,DEU,Baden-Württemberg,minor,55526.0,1276678986
+14766,Baden-Baden,Baden-Baden,48.7628,8.2408,Germany,DE,DEU,Baden-Württemberg,minor,55527.0,1276150269
+14768,Lingen,Lingen,52.5231,7.3231,Germany,DE,DEU,Niedersachsen,,55599.0,1276978218
+14817,Pulheim,Pulheim,51.0,6.8,Germany,DE,DEU,Nordrhein-Westfalen,,54805.0,1276728926
+14821,Schweinfurt,Schweinfurt,50.05,10.2333,Germany,DE,DEU,Bayern,,54032.0,1276316912
+14851,Hattingen,Hattingen,51.3992,7.1858,Germany,DE,DEU,Nordrhein-Westfalen,,54562.0,1276698647
+14852,Bad Homburg,Bad Homburg,50.2167,8.6,Germany,DE,DEU,Hessen,minor,54248.0,1276019348
+14927,Bad Salzuflen,Bad Salzuflen,52.0833,8.7467,Germany,DE,DEU,Nordrhein-Westfalen,,54127.0,1276526163
+14944,Nordhorn,Nordhorn,52.4319,7.0678,Germany,DE,DEU,Niedersachsen,minor,54162.0,1276078036
+15017,Neustadt,Neustadt,49.35,8.15,Germany,DE,DEU,Rheinland-Pfalz,minor,53491.0,1276053769
+15034,Passau,Passau,48.5744,13.4647,Germany,DE,DEU,Bayern,minor,53093.0,1276123699
+15058,Wetzlar,Wetzlar,50.5667,8.5,Germany,DE,DEU,Hessen,minor,52969.0,1276020868
+15062,Frechen,Frechen,50.9167,6.8167,Germany,DE,DEU,Nordrhein-Westfalen,,52473.0,1276255319
+15131,Ahlen,Ahlen,51.7633,7.8911,Germany,DE,DEU,Nordrhein-Westfalen,,52627.0,1276843072
+15134,Kleve,Kleve,51.79,6.14,Germany,DE,DEU,Nordrhein-Westfalen,minor,52470.0,1276674243
+15160,Wolfenbüttel,Wolfenbuttel,52.1622,10.5369,Germany,DE,DEU,Niedersachsen,minor,52174.0,1276388010
+15192,Bad Kreuznach,Bad Kreuznach,49.85,7.8667,Germany,DE,DEU,Rheinland-Pfalz,minor,51695.0,1276733459
+15222,Ibbenbüren,Ibbenburen,52.2778,7.7167,Germany,DE,DEU,Nordrhein-Westfalen,,51904.0,1276476330
+15299,Böblingen,Boblingen,48.6856,9.0153,Germany,DE,DEU,Baden-Württemberg,minor,50470.0,1276001231
+15301,Speyer,Speyer,49.3194,8.4311,Germany,DE,DEU,Rheinland-Pfalz,minor,50565.0,1276684984
+15309,Gummersbach,Gummersbach,51.0333,7.5667,Germany,DE,DEU,Nordrhein-Westfalen,minor,51126.0,1276576027
+15342,Ravensburg,Ravensburg,47.7831,9.6114,Germany,DE,DEU,Baden-Württemberg,minor,50928.0,1276088263
+15355,Willich,Willich,51.2631,6.5492,Germany,DE,DEU,Nordrhein-Westfalen,,50592.0,1276849706
+15361,Rastatt,Rastatt,48.85,8.2,Germany,DE,DEU,Baden-Württemberg,minor,50441.0,1276684629
+15395,Goslar,Goslar,51.9072,10.43,Germany,DE,DEU,Niedersachsen,minor,50753.0,1276608610
+15421,Peine,Peine,52.3203,10.2336,Germany,DE,DEU,Niedersachsen,minor,50461.0,1276331439
+15466,Lörrach,Lorrach,47.6167,7.6667,Germany,DE,DEU,Baden-Württemberg,minor,49347.0,1276104619
+15491,Emden,Emden,53.3669,7.2061,Germany,DE,DEU,Niedersachsen,minor,49913.0,1276309938
+15509,Erftstadt,Erftstadt,50.8167,6.7667,Germany,DE,DEU,Nordrhein-Westfalen,,49801.0,1276479094
+15556,Heidenheim,Heidenheim,48.6761,10.1544,Germany,DE,DEU,Baden-Württemberg,minor,49526.0,1276168895
+15562,Leonberg,Leonberg,48.8014,9.0131,Germany,DE,DEU,Baden-Württemberg,,48931.0,1276002040
+15570,Frankenthal,Frankenthal,49.5333,8.35,Germany,DE,DEU,Rheinland-Pfalz,minor,48773.0,1276888667
+15578,Bergkamen,Bergkamen,51.6167,7.6333,Germany,DE,DEU,Nordrhein-Westfalen,,48725.0,1276603807
+15601,Gronau,Gronau,52.2125,7.0417,Germany,DE,DEU,Nordrhein-Westfalen,,49031.0,1276262054
+15611,Bad Oeynhausen,Bad Oeynhausen,52.2,8.8,Germany,DE,DEU,Nordrhein-Westfalen,,48803.0,1276503412
+15658,Rheda-Wiedenbrück,Rheda-Wiedenbruck,51.8417,8.3,Germany,DE,DEU,Nordrhein-Westfalen,,48714.0,1276045371
+15672,Freising,Freising,48.4028,11.7489,Germany,DE,DEU,Bayern,minor,48634.0,1276519005
+15673,Alsdorf,Alsdorf,50.8833,6.1667,Germany,DE,DEU,Nordrhein-Westfalen,,47678.0,1276261156
+15684,Dachau,Dachau,48.2603,11.4342,Germany,DE,DEU,Bayern,minor,47738.0,1276549079
+15699,Bornheim,Bornheim,50.7592,7.005,Germany,DE,DEU,Nordrhein-Westfalen,,48435.0,1276585020
+15740,Cuxhaven,Cuxhaven,53.8611,8.6944,Germany,DE,DEU,Niedersachsen,minor,48356.0,1276511789
+15755,Straubing,Straubing,48.8833,12.5667,Germany,DE,DEU,Bayern,minor,47854.0,1276278805
+15771,Soest,Soest,51.5711,8.1092,Germany,DE,DEU,Nordrhein-Westfalen,minor,47929.0,1276851034
+15844,Stade,Stade,53.6008,9.4764,Germany,DE,DEU,Niedersachsen,minor,47579.0,1276472720
+15873,Hennef,Hennef,50.7833,7.2833,Germany,DE,DEU,Nordrhein-Westfalen,,47400.0,1276962178
+15882,Herzogenrath,Herzogenrath,50.8667,6.1,Germany,DE,DEU,Nordrhein-Westfalen,,46402.0,1276873875
+15893,Oberursel,Oberursel,50.2033,8.5769,Germany,DE,DEU,Hessen,,46660.0,1276288354
+15920,Landau,Landau,49.2,8.1167,Germany,DE,DEU,Rheinland-Pfalz,minor,46919.0,1276000837
+15955,Fellbach,Fellbach,48.8086,9.2758,Germany,DE,DEU,Baden-Württemberg,,45671.0,1276083210
+15976,Schwerte,Schwerte,51.4458,7.5653,Germany,DE,DEU,Nordrhein-Westfalen,,46340.0,1276720376
+15979,Dülmen,Dulmen,51.8308,7.2783,Germany,DE,DEU,Nordrhein-Westfalen,,46877.0,1276703649
+15988,Neunkirchen,Neunkirchen,49.35,7.1667,Germany,DE,DEU,Saarland,minor,46469.0,1276274217
+16004,Filderstadt,Filderstadt,48.6803,9.2183,Germany,DE,DEU,Baden-Württemberg,,45814.0,1276952389
+16018,Melle,Melle,52.2044,8.3389,Germany,DE,DEU,Niedersachsen,,46732.0,1276489872
+16033,Oranienburg,Oranienburg,52.7544,13.2369,Germany,DE,DEU,Brandenburg,minor,46555.0,1276677137
+16052,Hof,Hof,50.3167,11.9167,Germany,DE,DEU,Bayern,minor,45930.0,1276561363
+16085,Rodgau,Rodgau,50.0167,8.8833,Germany,DE,DEU,Hessen,,45847.0,1276173536
+16110,Gotha,Gotha,50.9489,10.7183,Germany,DE,DEU,Thüringen,minor,45733.0,1276679639
+16129,Bünde,Bunde,52.2,8.6,Germany,DE,DEU,Nordrhein-Westfalen,,45521.0,1276719683
+16133,Kaufbeuren,Kaufbeuren,47.88,10.6225,Germany,DE,DEU,Bayern,minor,45118.0,1276496301
+16143,Wittenberg,Wittenberg,51.8671,12.6484,Germany,DE,DEU,Sachsen-Anhalt,minor,46008.0,1276533652
+16152,Bruchsal,Bruchsal,49.1333,8.6,Germany,DE,DEU,Baden-Württemberg,,45644.0,1276034362
+16160,Albstadt,Albstadt,48.2119,9.0239,Germany,DE,DEU,Baden-Württemberg,,45737.0,1276969750
+16167,Weinheim,Weinheim,49.55,8.6667,Germany,DE,DEU,Baden-Württemberg,,45284.0,1276001742
+16176,Erkrath,Erkrath,51.2239,6.9147,Germany,DE,DEU,Nordrhein-Westfalen,,44384.0,1276917229
+16225,Brühl,Bruhl,50.8333,6.9,Germany,DE,DEU,Nordrhein-Westfalen,,44397.0,1276307796
+16265,Memmingen,Memmingen,47.9878,10.1811,Germany,DE,DEU,Bayern,minor,44721.0,1276229376
+16279,Falkensee,Falkensee,52.5583,13.0917,Germany,DE,DEU,Brandenburg,,44280.0,1276126886
+16366,Neustadt am Rübenberge,Neustadt am Rubenberge,52.5,9.4667,Germany,DE,DEU,Niedersachsen,,44796.0,1276887904
+16382,Kaarst,Kaarst,51.2167,6.6167,Germany,DE,DEU,Nordrhein-Westfalen,,43661.0,1276322915
+16401,Lehrte,Lehrte,52.3667,9.9667,Germany,DE,DEU,Niedersachsen,,44369.0,1276716840
+16428,Bietigheim-Bissingen,Bietigheim-Bissingen,48.9667,9.1333,Germany,DE,DEU,Baden-Württemberg,,43146.0,1276916733
+16521,Kamen,Kamen,51.5917,7.6653,Germany,DE,DEU,Nordrhein-Westfalen,,42971.0,1276465116
+16553,Erkelenz,Erkelenz,51.0833,6.3167,Germany,DE,DEU,Nordrhein-Westfalen,,43492.0,1276067473
+16562,Wismar,Wismar,53.9,11.4667,Germany,DE,DEU,Mecklenburg-Vorpommern,minor,42785.0,1276660084
+16625,Siegburg,Siegburg,50.8014,7.2044,Germany,DE,DEU,Nordrhein-Westfalen,minor,41660.0,1276838674
+16632,Gifhorn,Gifhorn,52.4886,10.5464,Germany,DE,DEU,Niedersachsen,minor,42993.0,1276793894
+16643,Heinsberg,Heinsberg,51.0631,6.0964,Germany,DE,DEU,Nordrhein-Westfalen,minor,42888.0,1276000099
+16664,Germering,Germering,48.1333,11.3667,Germany,DE,DEU,Bayern,,41387.0,1276002965
+16666,Borken,Borken,51.8333,6.8667,Germany,DE,DEU,Nordrhein-Westfalen,minor,42974.0,1276778327
+16679,Laatzen,Laatzen,52.3167,9.8,Germany,DE,DEU,Niedersachsen,,41965.0,1276954154
+16707,Nettetal,Nettetal,51.3167,6.2833,Germany,DE,DEU,Nordrhein-Westfalen,,42508.0,1276049262
+16728,Dreieich,Dreieich,50.0,8.7,Germany,DE,DEU,Hessen,,42091.0,1276481123
+16744,Amberg,Amberg,49.4444,11.8483,Germany,DE,DEU,Bayern,minor,41994.0,1276551955
+16747,Eisenach,Eisenach,50.9761,10.3206,Germany,DE,DEU,Thüringen,minor,42370.0,1276000880
+16750,Aurich,Aurich,53.4714,7.4836,Germany,DE,DEU,Niedersachsen,minor,42544.0,1276424784
+16847,Seevetal,Seevetal,53.3833,10.0333,Germany,DE,DEU,Niedersachsen,,41931.0,1276709038
+16850,Homburg,Homburg,49.3167,7.3333,Germany,DE,DEU,Saarland,minor,41811.0,1276520056
+16858,Ansbach,Ansbach,49.3,10.5833,Germany,DE,DEU,Bayern,minor,41847.0,1276572551
+16872,Nordhausen,Nordhausen,51.505,10.7911,Germany,DE,DEU,Thüringen,minor,41791.0,1276946322
+16878,Schwabach,Schwabach,49.3292,11.0208,Germany,DE,DEU,Bayern,minor,41146.0,1276017987
+16895,Coburg,Coburg,50.2667,10.9667,Germany,DE,DEU,Bayern,minor,41249.0,1276428862
+16925,Kirchheim unter Teck,Kirchheim unter Teck,48.6483,9.4511,Germany,DE,DEU,Baden-Württemberg,,40954.0,1276389368
+16926,Nürtingen,Nurtingen,48.6333,9.3333,Germany,DE,DEU,Baden-Württemberg,,41093.0,1276408465
+16936,Wunstorf,Wunstorf,52.4275,9.4294,Germany,DE,DEU,Niedersachsen,,41594.0,1276079483
+16963,Eberswalde,Eberswalde,52.8333,13.8333,Germany,DE,DEU,Brandenburg,minor,41103.0,1276311453
+16974,Königswinter,Konigswinter,50.6736,7.1947,Germany,DE,DEU,Nordrhein-Westfalen,,41243.0,1276951419
+17037,Schwäbisch Hall,Schwabisch Hall,49.1122,9.7375,Germany,DE,DEU,Baden-Württemberg,minor,41141.0,1276556451
+17056,Leinfelden-Echterdingen,Leinfelden-Echterdingen,48.6928,9.1428,Germany,DE,DEU,Baden-Württemberg,,40100.0,1276447188
+17071,Hückelhoven,Huckelhoven,51.0608,6.2197,Germany,DE,DEU,Nordrhein-Westfalen,,40712.0,1276391695
+17079,Bensheim,Bensheim,49.6667,8.6167,Germany,DE,DEU,Hessen,,40629.0,1276256416
+17086,Freiberg,Freiberg,50.9119,13.3428,Germany,DE,DEU,Sachsen,minor,40461.0,1276914988
+17119,Ostfildern,Ostfildern,48.7333,9.25,Germany,DE,DEU,Baden-Württemberg,,39376.0,1276855000
+17120,Lemgo,Lemgo,52.0272,8.9117,Germany,DE,DEU,Nordrhein-Westfalen,,40696.0,1276164957
+17131,Pirmasens,Pirmasens,49.2,7.6,Germany,DE,DEU,Rheinland-Pfalz,minor,40403.0,1276000134
+17201,Neumarkt,Neumarkt,49.2833,11.4667,Germany,DE,DEU,Bayern,minor,40274.0,1276002746
+17211,Weißenfels,Weissenfels,51.2,11.9667,Germany,DE,DEU,Sachsen-Anhalt,,40409.0,1276292106
+17222,Buchholz in der Nordheide,Buchholz in der Nordheide,53.3167,9.8667,Germany,DE,DEU,Niedersachsen,,40164.0,1276859084
+17229,Buxtehude,Buxtehude,53.4769,9.7011,Germany,DE,DEU,Niedersachsen,,40150.0,1276767530
+17237,Löhne,Lohne,52.2,8.7,Germany,DE,DEU,Nordrhein-Westfalen,,39977.0,1276788847
+17258,Freital,Freital,51.0167,13.65,Germany,DE,DEU,Sachsen,,39577.0,1276672229
+17264,Halberstadt,Halberstadt,51.8958,11.0467,Germany,DE,DEU,Sachsen-Anhalt,minor,40256.0,1276900818
+17267,Maintal,Maintal,50.15,8.8333,Germany,DE,DEU,Hessen,,39298.0,1276616960
+17278,Hofheim,Hofheim,50.0833,8.45,Germany,DE,DEU,Hessen,minor,39766.0,1276364825
+17303,Schorndorf,Schorndorf,48.8,9.5333,Germany,DE,DEU,Baden-Württemberg,,39642.0,1276068626
+17358,Neu Isenburg,Neu Isenburg,50.05,8.7,Germany,DE,DEU,Hessen,,38532.0,1276467901
+17376,Ettlingen,Ettlingen,48.9333,8.4,Germany,DE,DEU,Baden-Württemberg,,39339.0,1276126657
+17383,Völklingen,Volklingen,49.25,6.8333,Germany,DE,DEU,Saarland,,39428.0,1276052749
+17392,Langen,Langen,49.9833,8.6667,Germany,DE,DEU,Hessen,,38651.0,1276365275
+17408,Ahaus,Ahaus,52.0667,7.0,Germany,DE,DEU,Nordrhein-Westfalen,,39658.0,1276411347
+17434,Würselen,Wurselen,50.8167,6.1333,Germany,DE,DEU,Nordrhein-Westfalen,,38712.0,1276620771
+17455,Niederkassel,Niederkassel,50.8167,7.0333,Germany,DE,DEU,Nordrhein-Westfalen,,38694.0,1276316077
+17460,Pirna,Pirna,50.9622,13.9403,Germany,DE,DEU,Sachsen,minor,39027.0,1276247543
+17465,Mettmann,Mettmann,51.25,6.9667,Germany,DE,DEU,Nordrhein-Westfalen,minor,38829.0,1276000749
+17499,Stendal,Stendal,52.6,11.85,Germany,DE,DEU,Sachsen-Anhalt,minor,39439.0,1276016814
+17572,Ilmenau,Ilmenau,50.6839,10.9194,Germany,DE,DEU,Thüringen,,39017.0,1276541405
+17606,Wesseling,Wesseling,50.8167,6.9667,Germany,DE,DEU,Nordrhein-Westfalen,,37519.0,1276392642
+17651,Bitterfeld,Bitterfeld,51.6167,12.3167,Germany,DE,DEU,Sachsen-Anhalt,,38475.0,1276169908
+17661,Bautzen,Bautzen,51.1814,14.4242,Germany,DE,DEU,Sachsen,minor,38261.0,1276088190
+17671,Fürstenfeldbruck,Furstenfeldbruck,48.1778,11.2556,Germany,DE,DEU,Bayern,minor,37677.0,1276347995
+17701,Königs Wusterhausen,Konigs Wusterhausen,52.2917,13.625,Germany,DE,DEU,Brandenburg,,38283.0,1276871907
+17745,Backnang,Backnang,48.9464,9.4306,Germany,DE,DEU,Baden-Württemberg,,37558.0,1276031423
+17760,Kamp-Lintfort,Kamp-Lintfort,51.5,6.5333,Germany,DE,DEU,Nordrhein-Westfalen,,37847.0,1276081102
+17814,Papenburg,Papenburg,53.0667,7.4,Germany,DE,DEU,Niedersachsen,,37885.0,1276460693
+17867,Greven,Greven,52.0917,7.6083,Germany,DE,DEU,Nordrhein-Westfalen,,37700.0,1276669554
+17890,Kehl,Kehl,48.5667,7.8167,Germany,DE,DEU,Baden-Württemberg,,37378.0,1276615908
+18004,Warendorf,Warendorf,51.9539,7.9933,Germany,DE,DEU,Nordrhein-Westfalen,minor,37226.0,1276005733
+18062,Suhl,Suhl,50.6106,10.6931,Germany,DE,DEU,Thüringen,minor,36955.0,1276059886
+18078,Erding,Erding,48.2833,11.9,Germany,DE,DEU,Bayern,minor,36469.0,1276458355
+18095,Tuttlingen,Tuttlingen,47.985,8.8233,Germany,DE,DEU,Baden-Württemberg,minor,36672.0,1276649477
+18100,Beckum,Beckum,51.755,8.0403,Germany,DE,DEU,Nordrhein-Westfalen,,36737.0,1276000534
+18179,Cloppenburg,Cloppenburg,52.85,8.05,Germany,DE,DEU,Niedersachsen,minor,36183.0,1276769960
+18192,Coesfeld,Coesfeld,51.95,7.1667,Germany,DE,DEU,Nordrhein-Westfalen,minor,36382.0,1276053897
+18212,Limburg,Limburg,50.3833,8.0667,Germany,DE,DEU,Hessen,minor,35783.0,1276188257
+18223,Voerde,Voerde,51.6,6.6833,Germany,DE,DEU,Nordrhein-Westfalen,,35889.0,1276242749
+18240,Emsdetten,Emsdetten,52.1728,7.5344,Germany,DE,DEU,Nordrhein-Westfalen,,36012.0,1276439566
+18249,Mühlhausen,Muhlhausen,51.2167,10.45,Germany,DE,DEU,Thüringen,minor,36200.0,1276181580
+18267,Sankt Ingbert,Sankt Ingbert,49.3,7.1167,Germany,DE,DEU,Saarland,,35714.0,1276174089
+18311,Bad Vilbel,Bad Vilbel,50.1781,8.7361,Germany,DE,DEU,Hessen,,34905.0,1276387851
+18324,Ingelheim,Ingelheim,49.9747,8.0564,Germany,DE,DEU,Rheinland-Pfalz,minor,35486.0,1276699130
+18352,Dietzenbach,Dietzenbach,50.0167,8.7833,Germany,DE,DEU,Hessen,,34517.0,1276741284
+18378,Porta Westfalica,Porta Westfalica,52.2167,8.9333,Germany,DE,DEU,Nordrhein-Westfalen,,35671.0,1276426167
+18387,Sinsheim,Sinsheim,49.25,8.8833,Germany,DE,DEU,Baden-Württemberg,,35707.0,1276820270
+18397,Winsen,Winsen,53.3667,10.2167,Germany,DE,DEU,Niedersachsen,minor,35630.0,1276491512
+18494,Mörfelden-Walldorf,Morfelden-Walldorf,50.0,8.5833,Germany,DE,DEU,Hessen,,34828.0,1276425407
+18497,Meppen,Meppen,52.6936,7.2928,Germany,DE,DEU,Niedersachsen,minor,35415.0,1276180771
+18508,Leer,Leer,53.2308,7.4528,Germany,DE,DEU,Niedersachsen,minor,35078.0,1276392695
+18541,Lage,Lage,51.9889,8.7944,Germany,DE,DEU,Nordrhein-Westfalen,,35047.0,1276243855
+18553,Radebeul,Radebeul,51.1,13.65,Germany,DE,DEU,Sachsen,,34151.0,1276277969
+18572,Datteln,Datteln,51.6539,7.3417,Germany,DE,DEU,Nordrhein-Westfalen,,34876.0,1276259793
+18588,Saarlouis,Saarlouis,49.3167,6.75,Germany,DE,DEU,Saarland,minor,34552.0,1276663502
+18626,Wermelskirchen,Wermelskirchen,51.15,7.2167,Germany,DE,DEU,Nordrhein-Westfalen,,34765.0,1276444512
+18639,Crailsheim,Crailsheim,49.1347,10.0706,Germany,DE,DEU,Baden-Württemberg,,34862.0,1276001596
+18645,Ahrensburg,Ahrensburg,53.6747,10.2411,Germany,DE,DEU,Schleswig-Holstein,,34201.0,1276744963
+18652,Wedel,Wedel,53.5833,9.7,Germany,DE,DEU,Schleswig-Holstein,,34151.0,1276016066
+18675,Kempen,Kempen,51.3658,6.4194,Germany,DE,DEU,Nordrhein-Westfalen,,34597.0,1276967592
+18683,Seelze,Seelze,52.3961,9.5981,Germany,DE,DEU,Niedersachsen,,34442.0,1276781689
+18705,Balingen,Balingen,48.2731,8.8506,Germany,DE,DEU,Baden-Württemberg,minor,34604.0,1276586382
+18716,Steinfurt,Steinfurt,52.1475,7.3442,Germany,DE,DEU,Nordrhein-Westfalen,minor,34645.0,1276842137
+18730,Deggendorf,Deggendorf,48.8333,12.9667,Germany,DE,DEU,Bayern,minor,34454.0,1276512590
+18732,Goch,Goch,51.6839,6.1619,Germany,DE,DEU,Nordrhein-Westfalen,,34593.0,1276890926
+18788,Merseburg,Merseburg,51.3544,11.9928,Germany,DE,DEU,Sachsen-Anhalt,minor,34080.0,1276735436
+18789,Zweibrücken,Zweibrucken,49.25,7.3667,Germany,DE,DEU,Rheinland-Pfalz,minor,34209.0,1276900149
+18800,Barsinghausen,Barsinghausen,52.3,9.4811,Germany,DE,DEU,Niedersachsen,,34327.0,1276183527
+18819,Hemer,Hemer,51.3833,7.7667,Germany,DE,DEU,Nordrhein-Westfalen,,34080.0,1276327126
+18867,Korschenbroich,Korschenbroich,51.1833,6.5167,Germany,DE,DEU,Nordrhein-Westfalen,,33786.0,1276206387
+18939,Viernheim,Viernheim,49.5417,8.5786,Germany,DE,DEU,Hessen,,34189.0,1276924320
+18942,Geldern,Geldern,51.5197,6.3325,Germany,DE,DEU,Nordrhein-Westfalen,,33836.0,1276273584
+18945,Biberach,Biberach,48.1,9.7833,Germany,DE,DEU,Baden-Württemberg,minor,33708.0,1276241010
+18981,Stuhr,Stuhr,53.0167,8.75,Germany,DE,DEU,Niedersachsen,,33678.0,1276158158
+19041,Uelzen,Uelzen,52.9647,10.5658,Germany,DE,DEU,Niedersachsen,minor,33629.0,1276042012
+19069,Bad Nauheim,Bad Nauheim,50.3667,8.75,Germany,DE,DEU,Hessen,,32777.0,1276664999
+19102,Schwedt (Oder),Schwedt (Oder),53.05,14.2667,Germany,DE,DEU,Brandenburg,,33525.0,1276552729
+19103,Vechta,Vechta,52.7306,8.2886,Germany,DE,DEU,Niedersachsen,minor,33309.0,1276147280
+19124,Rheinfelden (Baden),Rheinfelden (Baden),47.5611,7.7917,Germany,DE,DEU,Baden-Württemberg,,33074.0,1276547516
+19261,Forchheim,Forchheim,49.7197,11.0581,Germany,DE,DEU,Bayern,minor,32433.0,1276030665
+19274,Lampertheim,Lampertheim,49.6,8.4667,Germany,DE,DEU,Hessen,,32682.0,1276406891
+19305,Itzehoe,Itzehoe,53.925,9.5164,Germany,DE,DEU,Schleswig-Holstein,minor,31879.0,1276277285
+19315,Jülich,Julich,50.9222,6.3583,Germany,DE,DEU,Nordrhein-Westfalen,,32635.0,1276891190
+19332,Bernburg,Bernburg,51.8,11.7333,Germany,DE,DEU,Sachsen-Anhalt,minor,32674.0,1276331294
+19343,Wernigerode,Wernigerode,51.835,10.7853,Germany,DE,DEU,Sachsen-Anhalt,,32733.0,1276322228
+19363,Achim,Achim,53.0653,9.0342,Germany,DE,DEU,Niedersachsen,,32379.0,1276242263
+19391,Altenburg,Altenburg,50.985,12.4333,Germany,DE,DEU,Thüringen,minor,32074.0,1276224301
+19424,Naumburg,Naumburg,51.15,11.8167,Germany,DE,DEU,Sachsen-Anhalt,minor,32402.0,1276335227
+19444,Fürstenwalde,Furstenwalde,52.3667,14.0667,Germany,DE,DEU,Brandenburg,,32120.0,1276767308
+19467,Geesthacht,Geesthacht,53.4375,10.3675,Germany,DE,DEU,Schleswig-Holstein,,31539.0,1276117326
+19474,Delbrück,Delbruck,51.7667,8.5667,Germany,DE,DEU,Nordrhein-Westfalen,,32266.0,1276424035
+19499,Herrenberg,Herrenberg,48.5967,8.8708,Germany,DE,DEU,Baden-Württemberg,,31918.0,1276549799
+19501,Georgsmarienhütte,Georgsmarienhutte,52.2,8.0667,Germany,DE,DEU,Niedersachsen,,31827.0,1276001308
+19555,Bramsche,Bramsche,52.4,7.9833,Germany,DE,DEU,Niedersachsen,,32103.0,1276405075
+19564,Oer-Erkenschwick,Oer-Erkenschwick,51.6422,7.2508,Germany,DE,DEU,Nordrhein-Westfalen,,31442.0,1276269090
+19604,Radolfzell am Bodensee,Radolfzell am Bodensee,47.7333,8.9667,Germany,DE,DEU,Baden-Württemberg,,31582.0,1276934854
+19690,Hoyerswerda,Hoyerswerda,51.4333,14.25,Germany,DE,DEU,Sachsen,,31575.0,1276992982
+19706,Gevelsberg,Gevelsberg,51.3167,7.3333,Germany,DE,DEU,Nordrhein-Westfalen,,30695.0,1276634761
+19729,Ganderkesee,Ganderkesee,53.0358,8.5483,Germany,DE,DEU,Niedersachsen,,31578.0,1276035845
+19730,Weil am Rhein,Weil am Rhein,47.5947,7.6108,Germany,DE,DEU,Baden-Württemberg,,30251.0,1276439955
+19758,Haan,Haan,51.1667,7.0,Germany,DE,DEU,Nordrhein-Westfalen,,30484.0,1276168837
+19778,Weyhe,Weyhe,52.9936,8.8733,Germany,DE,DEU,Niedersachsen,,31162.0,1276749536
+19800,Kreuztal,Kreuztal,50.9667,7.9667,Germany,DE,DEU,Nordrhein-Westfalen,,31187.0,1276001601
+19841,Rheinberg,Rheinberg,51.5467,6.6006,Germany,DE,DEU,Nordrhein-Westfalen,,31097.0,1276286236
+19893,Burgdorf,Burgdorf,52.45,10.0083,Germany,DE,DEU,Niedersachsen,,31083.0,1276623419
+19956,Werl,Werl,51.55,7.92,Germany,DE,DEU,Nordrhein-Westfalen,,30772.0,1276291604
+19983,Neuruppin,Neuruppin,52.9331,12.8,Germany,DE,DEU,Brandenburg,minor,31002.0,1276820903
+19994,Schönebeck,Schonebeck,52.0167,11.75,Germany,DE,DEU,Sachsen-Anhalt,,30720.0,1276217785
+20035,Einbeck,Einbeck,51.8167,9.8667,Germany,DE,DEU,Niedersachsen,,30826.0,1276253461
+20048,Lohmar,Lohmar,50.8167,7.2167,Germany,DE,DEU,Nordrhein-Westfalen,,30452.0,1276535520
+20071,Unterschleißheim,Unterschleissheim,48.2833,11.5667,Germany,DE,DEU,Bayern,,28907.0,1276071648
+20073,Ennepetal,Ennepetal,51.2833,7.3333,Germany,DE,DEU,Nordrhein-Westfalen,,30306.0,1276394678
+20119,Andernach,Andernach,50.4397,7.4017,Germany,DE,DEU,Rheinland-Pfalz,,30126.0,1276142194
+20128,Taunusstein,Taunusstein,50.1333,8.15,Germany,DE,DEU,Hessen,,30221.0,1276571090
+20136,Osterholz-Scharmbeck,Osterholz-Scharmbeck,53.2167,8.8,Germany,DE,DEU,Niedersachsen,minor,30438.0,1276987274
+20179,Gaggenau,Gaggenau,48.8039,8.3194,Germany,DE,DEU,Baden-Württemberg,,30059.0,1276552610
+20183,Bad Hersfeld,Bad Hersfeld,50.8683,9.7075,Germany,DE,DEU,Hessen,minor,30101.0,1276923242
+20195,Walsrode,Walsrode,52.8667,9.5833,Germany,DE,DEU,Niedersachsen,,30370.0,1276472764
+20210,Friedberg,Friedberg,48.35,10.9833,Germany,DE,DEU,Bayern,,30056.0,1276408320
+20243,Bretten,Bretten,49.0364,8.7061,Germany,DE,DEU,Baden-Württemberg,,29927.0,1276638008
+20280,Friedberg,Friedberg,50.3333,8.75,Germany,DE,DEU,Hessen,minor,29674.0,1276800921
+20306,Rendsburg,Rendsburg,54.3,9.6667,Germany,DE,DEU,Schleswig-Holstein,minor,28977.0,1276159889
+20307,Neuburg,Neuburg,48.7333,11.1833,Germany,DE,DEU,Bayern,minor,29830.0,1276560116
+20372,Meschede,Meschede,51.35,8.2833,Germany,DE,DEU,Nordrhein-Westfalen,minor,29921.0,1276139753
+20373,Waltrop,Waltrop,51.6167,7.3833,Germany,DE,DEU,Nordrhein-Westfalen,,29429.0,1276333081
+20382,Werne an der Lippe,Werne an der Lippe,51.6667,7.6167,Germany,DE,DEU,Nordrhein-Westfalen,,29662.0,1276066567
+20383,Saalfeld,Saalfeld,50.65,11.3667,Germany,DE,DEU,Thüringen,minor,29457.0,1276907261
+20399,Merzig,Merzig,49.45,6.6167,Germany,DE,DEU,Saarland,minor,29745.0,1276524998
+20414,Kelkheim (Taunus),Kelkheim (Taunus),50.1378,8.4497,Germany,DE,DEU,Hessen,,29055.0,1276386467
+20429,Tönisvorst,Tonisvorst,51.3208,6.4931,Germany,DE,DEU,Nordrhein-Westfalen,,29306.0,1276126819
+20439,Schwelm,Schwelm,51.2667,7.2667,Germany,DE,DEU,Nordrhein-Westfalen,minor,28542.0,1276363762
+20449,Meißen,Meissen,51.1667,13.4833,Germany,DE,DEU,Sachsen,minor,28964.0,1276054483
+20470,Vaihingen an der Enz,Vaihingen an der Enz,48.9328,8.9564,Germany,DE,DEU,Baden-Württemberg,,29467.0,1276306973
+20479,Landsberg,Landsberg,48.0478,10.8989,Germany,DE,DEU,Bayern,minor,29344.0,1276208782
+20485,Rietberg,Rietberg,51.8,8.4333,Germany,DE,DEU,Nordrhein-Westfalen,,29564.0,1276651074
+20495,Hattersheim,Hattersheim,50.0722,8.4864,Germany,DE,DEU,Hessen,,28040.0,1276209175
+20558,Güstrow,Gustrow,53.7939,12.1764,Germany,DE,DEU,Mecklenburg-Vorpommern,minor,29241.0,1276582967
+20566,Oelde,Oelde,51.8333,8.15,Germany,DE,DEU,Nordrhein-Westfalen,,29326.0,1276826099
+20568,Riesa,Riesa,51.3081,13.2939,Germany,DE,DEU,Sachsen,,29113.0,1276381687
+20573,Königsbrunn,Konigsbrunn,48.2689,10.8908,Germany,DE,DEU,Bayern,,28076.0,1276917723
+20577,Winnenden,Winnenden,48.8764,9.3978,Germany,DE,DEU,Baden-Württemberg,,28569.0,1276828910
+20578,Bad Zwischenahn,Bad Zwischenahn,53.1836,8.0097,Germany,DE,DEU,Niedersachsen,,29351.0,1276503429
+20601,Schwandorf,Schwandorf,49.3283,12.11,Germany,DE,DEU,Bayern,minor,29254.0,1276268287
+20616,Rösrath,Rosrath,50.9,7.1833,Germany,DE,DEU,Nordrhein-Westfalen,,28712.0,1276492557
+20669,Northeim,Northeim,51.7067,10.0011,Germany,DE,DEU,Niedersachsen,minor,29107.0,1276938853
+20678,Blankenfelde,Blankenfelde,52.35,13.4,Germany,DE,DEU,Brandenburg,,28761.0,1276580790
+20680,Bühl,Buhl,48.6953,8.135,Germany,DE,DEU,Baden-Württemberg,,28889.0,1276639756
+20714,Reinbek,Reinbek,53.5089,10.2483,Germany,DE,DEU,Schleswig-Holstein,,28277.0,1276939131
+20736,Springe,Springe,52.2167,9.55,Germany,DE,DEU,Niedersachsen,,28951.0,1276257894
+20781,Emmendingen,Emmendingen,48.1214,7.8492,Germany,DE,DEU,Baden-Württemberg,minor,28207.0,1276708263
+20793,Höxter,Hoxter,51.7667,9.3667,Germany,DE,DEU,Nordrhein-Westfalen,minor,28824.0,1276004976
+20830,Henstedt-Ulzburg,Henstedt-Ulzburg,53.7833,10.0,Germany,DE,DEU,Schleswig-Holstein,,28182.0,1276986461
+20882,Leichlingen,Leichlingen,51.1167,7.0167,Germany,DE,DEU,Nordrhein-Westfalen,,28031.0,1276227302
+20894,Zeitz,Zeitz,51.0478,12.1383,Germany,DE,DEU,Sachsen-Anhalt,,27955.0,1276390204
+20902,Idar-Oberstein,Idar-Oberstein,49.7114,7.3131,Germany,DE,DEU,Rheinland-Pfalz,,28423.0,1276902522
+20915,Griesheim,Griesheim,49.8639,8.5639,Germany,DE,DEU,Hessen,,27435.0,1276867372
+20933,Olching,Olching,48.2,11.3167,Germany,DE,DEU,Bayern,,27741.0,1276458023
+20936,Geislingen an der Steige,Geislingen an der Steige,48.6244,9.8306,Germany,DE,DEU,Baden-Württemberg,,28290.0,1276183243
+20941,Teltow,Teltow,52.4022,13.2706,Germany,DE,DEU,Brandenburg,,27371.0,1276388501
+20946,Baunatal,Baunatal,51.2589,9.4183,Germany,DE,DEU,Hessen,,27906.0,1276339266
+20977,Wegberg,Wegberg,51.1417,6.2792,Germany,DE,DEU,Nordrhein-Westfalen,,28213.0,1276843809
+20979,Mechernich,Mechernich,50.6,6.65,Germany,DE,DEU,Nordrhein-Westfalen,,28327.0,1276281325
+21068,Baesweiler,Baesweiler,50.9,6.1833,Germany,DE,DEU,Nordrhein-Westfalen,,27351.0,1276109783
+21075,Leimen,Leimen,49.3481,8.6911,Germany,DE,DEU,Baden-Württemberg,,27016.0,1276081089
+21080,Grimma,Grimma,51.2386,12.7253,Germany,DE,DEU,Sachsen,,28181.0,1276049939
+21082,Wetter (Ruhr),Wetter (Ruhr),51.3881,7.395,Germany,DE,DEU,Nordrhein-Westfalen,,27441.0,1276406634
+21087,Kevelaer,Kevelaer,51.5833,6.25,Germany,DE,DEU,Nordrhein-Westfalen,,28021.0,1276753170
+21103,Bad Neuenahr-Ahrweiler,Bad Neuenahr-Ahrweiler,50.5447,7.1133,Germany,DE,DEU,Rheinland-Pfalz,minor,28251.0,1276768738
+21134,Geilenkirchen,Geilenkirchen,50.9653,6.1194,Germany,DE,DEU,Nordrhein-Westfalen,,27836.0,1276421191
+21243,Sundern,Sundern,51.3167,8.0,Germany,DE,DEU,Nordrhein-Westfalen,,27802.0,1276362137
+21261,Ludwigsfelde,Ludwigsfelde,52.2997,13.2667,Germany,DE,DEU,Brandenburg,,27658.0,1276940684
+21301,Arnstadt,Arnstadt,50.8342,10.9464,Germany,DE,DEU,Thüringen,minor,27330.0,1276728389
+21362,Lohne,Lohne,52.6667,8.2386,Germany,DE,DEU,Niedersachsen,,27387.0,1276514079
+21388,Wiesloch,Wiesloch,49.2942,8.6983,Germany,DE,DEU,Baden-Württemberg,,26758.0,1276473184
+21428,Neckarsulm,Neckarsulm,49.1917,9.2246,Germany,DE,DEU,Baden-Württemberg,,26492.0,1276644905
+21433,Overath,Overath,50.95,7.3,Germany,DE,DEU,Nordrhein-Westfalen,,27148.0,1276053339
+21445,Schloß Holte-Stukenbrock,Schloss Holte-Stukenbrock,51.8833,8.6167,Germany,DE,DEU,Nordrhein-Westfalen,,27120.0,1276497165
+21448,Strausberg,Strausberg,52.5833,13.8833,Germany,DE,DEU,Brandenburg,,27119.0,1276019110
+21475,Zirndorf,Zirndorf,49.45,10.95,Germany,DE,DEU,Bayern,,26534.0,1276906291
+21479,Rheinbach,Rheinbach,50.6333,6.95,Germany,DE,DEU,Nordrhein-Westfalen,,27063.0,1276000657
+21512,Aschersleben,Aschersleben,51.75,11.4667,Germany,DE,DEU,Sachsen-Anhalt,,27220.0,1276084397
+21517,Garmisch-Partenkirchen,Garmisch-Partenkirchen,47.5,11.0833,Germany,DE,DEU,Bayern,minor,27249.0,1276000934
+21530,Hennigsdorf,Hennigsdorf,52.6378,13.2036,Germany,DE,DEU,Brandenburg,,26515.0,1276509399
+21541,Heiligenhaus,Heiligenhaus,51.3167,6.9667,Germany,DE,DEU,Nordrhein-Westfalen,,26367.0,1276630818
+21604,Wangen im Allgäu,Wangen im Allgau,47.6858,9.8342,Germany,DE,DEU,Baden-Württemberg,,26956.0,1276638340
+21605,Hohen Neuendorf,Hohen Neuendorf,52.6667,13.2833,Germany,DE,DEU,Brandenburg,,26658.0,1276577032
+21663,Unterhaching,Unterhaching,48.0658,11.61,Germany,DE,DEU,Bayern,,25379.0,1276779846
+21670,Hamminkeln,Hamminkeln,51.7319,6.5908,Germany,DE,DEU,Nordrhein-Westfalen,,26900.0,1276465671
+21723,Lauf,Lauf,49.5103,11.2772,Germany,DE,DEU,Bayern,minor,26515.0,1276202337
+21747,Ehingen an der Donau,Ehingen an der Donau,48.2833,9.7236,Germany,DE,DEU,Baden-Württemberg,,26766.0,1276432627
+21753,Butzbach,Butzbach,50.4367,8.6622,Germany,DE,DEU,Hessen,,26660.0,1276386116
+21767,Heppenheim,Heppenheim,49.6431,8.6389,Germany,DE,DEU,Hessen,minor,26357.0,1276763901
+21792,Obertshausen,Obertshausen,50.0667,8.8333,Germany,DE,DEU,Hessen,,24968.0,1276455006
+21829,Pfaffenhofen,Pfaffenhofen,48.5333,11.5167,Germany,DE,DEU,Bayern,minor,26453.0,1276259181
+21833,Weiterstadt,Weiterstadt,49.9,8.6,Germany,DE,DEU,Hessen,,25975.0,1276959186
+21894,Mühlacker,Muhlacker,48.95,8.8394,Germany,DE,DEU,Baden-Württemberg,,26137.0,1276456440
+21914,Schleswig,Schleswig,54.5181,9.5703,Germany,DE,DEU,Schleswig-Holstein,minor,25510.0,1276884755
+21922,Groß-Gerau,Gross-Gerau,49.9192,8.485,Germany,DE,DEU,Hessen,minor,26068.0,1276722779
+21961,Nordenham,Nordenham,53.5,8.4667,Germany,DE,DEU,Niedersachsen,,26193.0,1276525140
+21977,Selm,Selm,51.6833,7.4833,Germany,DE,DEU,Nordrhein-Westfalen,,26011.0,1276238006
+21979,Bingen am Rhein,Bingen am Rhein,49.9667,7.9,Germany,DE,DEU,Rheinland-Pfalz,,25757.0,1276879617
+21997,Sangerhausen,Sangerhausen,51.4667,11.3,Germany,DE,DEU,Sachsen-Anhalt,minor,26297.0,1276588418
+22031,Bad Honnef am Rhein,Bad Honnef am Rhein,50.645,7.2269,Germany,DE,DEU,Nordrhein-Westfalen,,25816.0,1276512885
+22045,Lindau,Lindau,47.5458,9.6833,Germany,DE,DEU,Bayern,,25547.0,1276918139
+22052,Geretsried,Geretsried,47.8667,11.4667,Germany,DE,DEU,Bayern,,25275.0,1276737058
+22056,Friedrichsdorf,Friedrichsdorf,50.2556,8.6397,Germany,DE,DEU,Hessen,,25450.0,1276577829
+22089,Köthen,Kothen,51.75,11.9167,Germany,DE,DEU,Sachsen-Anhalt,minor,25911.0,1276148346
+22117,Kulmbach,Kulmbach,50.1,11.4333,Germany,DE,DEU,Bayern,minor,25915.0,1276728110
+22129,Achern,Achern,48.6333,8.0667,Germany,DE,DEU,Baden-Württemberg,,25776.0,1276045216
+22151,Helmstedt,Helmstedt,52.2281,11.0106,Germany,DE,DEU,Niedersachsen,minor,25728.0,1276360393
+22163,Sankt Wendel,Sankt Wendel,49.4667,7.1667,Germany,DE,DEU,Saarland,minor,25862.0,1276025539
+22168,Lübbecke,Lubbecke,52.3081,8.6231,Germany,DE,DEU,Nordrhein-Westfalen,,25674.0,1276934438
+22268,Roth,Roth,49.2461,11.0911,Germany,DE,DEU,Bayern,,25593.0,1276856142
+22270,Verl,Verl,51.8831,8.5167,Germany,DE,DEU,Nordrhein-Westfalen,,25498.0,1276182306
+22280,Harsewinkel,Harsewinkel,51.9667,8.2331,Germany,DE,DEU,Nordrhein-Westfalen,,25575.0,1276882516
+22316,Vaterstetten,Vaterstetten,48.105,11.7706,Germany,DE,DEU,Bayern,,25023.0,1276137898
+22325,Pfungstadt,Pfungstadt,49.8056,8.6044,Germany,DE,DEU,Hessen,,25151.0,1276568312
+22333,Rinteln,Rinteln,52.1906,9.0814,Germany,DE,DEU,Niedersachsen,,25484.0,1276137941
+22346,Ditzingen,Ditzingen,48.8264,9.0667,Germany,DE,DEU,Baden-Württemberg,,24883.0,1276272726
+22349,Lennestadt,Lennestadt,51.1236,8.0681,Germany,DE,DEU,Nordrhein-Westfalen,,25503.0,1276165009
+22377,Rottweil,Rottweil,48.1681,8.6247,Germany,DE,DEU,Baden-Württemberg,minor,25274.0,1276117708
+22385,Wiehl,Wiehl,50.95,7.5333,Germany,DE,DEU,Nordrhein-Westfalen,,25135.0,1276813101
+22392,Horb am Neckar,Horb am Neckar,48.4453,8.6911,Germany,DE,DEU,Baden-Württemberg,,25379.0,1276353248
+22404,Plettenberg,Plettenberg,51.2167,7.8833,Germany,DE,DEU,Nordrhein-Westfalen,,25318.0,1276414700
+22407,Delitzsch,Delitzsch,51.5264,12.3425,Germany,DE,DEU,Sachsen,,25276.0,1276928962
+22419,Rudolstadt,Rudolstadt,50.7169,11.3275,Germany,DE,DEU,Thüringen,,25115.0,1276466405
+22421,Staßfurt,Stassfurt,51.8667,11.5667,Germany,DE,DEU,Sachsen-Anhalt,,25385.0,1276438491
+22422,Idstein,Idstein,50.2206,8.2742,Germany,DE,DEU,Hessen,,25234.0,1276320507
+22437,Brilon,Brilon,51.3956,8.5678,Germany,DE,DEU,Nordrhein-Westfalen,,25417.0,1276723318
+22486,Markkleeberg,Markkleeberg,51.2778,12.3833,Germany,DE,DEU,Sachsen,,24664.0,1276805845
+22501,Öhringen,Ohringen,49.2,9.5,Germany,DE,DEU,Baden-Württemberg,,25049.0,1276641265
+22512,Meckenheim,Meckenheim,50.6333,7.0167,Germany,DE,DEU,Nordrhein-Westfalen,,24693.0,1276114705
+22561,Bad Oldesloe,Bad Oldesloe,53.8117,10.3742,Germany,DE,DEU,Schleswig-Holstein,minor,24841.0,1276683854
+22569,Norden,Norden,53.5967,7.2056,Germany,DE,DEU,Niedersachsen,,25060.0,1276766299
+22571,Salzkotten,Salzkotten,51.6708,8.6047,Germany,DE,DEU,Nordrhein-Westfalen,,25062.0,1276941056
+22575,Petershagen,Petershagen,52.3833,8.9667,Germany,DE,DEU,Nordrhein-Westfalen,,25168.0,1276300392
+22583,Sprockhövel,Sprockhovel,51.3667,7.25,Germany,DE,DEU,Nordrhein-Westfalen,,24747.0,1276006803
+22602,Zittau,Zittau,50.8961,14.8072,Germany,DE,DEU,Sachsen,,24858.0,1276061456
+22702,Waldkraiburg,Waldkraiburg,48.2167,12.4,Germany,DE,DEU,Bayern,,23957.0,1276784836
+22713,Espelkamp,Espelkamp,52.3772,8.6328,Germany,DE,DEU,Nordrhein-Westfalen,,24754.0,1276996942
+22735,Lüdinghausen,Ludinghausen,51.7667,7.4333,Germany,DE,DEU,Nordrhein-Westfalen,,24847.0,1276526583
+22753,Übach-Palenberg,Ubach-Palenberg,50.9197,6.1194,Germany,DE,DEU,Nordrhein-Westfalen,,24081.0,1276712019
+22756,Warstein,Warstein,51.45,8.35,Germany,DE,DEU,Nordrhein-Westfalen,,24842.0,1276854914
+22762,Ronnenberg,Ronnenberg,52.3194,9.6556,Germany,DE,DEU,Niedersachsen,,24347.0,1276210070
+22770,Olpe,Olpe,51.0167,7.8333,Germany,DE,DEU,Nordrhein-Westfalen,minor,24688.0,1276501027
+22782,Meiningen,Meiningen,50.55,10.4167,Germany,DE,DEU,Thüringen,minor,24538.0,1276941916
+22783,Schmallenberg,Schmallenberg,51.149,8.2845,Germany,DE,DEU,Nordrhein-Westfalen,,24869.0,1276002699
+22832,Bad Soden am Taunus,Bad Soden am Taunus,50.1333,8.5,Germany,DE,DEU,Hessen,,23036.0,1276847418
+22867,Isernhagen-Süd,Isernhagen-Sud,52.4342,9.8572,Germany,DE,DEU,Niedersachsen,,24409.0,1276610067
+22958,Hannoversch Münden,Hannoversch Munden,51.4167,9.65,Germany,DE,DEU,Niedersachsen,,24467.0,1276002967
+22984,Attendorn,Attendorn,51.1167,7.9,Germany,DE,DEU,Nordrhein-Westfalen,,24367.0,1276325506
+23018,Herzogenaurach,Herzogenaurach,49.57,10.8819,Germany,DE,DEU,Bayern,,24068.0,1276809658
+23027,Syke,Syke,52.9131,8.8269,Germany,DE,DEU,Niedersachsen,,24365.0,1276951328
+23040,Waldshut-Tiengen,Waldshut-Tiengen,47.6231,8.2144,Germany,DE,DEU,Baden-Württemberg,minor,24226.0,1276011078
+23057,Limbach-Oberfrohna,Limbach-Oberfrohna,50.8667,12.75,Germany,DE,DEU,Sachsen,,24029.0,1276772007
+23063,Spremberg,Spremberg,51.5717,14.3794,Germany,DE,DEU,Brandenburg,,24373.0,1276939967
+23083,Senftenberg,Senftenberg,51.5167,14.0167,Germany,DE,DEU,Brandenburg,minor,24275.0,1276241839
+23099,Bad Mergentheim,Bad Mergentheim,49.5,9.7667,Germany,DE,DEU,Baden-Württemberg,,24247.0,1276714498
+23121,Rathenow,Rathenow,52.6,12.3333,Germany,DE,DEU,Brandenburg,minor,24179.0,1276833446
+23122,Husum,Husum,54.4667,9.05,Germany,DE,DEU,Schleswig-Holstein,minor,23478.0,1276973778
+23173,Alfter,Alfter,50.7356,7.0092,Germany,DE,DEU,Nordrhein-Westfalen,,23622.0,1276256549
+23200,Haren,Haren,52.7667,7.2167,Germany,DE,DEU,Niedersachsen,,24137.0,1276278460
+23219,Varel,Varel,53.3969,8.1361,Germany,DE,DEU,Niedersachsen,,24001.0,1276834869
+23230,Kaltenkirchen,Kaltenkirchen,53.8397,9.9603,Germany,DE,DEU,Schleswig-Holstein,,23191.0,1276286164
+23246,Bedburg,Bedburg,51.0,6.5625,Germany,DE,DEU,Nordrhein-Westfalen,,23867.0,1276409548
+23252,Quedlinburg,Quedlinburg,51.7917,11.1472,Germany,DE,DEU,Sachsen-Anhalt,,23989.0,1276672547
+23261,Calw,Calw,48.7167,8.7333,Germany,DE,DEU,Baden-Württemberg,minor,23742.0,1276416126
+23280,Sonneberg,Sonneberg,50.35,11.1667,Germany,DE,DEU,Thüringen,minor,23830.0,1276304773
+23334,Döbeln,Dobeln,51.1194,13.1128,Germany,DE,DEU,Sachsen,,23720.0,1276060973
+23340,Sehnde,Sehnde,52.3161,9.9642,Germany,DE,DEU,Niedersachsen,,23769.0,1276201782
+23357,Freudenstadt,Freudenstadt,48.4633,8.4111,Germany,DE,DEU,Baden-Württemberg,minor,23704.0,1276092007
+23380,Jüchen,Juchen,51.1011,6.5017,Germany,DE,DEU,Nordrhein-Westfalen,,23611.0,1276318248
+23417,Starnberg,Starnberg,47.9972,11.3406,Germany,DE,DEU,Bayern,minor,23498.0,1276454637
+23467,Wandlitz,Wandlitz,52.75,13.4497,Germany,DE,DEU,Brandenburg,,23657.0,1276059066
+23482,Mosbach,Mosbach,49.3522,9.1467,Germany,DE,DEU,Baden-Württemberg,minor,23398.0,1276659317
+23486,Korbach,Korbach,51.2833,8.8667,Germany,DE,DEU,Hessen,minor,23581.0,1276822678
+23507,Herdecke,Herdecke,51.4,7.4333,Germany,DE,DEU,Nordrhein-Westfalen,,22733.0,1276078079
+23512,Eisenhüttenstadt,Eisenhuttenstadt,52.145,14.6728,Germany,DE,DEU,Brandenburg,,23373.0,1276902561
+23513,Gelnhausen,Gelnhausen,50.2,9.1667,Germany,DE,DEU,Hessen,,23220.0,1276351264
+23516,Salzwedel,Salzwedel,52.85,11.15,Germany,DE,DEU,Sachsen-Anhalt,minor,23655.0,1276222011
+23558,Dillenburg,Dillenburg,50.7333,8.2833,Germany,DE,DEU,Hessen,,23365.0,1276583007
+23560,Leutkirch im Allgäu,Leutkirch im Allgau,47.8256,10.0222,Germany,DE,DEU,Baden-Württemberg,,23509.0,1276589635
+23590,Westerstede,Westerstede,53.25,7.9167,Germany,DE,DEU,Niedersachsen,minor,23452.0,1276738053
+23595,Neusäß,Neusass,48.4,10.8333,Germany,DE,DEU,Bayern,,22676.0,1276057547
+23604,Wallenhorst,Wallenhorst,52.35,8.0167,Germany,DE,DEU,Niedersachsen,,23081.0,1276580914
+23607,Bad Salzungen,Bad Salzungen,50.8117,10.2333,Germany,DE,DEU,Thüringen,minor,22976.0,1276249222
+23639,Eschborn,Eschborn,50.1436,8.57,Germany,DE,DEU,Hessen,,21734.0,1276712049
+23640,Senden,Senden,48.3167,10.0667,Germany,DE,DEU,Bayern,,22625.0,1276555386
+23643,Gersthofen,Gersthofen,48.4167,10.8667,Germany,DE,DEU,Bayern,,22847.0,1276965949
+23663,Haar,Haar,48.1,11.7333,Germany,DE,DEU,Bayern,,21797.0,1276621025
+23727,Karben,Karben,50.2322,8.7681,Germany,DE,DEU,Hessen,,22843.0,1276723734
+23766,Netphen,Netphen,50.9147,8.1,Germany,DE,DEU,Nordrhein-Westfalen,,23130.0,1276020652
+23789,Puchheim,Puchheim,48.15,11.35,Germany,DE,DEU,Bayern,,21531.0,1276452600
+23794,Karlsfeld,Karlsfeld,48.2167,11.4667,Germany,DE,DEU,Bayern,,21853.0,1276796218
+23825,Warburg,Warburg,51.5,9.1697,Germany,DE,DEU,Nordrhein-Westfalen,,23079.0,1276612246
+23879,Weilheim,Weilheim,47.8333,11.15,Germany,DE,DEU,Bayern,minor,22703.0,1276001381
+23911,Überlingen,Uberlingen,47.7667,9.165,Germany,DE,DEU,Baden-Württemberg,,22684.0,1276778071
+23928,Rastede,Rastede,53.25,8.2,Germany,DE,DEU,Niedersachsen,,22874.0,1276294384
+23958,Büdingen,Budingen,50.2908,9.1125,Germany,DE,DEU,Hessen,,22831.0,1276951058
+23978,Nagold,Nagold,48.5519,8.7256,Germany,DE,DEU,Baden-Württemberg,,22635.0,1276622142
+23996,Laupheim,Laupheim,48.2289,9.8797,Germany,DE,DEU,Baden-Württemberg,,22595.0,1276003982
+24008,Edewecht,Edewecht,53.1258,7.9825,Germany,DE,DEU,Niedersachsen,,22748.0,1276458945
+24010,Wertheim,Wertheim,49.75,9.5167,Germany,DE,DEU,Baden-Württemberg,,22780.0,1276150823
+24012,Bad Kissingen,Bad Kissingen,50.2,10.0667,Germany,DE,DEU,Bayern,minor,22619.0,1276216676
+24024,Vreden,Vreden,52.0333,6.8333,Germany,DE,DEU,Nordrhein-Westfalen,,22758.0,1276296218
+24036,Eckernförde,Eckernforde,54.4742,9.8378,Germany,DE,DEU,Schleswig-Holstein,,21902.0,1276177935
+24039,Kitzingen,Kitzingen,49.7333,10.1667,Germany,DE,DEU,Bayern,minor,22429.0,1276000007
+24052,Lengerich,Lengerich,52.175,7.8667,Germany,DE,DEU,Nordrhein-Westfalen,,22641.0,1276617854
+24062,Glauchau,Glauchau,50.8233,12.5444,Germany,DE,DEU,Sachsen,,22440.0,1276610130
+24159,Donaueschingen,Donaueschingen,47.9531,8.5033,Germany,DE,DEU,Baden-Württemberg,,22526.0,1276107502
+24170,Metzingen,Metzingen,48.5367,9.2858,Germany,DE,DEU,Baden-Württemberg,,22084.0,1276043043
+24178,Apolda,Apolda,51.0167,11.5167,Germany,DE,DEU,Thüringen,minor,22232.0,1276857102
+24181,Friesoythe,Friesoythe,53.0206,7.8586,Germany,DE,DEU,Niedersachsen,,22612.0,1276189033
+24225,Eislingen,Eislingen,48.6933,9.7067,Germany,DE,DEU,Baden-Württemberg,,21329.0,1276267974
+24237,Stadthagen,Stadthagen,52.3247,9.2069,Germany,DE,DEU,Niedersachsen,minor,22247.0,1276512771
+24240,Burg,Burg,52.2725,11.855,Germany,DE,DEU,Sachsen-Anhalt,minor,22478.0,1276295040
+24241,Flörsheim,Florsheim,50.0167,8.4333,Germany,DE,DEU,Hessen,,21671.0,1276463362
+24290,Heide,Heide,54.1961,9.0933,Germany,DE,DEU,Schleswig-Holstein,minor,21852.0,1276473220
+24295,Quickborn,Quickborn,53.7333,9.8972,Germany,DE,DEU,Schleswig-Holstein,,22015.0,1276737039
+24299,Radevormwald,Radevormwald,51.2,7.35,Germany,DE,DEU,Nordrhein-Westfalen,,22107.0,1276941483
+24341,Gardelegen,Gardelegen,52.5264,11.3925,Germany,DE,DEU,Sachsen-Anhalt,,22402.0,1276557570
+24348,Schwetzingen,Schwetzingen,49.3833,8.5667,Germany,DE,DEU,Baden-Württemberg,,21435.0,1276516691
+24363,Hockenheim,Hockenheim,49.3181,8.5472,Germany,DE,DEU,Baden-Württemberg,,21779.0,1276940967
+24401,Waldkirch,Waldkirch,48.1,7.9667,Germany,DE,DEU,Baden-Württemberg,,21899.0,1276926019
+24461,Ilsede,Ilsede,52.2667,10.1833,Germany,DE,DEU,Niedersachsen,,21975.0,1276410827
+24464,Bad Harzburg,Bad Harzburg,51.8811,10.5622,Germany,DE,DEU,Niedersachsen,,21945.0,1276192309
+24487,Eppingen,Eppingen,49.1333,8.9167,Germany,DE,DEU,Baden-Württemberg,,22001.0,1276844300
+24524,Bad Rappenau,Bad Rappenau,49.2333,9.1,Germany,DE,DEU,Baden-Württemberg,,21876.0,1276726877
+24554,Neu Wulmstorf,Neu Wulmstorf,53.4628,9.7956,Germany,DE,DEU,Niedersachsen,,21748.0,1276059362
+24595,Versmold,Versmold,52.0436,8.15,Germany,DE,DEU,Nordrhein-Westfalen,,21829.0,1276482608
+24601,Elsdorf,Elsdorf,50.9333,6.5667,Germany,DE,DEU,Nordrhein-Westfalen,,21745.0,1276581538
+24612,Sonthofen,Sonthofen,47.5158,10.2811,Germany,DE,DEU,Bayern,minor,21589.0,1276823857
+24618,Seligenstadt,Seligenstadt,50.0333,8.9667,Germany,DE,DEU,Hessen,,21345.0,1276356108
+24662,Xanten,Xanten,51.6622,6.4539,Germany,DE,DEU,Nordrhein-Westfalen,,21690.0,1276917094
+24672,Mühldorf,Muhldorf,48.2456,12.5228,Germany,DE,DEU,Bayern,minor,21254.0,1276623949
+24694,Halle,Halle,52.0667,8.3667,Germany,DE,DEU,Nordrhein-Westfalen,,21640.0,1276770255
+24703,Osterode,Osterode,51.7286,10.2522,Germany,DE,DEU,Niedersachsen,minor,21731.0,1276593815
+24817,Aichach,Aichach,48.45,11.1333,Germany,DE,DEU,Bayern,minor,21515.0,1276090074
+24826,Germersheim,Germersheim,49.2167,8.3667,Germany,DE,DEU,Rheinland-Pfalz,minor,20779.0,1276963829
+24833,Stadtallendorf,Stadtallendorf,50.8333,9.0167,Germany,DE,DEU,Hessen,,21456.0,1276032217
+24852,Zerbst,Zerbst,51.9681,12.0844,Germany,DE,DEU,Sachsen-Anhalt,,21657.0,1276007718
+24867,Wülfrath,Wulfrath,51.2833,7.0333,Germany,DE,DEU,Nordrhein-Westfalen,,21035.0,1276377418
+24871,Büren,Buren,51.55,8.5667,Germany,DE,DEU,Nordrhein-Westfalen,,21556.0,1276905250
+24877,Waghäusel,Waghausel,49.25,8.5167,Germany,DE,DEU,Baden-Württemberg,,21178.0,1276002094
+24897,Lindlar,Lindlar,51.0167,7.3833,Germany,DE,DEU,Nordrhein-Westfalen,,21396.0,1276176624
+24906,Geseke,Geseke,51.65,8.5167,Germany,DE,DEU,Nordrhein-Westfalen,,21411.0,1276815446
+24914,Bad Krozingen,Bad Krozingen,47.9167,7.7,Germany,DE,DEU,Baden-Württemberg,,21029.0,1276964772
+24917,Sondershausen,Sondershausen,51.3667,10.8667,Germany,DE,DEU,Thüringen,minor,21513.0,1276468586
+24918,Günzburg,Gunzburg,48.4527,10.2713,Germany,DE,DEU,Bayern,minor,21233.0,1276986738
+25021,Schramberg,Schramberg,48.2269,8.3842,Germany,DE,DEU,Baden-Württemberg,,21189.0,1276492911
+25039,Traunreut,Traunreut,47.9667,12.5833,Germany,DE,DEU,Bayern,,20977.0,1276958674
+25050,Soltau,Soltau,52.9833,9.8333,Germany,DE,DEU,Niedersachsen,,21317.0,1276678434
+25066,Groß-Umstadt,Gross-Umstadt,49.8667,8.9333,Germany,DE,DEU,Hessen,,21162.0,1276232744
+25091,Bad Schwartau,Bad Schwartau,53.9194,10.6975,Germany,DE,DEU,Schleswig-Holstein,,20264.0,1276687859
+25100,Coswig,Coswig,51.1333,13.5833,Germany,DE,DEU,Sachsen,,20554.0,1276791212
+25102,Schenefeld,Schenefeld,53.6028,9.8233,Germany,DE,DEU,Schleswig-Holstein,,19402.0,1276791655
+25136,Traunstein,Traunstein,47.8667,12.6333,Germany,DE,DEU,Bayern,minor,20868.0,1276793310
+25137,Bruchköbel,Bruchkobel,50.1833,8.9167,Germany,DE,DEU,Hessen,,20602.0,1276199010
+25194,Gauting,Gauting,48.0678,11.3739,Germany,DE,DEU,Bayern,,20829.0,1276677644
+25215,Wipperfürth,Wipperfurth,51.1167,7.4,Germany,DE,DEU,Nordrhein-Westfalen,,21003.0,1276735297
+25240,Schifferstadt,Schifferstadt,49.3833,8.3667,Germany,DE,DEU,Rheinland-Pfalz,,20403.0,1276776055
+25242,Fröndenberg,Frondenberg,51.4719,7.7658,Germany,DE,DEU,Nordrhein-Westfalen,,20766.0,1276071190
+25258,Werdau,Werdau,50.7333,12.3833,Germany,DE,DEU,Sachsen,,20793.0,1276717054
+25288,Steinhagen,Steinhagen,52.005,8.4147,Germany,DE,DEU,Nordrhein-Westfalen,,20698.0,1276279674
+25319,Reichenbach/Vogtland,Reichenbach/Vogtland,50.6167,12.3,Germany,DE,DEU,Sachsen,,20436.0,1276903490
+25320,Luckenwalde,Luckenwalde,52.0833,13.1667,Germany,DE,DEU,Brandenburg,minor,20586.0,1276376363
+25356,Enger,Enger,52.1333,8.5667,Germany,DE,DEU,Nordrhein-Westfalen,,20483.0,1276241559
+25359,Mössingen,Mossingen,48.4064,9.0575,Germany,DE,DEU,Baden-Württemberg,,20567.0,1276236369
+25361,Nördlingen,Nordlingen,48.8511,10.4883,Germany,DE,DEU,Bayern,,20674.0,1276160287
+25363,Nidderau,Nidderau,50.25,8.9,Germany,DE,DEU,Hessen,,20539.0,1276730067
+25388,Dillingen,Dillingen,49.35,6.7333,Germany,DE,DEU,Saarland,,20048.0,1276001038
+25398,Herborn,Herborn,50.6825,8.3061,Germany,DE,DEU,Hessen,,20603.0,1276002994
+25409,Gerlingen,Gerlingen,48.8,9.0653,Germany,DE,DEU,Baden-Württemberg,,19745.0,1276144443
+25413,Wildeshausen,Wildeshausen,52.9,8.4333,Germany,DE,DEU,Niedersachsen,,20667.0,1276599018
+25421,Schortens,Schortens,53.5333,7.95,Germany,DE,DEU,Niedersachsen,,20590.0,1276002315
+25456,Blieskastel,Blieskastel,49.2333,7.25,Germany,DE,DEU,Saarland,,20656.0,1276041906
+25461,Haßloch,Hassloch,49.35,8.25,Germany,DE,DEU,Rheinland-Pfalz,,20326.0,1276280419
+25468,Wachtberg,Wachtberg,50.6242,7.1322,Germany,DE,DEU,Nordrhein-Westfalen,,20414.0,1276189631
+25491,Zülpich,Zulpich,50.7,6.65,Germany,DE,DEU,Nordrhein-Westfalen,,20597.0,1276675318
+25511,Forst (Lausitz),Forst (Lausitz),51.7333,14.6333,Germany,DE,DEU,Brandenburg,minor,20618.0,1276307453
+25559,Stadtlohn,Stadtlohn,51.9925,6.915,Germany,DE,DEU,Nordrhein-Westfalen,,20458.0,1276897939
+25564,Meinerzhagen,Meinerzhagen,51.1167,7.6333,Germany,DE,DEU,Nordrhein-Westfalen,,20535.0,1276363054
+25577,Hörstel,Horstel,52.2972,7.5861,Germany,DE,DEU,Nordrhein-Westfalen,,20506.0,1276546954
+25589,Senden,Senden,51.8572,7.4828,Germany,DE,DEU,Nordrhein-Westfalen,,20495.0,1276271183
+25596,Duderstadt,Duderstadt,51.5125,10.2597,Germany,DE,DEU,Niedersachsen,,20466.0,1276392919
+25605,Neufahrn bei Freising,Neufahrn bei Freising,48.3159,11.6632,Germany,DE,DEU,Bayern,,20223.0,1276307498
+25614,Dingolfing,Dingolfing,48.6333,12.5,Germany,DE,DEU,Bayern,minor,20191.0,1276764455
+25640,Korntal-Münchingen,Korntal-Munchingen,48.8306,9.1214,Germany,DE,DEU,Baden-Württemberg,,19679.0,1276087969
+25642,Hiddenhausen,Hiddenhausen,52.1667,8.6167,Germany,DE,DEU,Nordrhein-Westfalen,,19790.0,1276748088
+25697,Schwanewede,Schwanewede,53.2333,8.6,Germany,DE,DEU,Niedersachsen,,20408.0,1276874322
+25723,Wittmund,Wittmund,53.575,7.7808,Germany,DE,DEU,Niedersachsen,minor,20433.0,1276497812
+25747,Bad Waldsee,Bad Waldsee,47.9211,9.7519,Germany,DE,DEU,Baden-Württemberg,,20308.0,1276818086
+25758,Uetze,Uetze,52.4661,10.2039,Germany,DE,DEU,Niedersachsen,,20333.0,1276620577
+25776,Annaberg-Buchholz,Annaberg-Buchholz,50.58,13.0022,Germany,DE,DEU,Sachsen,minor,19769.0,1276866777
+25851,Wilnsdorf,Wilnsdorf,50.8167,8.1,Germany,DE,DEU,Nordrhein-Westfalen,,20088.0,1276419924
+25861,Oberkirch,Oberkirch,48.5333,8.0833,Germany,DE,DEU,Baden-Württemberg,,20066.0,1276739886
+25871,Greiz,Greiz,50.6547,12.1997,Germany,DE,DEU,Thüringen,minor,20103.0,1276236041
+25876,Donauwörth,Donauworth,48.7,10.8,Germany,DE,DEU,Bayern,minor,20080.0,1276878391
+25901,Leinefelde,Leinefelde,51.3833,10.3333,Germany,DE,DEU,Thüringen,,20124.0,1276779963
+25907,Lichtenfels,Lichtenfels,50.1333,11.0333,Germany,DE,DEU,Bayern,minor,20133.0,1276573026
+25914,Neustrelitz,Neustrelitz,53.3647,13.0636,Germany,DE,DEU,Mecklenburg-Vorpommern,,20140.0,1276001058
+25945,Torgau,Torgau,51.5603,13.0056,Germany,DE,DEU,Sachsen,minor,20065.0,1276804920
+25953,Zossen,Zossen,52.2167,13.4497,Germany,DE,DEU,Brandenburg,,20130.0,1276905478
+25964,Holzminden,Holzminden,51.8297,9.4483,Germany,DE,DEU,Niedersachsen,minor,19998.0,1276491992
+25968,Schopfheim,Schopfheim,47.65,7.8167,Germany,DE,DEU,Baden-Württemberg,,19922.0,1276002233
+25982,Telgte,Telgte,51.9819,7.7856,Germany,DE,DEU,Nordrhein-Westfalen,,19982.0,1276981111
+25984,Giengen an der Brenz,Giengen an der Brenz,48.6217,10.245,Germany,DE,DEU,Baden-Württemberg,,19753.0,1276782990
+26010,Heusenstamm,Heusenstamm,50.05,8.8,Germany,DE,DEU,Hessen,,19160.0,1276666927
+26042,Kürten,Kurten,51.05,7.2667,Germany,DE,DEU,Nordrhein-Westfalen,,19832.0,1276494913
+26055,Uetersen,Uetersen,53.6872,9.6692,Germany,DE,DEU,Schleswig-Holstein,,18496.0,1276507212
+26066,Mölln,Molln,53.6269,10.6847,Germany,DE,DEU,Schleswig-Holstein,,19329.0,1276643502
+26087,Ochtrup,Ochtrup,52.2056,7.1903,Germany,DE,DEU,Nordrhein-Westfalen,,19893.0,1276195349
+26089,Glinde,Glinde,53.5406,10.2111,Germany,DE,DEU,Schleswig-Holstein,,18443.0,1276316044
+26159,Tettnang,Tettnang,47.6708,9.5875,Germany,DE,DEU,Baden-Württemberg,,19710.0,1276775320
+26160,Ennigerloh,Ennigerloh,51.8367,8.0256,Germany,DE,DEU,Nordrhein-Westfalen,,19829.0,1276421778
+26174,Wenden,Wenden,50.9667,7.8667,Germany,DE,DEU,Nordrhein-Westfalen,,19701.0,1276958292
+26187,Neviges,Neviges,51.3128,7.0869,Germany,DE,DEU,Nordrhein-Westfalen,,18937.0,1276164931
+26196,Blankenburg,Blankenburg,51.7953,10.9622,Germany,DE,DEU,Sachsen-Anhalt,,19817.0,1276635033
+26214,Waldbröl,Waldbrol,50.8789,7.615,Germany,DE,DEU,Nordrhein-Westfalen,,19618.0,1276170251
+26220,Schmalkalden,Schmalkalden,50.7167,10.45,Germany,DE,DEU,Thüringen,,19732.0,1276313755
+26222,Eschwege,Eschwege,51.1881,10.0528,Germany,DE,DEU,Hessen,minor,19606.0,1276348756
+26231,Nottuln,Nottuln,51.9278,7.3542,Germany,DE,DEU,Nordrhein-Westfalen,,19672.0,1276258837
+26256,Sarstedt,Sarstedt,52.2394,9.8606,Germany,DE,DEU,Niedersachsen,,19423.0,1276490791
+26302,Burghausen,Burghausen,48.1667,12.8333,Germany,DE,DEU,Bayern,,18862.0,1276305755
+26305,Sulzbach-Rosenberg,Sulzbach-Rosenberg,49.5,11.75,Germany,DE,DEU,Bayern,,19414.0,1276541212
+26314,Dillingen,Dillingen,48.5667,10.4667,Germany,DE,DEU,Bayern,minor,19538.0,1276506212
+26343,Moosburg,Moosburg,48.4667,11.9333,Germany,DE,DEU,Bayern,,19309.0,1276561909
+26345,Marsberg,Marsberg,51.45,8.8333,Germany,DE,DEU,Nordrhein-Westfalen,,19640.0,1276309670
+26353,Borna,Borna,51.1167,12.5,Germany,DE,DEU,Sachsen,,19425.0,1276020510
+26356,Wittlich,Wittlich,49.9869,6.8897,Germany,DE,DEU,Rheinland-Pfalz,minor,19345.0,1276069973
+26358,Oschersleben,Oschersleben,52.0167,11.25,Germany,DE,DEU,Sachsen-Anhalt,,19630.0,1276686337
+26391,Bad Tölz,Bad Tolz,47.7603,11.5567,Germany,DE,DEU,Bayern,minor,19061.0,1276892151
+26401,Gilching,Gilching,48.1103,11.3011,Germany,DE,DEU,Bayern,,19065.0,1276366284
+26403,Mayen,Mayen,50.3333,7.2167,Germany,DE,DEU,Rheinland-Pfalz,,19335.0,1276174509
+26420,Weil der Stadt,Weil der Stadt,48.7508,8.8706,Germany,DE,DEU,Baden-Württemberg,,19205.0,1276534554
+26440,Alzey,Alzey,49.7458,8.1153,Germany,DE,DEU,Rheinland-Pfalz,minor,19082.0,1276680173
+26456,Bückeburg,Buckeburg,52.2608,9.0492,Germany,DE,DEU,Niedersachsen,,19336.0,1276508515
+26459,Hechingen,Hechingen,48.3517,8.9633,Germany,DE,DEU,Baden-Württemberg,,19324.0,1276884131
+26469,Kolbermoor,Kolbermoor,47.85,12.0667,Germany,DE,DEU,Bayern,,18662.0,1276583234
+26474,Engelskirchen,Engelskirchen,50.9833,7.4167,Germany,DE,DEU,Nordrhein-Westfalen,,19293.0,1276315673
+26478,Bad Pyrmont,Bad Pyrmont,51.9867,9.2636,Germany,DE,DEU,Niedersachsen,,19285.0,1276800450
+26479,Bad Aibling,Bad Aibling,47.8667,12.0167,Germany,DE,DEU,Bayern,,19164.0,1276844408
+26481,Hemmingen,Hemmingen,52.3236,9.7256,Germany,DE,DEU,Niedersachsen,,18998.0,1276579217
+26490,Rhede,Rhede,51.8333,6.7006,Germany,DE,DEU,Nordrhein-Westfalen,,19336.0,1276000350
+26509,Haiger,Haiger,50.7422,8.2039,Germany,DE,DEU,Hessen,,19378.0,1276810840
+26531,Seesen,Seesen,51.8931,10.1783,Germany,DE,DEU,Niedersachsen,,19340.0,1276914120
+26534,Radeberg,Radeberg,51.1167,13.9167,Germany,DE,DEU,Sachsen,,18891.0,1276815602
+26535,Müllheim,Mullheim,47.8,7.6333,Germany,DE,DEU,Baden-Württemberg,,19188.0,1276925185
+26542,Bad Berleburg,Bad Berleburg,51.0497,8.4,Germany,DE,DEU,Nordrhein-Westfalen,,19446.0,1276128056
+26587,Vellmar,Vellmar,51.35,9.4667,Germany,DE,DEU,Hessen,,18166.0,1276293369
+26593,Schwalmtal,Schwalmtal,51.2225,6.2625,Germany,DE,DEU,Nordrhein-Westfalen,,19062.0,1276833199
+26641,Wassenberg,Wassenberg,51.1,6.15,Germany,DE,DEU,Nordrhein-Westfalen,,18952.0,1276956199
+26648,Halstenbek,Halstenbek,53.6334,9.8372,Germany,DE,DEU,Schleswig-Holstein,,17961.0,1276502053
+26663,Pfullingen,Pfullingen,48.4656,9.2261,Germany,DE,DEU,Baden-Württemberg,,18749.0,1276393885
+26666,Haldensleben,Haldensleben,52.2833,11.4167,Germany,DE,DEU,Sachsen-Anhalt,minor,19247.0,1276371853
+26671,Burscheid,Burscheid,51.1,7.1167,Germany,DE,DEU,Nordrhein-Westfalen,,18681.0,1276397307
+26675,Bergneustadt,Bergneustadt,51.0333,7.65,Germany,DE,DEU,Nordrhein-Westfalen,,18865.0,1276283829
+26716,Schkeuditz,Schkeuditz,51.4,12.2167,Germany,DE,DEU,Sachsen,,19075.0,1276228794
+26717,Kronberg,Kronberg,50.1833,8.5,Germany,DE,DEU,Hessen,,18322.0,1276558702
+26729,Lebach,Lebach,49.41,6.91,Germany,DE,DEU,Saarland,,19006.0,1276242576
+26741,Püttlingen,Puttlingen,49.2833,6.8833,Germany,DE,DEU,Saarland,,18510.0,1276328612
+26748,Sömmerda,Sommerda,51.1617,11.1169,Germany,DE,DEU,Thüringen,minor,19034.0,1276806984
+26761,Hochheim am Main,Hochheim am Main,50.0167,8.35,Germany,DE,DEU,Hessen,,18310.0,1276794905
+26789,Oberasbach,Oberasbach,49.4219,10.9583,Germany,DE,DEU,Bayern,,17749.0,1276883001
+26834,Bad Driburg,Bad Driburg,51.7333,9.0167,Germany,DE,DEU,Nordrhein-Westfalen,,19002.0,1276571920
+26943,Schneverdingen,Schneverdingen,53.1167,9.8,Germany,DE,DEU,Niedersachsen,,18964.0,1276752778
+26958,Renningen,Renningen,48.7661,8.9347,Germany,DE,DEU,Baden-Württemberg,,18435.0,1276122703
+26966,Eitorf,Eitorf,50.7697,7.4517,Germany,DE,DEU,Nordrhein-Westfalen,,18751.0,1276150855
+27005,Prenzlau,Prenzlau,53.3167,13.8667,Germany,DE,DEU,Brandenburg,minor,18849.0,1276456147
+27016,Marktoberdorf,Marktoberdorf,47.7667,10.6167,Germany,DE,DEU,Bayern,minor,18769.0,1276720955
+27049,Nauen,Nauen,52.6,12.8831,Germany,DE,DEU,Brandenburg,,18854.0,1276864648
+27076,Bad Reichenhall,Bad Reichenhall,47.7247,12.8769,Germany,DE,DEU,Bayern,minor,18456.0,1276059039
+27078,Hoppegarten,Hoppegarten,52.5167,13.6667,Germany,DE,DEU,Brandenburg,,18322.0,1276233204
+27089,Alfeld,Alfeld,51.9886,9.8269,Germany,DE,DEU,Niedersachsen,,18626.0,1276733070
+27123,Alzenau in Unterfranken,Alzenau in Unterfranken,50.0667,9.0667,Germany,DE,DEU,Bayern,,18542.0,1276942017
+27126,Taufkirchen,Taufkirchen,48.05,11.6167,Germany,DE,DEU,Bayern,,18035.0,1276946888
+27128,Crimmitschau,Crimmitschau,50.8181,12.3875,Germany,DE,DEU,Sachsen,,18545.0,1276188517
+27178,Bremervörde,Bremervorde,53.4833,9.1333,Germany,DE,DEU,Niedersachsen,,18666.0,1276000575
+27182,Weißenburg,Weissenburg,49.0306,10.9719,Germany,DE,DEU,Bayern,minor,18593.0,1276099657
+27205,Konz,Konz,49.7,6.5833,Germany,DE,DEU,Rheinland-Pfalz,,18348.0,1276863750
+27206,Bad Dürkheim,Bad Durkheim,49.4594,8.1681,Germany,DE,DEU,Rheinland-Pfalz,minor,18576.0,1276602357
+27223,Schönefeld,Schonefeld,52.3886,13.5048,Germany,DE,DEU,Brandenburg,,18499.0,1276663675
+27270,Vlotho,Vlotho,52.1667,8.8497,Germany,DE,DEU,Nordrhein-Westfalen,,18429.0,1276438597
+27286,Freilassing,Freilassing,47.8333,12.9667,Germany,DE,DEU,Bayern,,17472.0,1276282147
+27293,Bönen,Bonen,51.5986,7.7592,Germany,DE,DEU,Nordrhein-Westfalen,,18169.0,1276501741
+27340,Lahnstein,Lahnstein,50.3011,7.6056,Germany,DE,DEU,Rheinland-Pfalz,,18111.0,1276335770
+27351,Brand,Brand,50.7489,6.165,Germany,DE,DEU,Nordrhein-Westfalen,,17284.0,1276474228
+27402,Heusweiler,Heusweiler,49.3375,6.9301,Germany,DE,DEU,Saarland,,18094.0,1276589030
+27403,Langen,Langen,53.6116,8.6032,Germany,DE,DEU,Niedersachsen,,18395.0,1276787724
+27422,Rhaude,Rhaude,53.1667,7.55,Germany,DE,DEU,Niedersachsen,,18341.0,1276244739
+27471,Bad Segeberg,Bad Segeberg,53.9167,10.3167,Germany,DE,DEU,Schleswig-Holstein,minor,17529.0,1276181220
+27502,Heidenau,Heidenau,50.9833,13.8667,Germany,DE,DEU,Sachsen,,16898.0,1276588672
+27511,Wörth am Rhein,Worth am Rhein,49.0517,8.2603,Germany,DE,DEU,Rheinland-Pfalz,,18274.0,1276803392
+27514,Schwalmstadt,Schwalmstadt,50.9333,9.2167,Germany,DE,DEU,Hessen,,18195.0,1276496894
+27518,Schwarzenbek,Schwarzenbek,53.5042,10.4792,Germany,DE,DEU,Schleswig-Holstein,,16940.0,1276765796
+27529,Vechelde,Vechelde,52.2608,10.3719,Germany,DE,DEU,Niedersachsen,,18158.0,1276280794
+27541,Hessisch Oldendorf,Hessisch Oldendorf,52.1667,9.25,Germany,DE,DEU,Niedersachsen,,18228.0,1276530384
+27560,Großenhain,Grossenhain,51.2833,13.55,Germany,DE,DEU,Sachsen,,18218.0,1276062611
+27583,Illertissen,Illertissen,48.2167,10.0833,Germany,DE,DEU,Bayern,,17843.0,1276593057
+27593,Garching bei München,Garching bei Munchen,48.25,11.65,Germany,DE,DEU,Bayern,,17711.0,1276544473
+27642,Werdohl,Werdohl,51.2667,7.7667,Germany,DE,DEU,Nordrhein-Westfalen,,17737.0,1276252108
+27643,Auerbach,Auerbach,50.5094,12.4,Germany,DE,DEU,Sachsen,,17947.0,1276679224
+27662,Bad Säckingen,Bad Sackingen,47.55,7.95,Germany,DE,DEU,Baden-Württemberg,,17552.0,1276877057
+27725,Ismaning,Ismaning,48.2264,11.6725,Germany,DE,DEU,Bayern,,17750.0,1276633464
+27734,Parchim,Parchim,53.4167,11.8333,Germany,DE,DEU,Mecklenburg-Vorpommern,minor,18037.0,1276781173
+27769,Bexbach,Bexbach,49.3494,7.2594,Germany,DE,DEU,Saarland,,17577.0,1276508289
+27797,Kelsterbach,Kelsterbach,50.0617,8.5311,Germany,DE,DEU,Hessen,,17013.0,1276996005
+27805,Bobingen,Bobingen,48.2667,10.8167,Germany,DE,DEU,Bayern,,17757.0,1276277241
+27847,Freudenberg,Freudenberg,50.8997,7.8667,Germany,DE,DEU,Nordrhein-Westfalen,,17739.0,1276203816
+27869,Sinzig,Sinzig,50.5453,7.2519,Germany,DE,DEU,Rheinland-Pfalz,,17614.0,1276200986
+27898,Ginsheim-Gustavsburg,Ginsheim-Gustavsburg,49.9833,8.3333,Germany,DE,DEU,Hessen,,16807.0,1276577011
+27919,Remagen,Remagen,50.5786,7.2306,Germany,DE,DEU,Rheinland-Pfalz,,17456.0,1276287418
+27941,Kreuzau,Kreuzau,50.747,6.4907,Germany,DE,DEU,Nordrhein-Westfalen,,17532.0,1276795378
+27942,Frankenberg,Frankenberg,51.0589,8.7967,Germany,DE,DEU,Hessen,,17808.0,1276051534
+27961,Weilerswist,Weilerswist,50.7525,6.8378,Germany,DE,DEU,Nordrhein-Westfalen,,17619.0,1276196385
+27963,Buchen in Odenwald,Buchen in Odenwald,49.5217,9.3233,Germany,DE,DEU,Baden-Württemberg,,17796.0,1276974738
+28011,Holzwickede,Holzwickede,51.5,7.6167,Germany,DE,DEU,Nordrhein-Westfalen,,17118.0,1276204941
+28037,Schwalbach,Schwalbach,49.2833,6.8167,Germany,DE,DEU,Saarland,,17218.0,1276949643
+28042,Wadgassen,Wadgassen,49.2667,6.7833,Germany,DE,DEU,Saarland,,17190.0,1276539797
+28072,Oerlinghausen,Oerlinghausen,51.9667,8.6667,Germany,DE,DEU,Nordrhein-Westfalen,,17286.0,1276933659
+28077,Trossingen,Trossingen,48.0756,8.6361,Germany,DE,DEU,Baden-Württemberg,,17095.0,1276343997
+28130,Schrobenhausen,Schrobenhausen,48.5333,11.2667,Germany,DE,DEU,Bayern,,17505.0,1276307699
+28210,Bendorf,Bendorf,50.4297,7.5703,Germany,DE,DEU,Rheinland-Pfalz,,16962.0,1276205648
+28256,Bad Münder am Deister,Bad Munder am Deister,52.1992,9.4653,Germany,DE,DEU,Niedersachsen,,17465.0,1276351668
+28285,Wendlingen am Neckar,Wendlingen am Neckar,48.6747,9.3817,Germany,DE,DEU,Baden-Württemberg,,16268.0,1276408904
+28296,Bad Langensalza,Bad Langensalza,51.1081,10.6467,Germany,DE,DEU,Thüringen,,17441.0,1276854476
+28315,Thale,Thale,51.75,11.05,Germany,DE,DEU,Sachsen-Anhalt,,17442.0,1276578169
+28316,Raunheim,Raunheim,50.0167,8.45,Germany,DE,DEU,Hessen,,16284.0,1276238709
+28317,Marktredwitz,Marktredwitz,50.0,12.0667,Germany,DE,DEU,Bayern,,17217.0,1276442185
+28344,Wittenberge,Wittenberge,53.0,11.75,Germany,DE,DEU,Brandenburg,,17206.0,1276040852
+28351,Damme,Damme,52.5208,8.1986,Germany,DE,DEU,Niedersachsen,,17366.0,1276165336
+28404,Sulzbach,Sulzbach,49.2833,7.0667,Germany,DE,DEU,Saarland,,16468.0,1276579983
+28417,Sigmaringen,Sigmaringen,48.0867,9.2164,Germany,DE,DEU,Baden-Württemberg,minor,17278.0,1276579491
+28423,Nidda,Nidda,50.4128,9.0092,Germany,DE,DEU,Hessen,,17314.0,1276604046
+28457,Gescher,Gescher,51.9569,7.0056,Germany,DE,DEU,Nordrhein-Westfalen,,17205.0,1276129657
+28464,Bad Münstereifel,Bad Munstereifel,50.5531,6.7661,Germany,DE,DEU,Nordrhein-Westfalen,,17299.0,1276172917
+28471,Nümbrecht,Numbrecht,50.9053,7.5422,Germany,DE,DEU,Nordrhein-Westfalen,,17165.0,1276389854
+28493,Künzell,Kunzell,50.55,9.7167,Germany,DE,DEU,Hessen,,16829.0,1276700947
+28497,Eutin,Eutin,54.1378,10.6181,Germany,DE,DEU,Schleswig-Holstein,minor,16971.0,1276288365
+28499,Stockelsdorf,Stockelsdorf,53.8833,10.65,Germany,DE,DEU,Schleswig-Holstein,,17079.0,1276893181
+28502,Heilbad Heiligenstadt,Heilbad Heiligenstadt,51.3789,10.1386,Germany,DE,DEU,Thüringen,minor,17105.0,1276037701
+28503,Kamenz,Kamenz,51.2667,14.1,Germany,DE,DEU,Sachsen,,17056.0,1276558710
+28507,Bad Wildungen,Bad Wildungen,51.1167,9.1167,Germany,DE,DEU,Hessen,,17231.0,1276828659
+28513,Horn-Bad Meinberg,Horn-Bad Meinberg,51.8833,8.9667,Germany,DE,DEU,Nordrhein-Westfalen,,17178.0,1276648708
+28521,Stockach,Stockach,47.8514,9.0114,Germany,DE,DEU,Baden-Württemberg,,17118.0,1276190104
+28527,Freiberg am Neckar,Freiberg am Neckar,48.9333,9.2,Germany,DE,DEU,Baden-Württemberg,,16153.0,1276056473
+28529,Diepholz,Diepholz,52.6072,8.3711,Germany,DE,DEU,Niedersachsen,minor,17192.0,1276476080
+28548,Finnentrop,Finnentrop,51.1731,7.9725,Germany,DE,DEU,Nordrhein-Westfalen,,17173.0,1276799672
+28573,Königstein im Taunus,Konigstein im Taunus,50.1833,8.4667,Germany,DE,DEU,Hessen,,16648.0,1276481618
+28585,Altena,Altena,51.3,7.6667,Germany,DE,DEU,Nordrhein-Westfalen,,16922.0,1276575290
+28593,Poing,Poing,48.1667,11.8167,Germany,DE,DEU,Bayern,,16042.0,1276650408
+28622,Eggenstein-Leopoldshafen,Eggenstein-Leopoldshafen,49.0778,8.3925,Germany,DE,DEU,Baden-Württemberg,,16625.0,1276489568
+28647,Cham,Cham,49.2167,12.65,Germany,DE,DEU,Bayern,minor,17029.0,1276459468
+28658,Penzberg,Penzberg,47.75,11.3833,Germany,DE,DEU,Bayern,,16586.0,1276589283
+28676,Marienberg,Marienberg,50.6333,13.15,Germany,DE,DEU,Sachsen,,17097.0,1276662047
+28708,Babenhausen,Babenhausen,49.9667,8.95,Germany,DE,DEU,Hessen,,16920.0,1276006345
+28765,Kronach,Kronach,50.2411,11.3281,Germany,DE,DEU,Bayern,minor,16874.0,1276212761
+28774,Bargteheide,Bargteheide,53.7167,10.2667,Germany,DE,DEU,Schleswig-Holstein,,16109.0,1276611028
+28778,Preetz,Preetz,54.2367,10.2822,Germany,DE,DEU,Schleswig-Holstein,,16005.0,1276274661
+28781,Eppelborn,Eppelborn,49.4022,6.9706,Germany,DE,DEU,Saarland,,16767.0,1276013431
+28846,Schwarzenberg,Schwarzenberg,50.5453,12.7792,Germany,DE,DEU,Sachsen,,16723.0,1276831560
+28848,Holzkirchen,Holzkirchen,47.8833,11.7,Germany,DE,DEU,Bayern,,16722.0,1276287582
+28854,Gunzenhausen,Gunzenhausen,49.1147,10.7542,Germany,DE,DEU,Bayern,,16860.0,1276273217
+28864,Bruckmühl,Bruckmuhl,47.8833,11.9167,Germany,DE,DEU,Bayern,,16724.0,1276950984
+28892,Seeheim-Jugenheim,Seeheim-Jugenheim,49.7667,8.65,Germany,DE,DEU,Hessen,,16451.0,1276449114
+28906,Guben,Guben,51.9533,14.7167,Germany,DE,DEU,Brandenburg,,16656.0,1276800396
+28939,Kelheim,Kelheim,48.9167,11.8667,Germany,DE,DEU,Bayern,minor,16779.0,1276123640
+28965,Reinheim,Reinheim,49.8269,8.8308,Germany,DE,DEU,Hessen,,16385.0,1276510132
+29008,Bad Wörishofen,Bad Worishofen,48.0058,10.5969,Germany,DE,DEU,Bayern,,16648.0,1276068961
+29044,Bürstadt,Burstadt,49.6333,8.45,Germany,DE,DEU,Hessen,,16430.0,1276454378
+29060,Hünfeld,Hunfeld,50.6667,9.7667,Germany,DE,DEU,Hessen,,16748.0,1276813919
+29067,Marbach am Neckar,Marbach am Neckar,48.9333,9.25,Germany,DE,DEU,Baden-Württemberg,,16008.0,1276176133
+29094,Leopoldshöhe,Leopoldshohe,52.0167,8.7,Germany,DE,DEU,Nordrhein-Westfalen,,16413.0,1276147484
+29138,Wurzen,Wurzen,51.3667,12.7167,Germany,DE,DEU,Sachsen,,16575.0,1276002805
+29169,Großostheim,Grossostheim,49.9167,9.0833,Germany,DE,DEU,Bayern,,16419.0,1276880614
+29178,Aue,Aue,50.5853,12.7008,Germany,DE,DEU,Sachsen,,16012.0,1276459690
+29207,Bad Lippspringe,Bad Lippspringe,51.7833,8.8167,Germany,DE,DEU,Nordrhein-Westfalen,,16424.0,1276944431
+29257,Illingen,Illingen,49.3764,7.0525,Germany,DE,DEU,Saarland,,16262.0,1276359675
+29290,Zeulenroda,Zeulenroda,50.6486,11.9806,Germany,DE,DEU,Thüringen,,16487.0,1276933669
+29368,Kirchlengern,Kirchlengern,52.2,8.6331,Germany,DE,DEU,Nordrhein-Westfalen,,16111.0,1276250400
+29384,Brackenheim,Brackenheim,49.0833,9.0667,Germany,DE,DEU,Baden-Württemberg,,16219.0,1276363194
+29395,Loxstedt,Loxstedt,53.4699,8.6479,Germany,DE,DEU,Niedersachsen,,16441.0,1276084019
+29419,Hövelhof,Hovelhof,51.8167,8.65,Germany,DE,DEU,Nordrhein-Westfalen,,16294.0,1276911477
+29423,Petersberg,Petersberg,50.5667,9.7167,Germany,DE,DEU,Hessen,,16069.0,1276763295
+29446,Regenstauf,Regenstauf,49.1236,12.1283,Germany,DE,DEU,Bayern,,16343.0,1276162289
+29458,Kirchhain,Kirchhain,50.8167,8.9167,Germany,DE,DEU,Hessen,,16298.0,1276056692
+29479,Pocking,Pocking,48.4,13.3167,Germany,DE,DEU,Bayern,,16223.0,1276193940
+29493,Straelen,Straelen,51.45,6.2667,Germany,DE,DEU,Nordrhein-Westfalen,,16232.0,1276805801
+29506,Sandhausen,Sandhausen,49.3439,8.6581,Germany,DE,DEU,Baden-Württemberg,,15378.0,1276169005
+29527,Erlensee,Erlensee,50.1333,8.9333,Germany,DE,DEU,Hessen,,15579.0,1276495268
+29533,Schmelz,Schmelz,49.4167,6.8333,Germany,DE,DEU,Saarland,,16136.0,1276565540
+29542,Markranstädt,Markranstadt,51.3017,12.2211,Germany,DE,DEU,Sachsen,,16121.0,1276832529
+29543,Wittstock,Wittstock,53.1636,12.4856,Germany,DE,DEU,Brandenburg,,16363.0,1276000618
+29560,Bassum,Bassum,52.8494,8.7267,Germany,DE,DEU,Niedersachsen,,16289.0,1276562113
+29568,Hude,Hude,53.1111,8.4625,Germany,DE,DEU,Niedersachsen,,16248.0,1276379256
+29572,Eilenburg,Eilenburg,51.4608,12.6358,Germany,DE,DEU,Sachsen,,16031.0,1276166351
+29582,Brakel,Brakel,51.7167,9.1833,Germany,DE,DEU,Nordrhein-Westfalen,,16270.0,1276092395
+29589,Kierspe,Kierspe,51.1333,7.5667,Germany,DE,DEU,Nordrhein-Westfalen,,16137.0,1276256169
+29600,Dieburg,Dieburg,49.9,8.85,Germany,DE,DEU,Hessen,,15679.0,1276337501
+29602,Wardenburg,Wardenburg,53.0617,8.1967,Germany,DE,DEU,Niedersachsen,,16213.0,1276888712
+29612,Oyten,Oyten,53.0611,9.0178,Germany,DE,DEU,Niedersachsen,,16085.0,1276791592
+29614,Michelstadt,Michelstadt,49.6786,9.0039,Germany,DE,DEU,Hessen,,16151.0,1276024719
+29619,Halver,Halver,51.1833,7.4667,Germany,DE,DEU,Nordrhein-Westfalen,,16120.0,1276039349
+29625,Schiffweiler,Schiffweiler,49.3667,7.1167,Germany,DE,DEU,Saarland,,15595.0,1276169477
+29632,Wiefelstede,Wiefelstede,53.2581,8.1172,Germany,DE,DEU,Niedersachsen,,16167.0,1276114167
+29640,Walldorf,Walldorf,49.3,8.65,Germany,DE,DEU,Baden-Württemberg,,15534.0,1276002664
+29643,Stahnsdorf,Stahnsdorf,52.3922,13.2167,Germany,DE,DEU,Brandenburg,,15983.0,1276819646
+29688,Erwitte,Erwitte,51.6167,8.35,Germany,DE,DEU,Nordrhein-Westfalen,,16045.0,1276225862
+29726,Großenkneten,Grossenkneten,52.95,8.2667,Germany,DE,DEU,Niedersachsen,,16144.0,1276069119
+29737,Clausthal-Zellerfeld,Clausthal-Zellerfeld,51.805,10.3356,Germany,DE,DEU,Niedersachsen,,15888.0,1276565687
+29744,Wendelstein,Wendelstein,49.3536,11.1483,Germany,DE,DEU,Bayern,,15909.0,1276957789
+29769,Taucha,Taucha,51.38,12.4936,Germany,DE,DEU,Sachsen,,15733.0,1276068319
+29800,Finsterwalde,Finsterwalde,51.6282,13.7102,Germany,DE,DEU,Brandenburg,,15968.0,1276493643
+29803,Brüggen,Bruggen,51.2417,6.1822,Germany,DE,DEU,Nordrhein-Westfalen,,15907.0,1276029002
+29809,Füssen,Fussen,47.5667,10.7,Germany,DE,DEU,Bayern,,15800.0,1276059513
+29835,Bad Essen,Bad Essen,52.3214,8.34,Germany,DE,DEU,Niedersachsen,,15982.0,1276585776
+29853,Ebersbach an der Fils,Ebersbach an der Fils,48.7147,9.5236,Germany,DE,DEU,Baden-Württemberg,,15535.0,1276554005
+29857,Weener,Weener,53.1692,7.3564,Germany,DE,DEU,Niedersachsen,,15927.0,1276425095
+29874,Alsfeld,Alsfeld,50.7511,9.2711,Germany,DE,DEU,Hessen,,15989.0,1276584676
+29880,Bad Bentheim,Bad Bentheim,52.3031,7.1597,Germany,DE,DEU,Niedersachsen,,15948.0,1276319622
+29908,Lübbenau/Spreewald,Lubbenau/Spreewald,51.8667,13.9667,Germany,DE,DEU,Brandenburg,,15969.0,1276392829
+29923,Schlüchtern,Schluchtern,50.35,9.5167,Germany,DE,DEU,Hessen,,15927.0,1276713332
+29935,Neustadt in Holstein,Neustadt in Holstein,54.1072,10.8158,Germany,DE,DEU,Schleswig-Holstein,,15288.0,1276780766
+29975,Bitburg,Bitburg,49.9667,6.5333,Germany,DE,DEU,Rheinland-Pfalz,minor,15700.0,1276110282
+30118,Königslutter am Elm,Konigslutter am Elm,52.25,10.8167,Germany,DE,DEU,Niedersachsen,,15786.0,1276192101
+30134,Breisach am Rhein,Breisach am Rhein,48.0333,7.5833,Germany,DE,DEU,Baden-Württemberg,,15606.0,1276880866
+30165,Wadern,Wadern,49.5167,6.8667,Germany,DE,DEU,Saarland,,15727.0,1276516463
+30203,Künzelsau,Kunzelsau,49.2833,9.6833,Germany,DE,DEU,Baden-Württemberg,minor,15637.0,1276563190
+30222,Bad Neustadt,Bad Neustadt,50.3219,10.2161,Germany,DE,DEU,Bayern,minor,15411.0,1276106311
+30259,Plochingen,Plochingen,48.7117,9.4164,Germany,DE,DEU,Baden-Württemberg,,14433.0,1276921571
+30272,Bad Bramstedt,Bad Bramstedt,53.9186,9.8844,Germany,DE,DEU,Schleswig-Holstein,,15149.0,1276793883
+30274,Niederkrüchten,Niederkruchten,51.1989,6.2194,Germany,DE,DEU,Nordrhein-Westfalen,,15550.0,1276522692
+30288,Weißwasser/Oberlausitz,Weisswasser/Oberlausitz,51.5,14.6333,Germany,DE,DEU,Sachsen,,15521.0,1276986089
+30299,Simmerath,Simmerath,50.6,6.2997,Germany,DE,DEU,Nordrhein-Westfalen,,15614.0,1276931162
+30301,Grenzach-Wyhlen,Grenzach-Wyhlen,47.5517,7.6592,Germany,DE,DEU,Baden-Württemberg,,14897.0,1276030397
+30302,Drensteinfurt,Drensteinfurt,51.7944,7.7392,Germany,DE,DEU,Nordrhein-Westfalen,,15607.0,1276206694
+30306,Ascheberg,Ascheberg,51.7889,7.62,Germany,DE,DEU,Nordrhein-Westfalen,,15602.0,1276423917
+30343,Langenau,Langenau,48.4967,10.12,Germany,DE,DEU,Baden-Württemberg,,15501.0,1276345648
+30378,Brühl,Bruhl,49.4,8.5353,Germany,DE,DEU,Baden-Württemberg,,14288.0,1276886758
+30385,Templin,Templin,53.1167,13.5,Germany,DE,DEU,Brandenburg,,15636.0,1276089341
+30430,Mindelheim,Mindelheim,48.0333,10.4667,Germany,DE,DEU,Bayern,minor,15364.0,1276322308
+30444,Rahden,Rahden,52.4167,8.6167,Germany,DE,DEU,Nordrhein-Westfalen,,15505.0,1276217000
+30454,Boppard,Boppard,50.2314,7.5908,Germany,DE,DEU,Rheinland-Pfalz,,15403.0,1276667317
+30479,Hille,Hille,52.3331,8.75,Germany,DE,DEU,Nordrhein-Westfalen,,15445.0,1276307584
+30494,Ribnitz-Damgarten,Ribnitz-Damgarten,54.25,12.4667,Germany,DE,DEU,Mecklenburg-Vorpommern,,15451.0,1276064199
+30514,Garrel,Garrel,52.9581,8.0253,Germany,DE,DEU,Niedersachsen,,15428.0,1276561308
+30528,Schriesheim,Schriesheim,49.4736,8.6592,Germany,DE,DEU,Baden-Württemberg,,15081.0,1276514747
+30544,Mering,Mering,48.2625,10.9844,Germany,DE,DEU,Bayern,,14986.0,1276382837
+30560,Rellingen,Rellingen,53.65,9.8167,Germany,DE,DEU,Schleswig-Holstein,,14437.0,1276483816
+30568,Gehrden,Gehrden,52.3117,9.6003,Germany,DE,DEU,Niedersachsen,,15177.0,1276000662
+30574,Feucht,Feucht,49.3758,11.2131,Germany,DE,DEU,Bayern,,14088.0,1276937991
+30602,Neustadt bei Coburg,Neustadt bei Coburg,50.3289,11.1211,Germany,DE,DEU,Bayern,,15257.0,1276116282
+30614,Ober-Ramstadt,Ober-Ramstadt,49.8333,8.75,Germany,DE,DEU,Hessen,,15130.0,1276189736
+30616,Mainburg,Mainburg,48.65,11.7833,Germany,DE,DEU,Bayern,,15241.0,1276991073
+30617,Hofgeismar,Hofgeismar,51.4833,9.4,Germany,DE,DEU,Hessen,,15309.0,1276882512
+30619,Ratekau,Ratekau,53.95,10.7333,Germany,DE,DEU,Schleswig-Holstein,,15231.0,1276252655
+30629,Riegelsberg,Riegelsberg,49.2942,6.9375,Germany,DE,DEU,Saarland,,14501.0,1276278201
+30650,Büttelborn,Buttelborn,49.9022,8.5137,Germany,DE,DEU,Hessen,,14955.0,1276655872
+30668,Odenthal,Odenthal,51.0333,7.1167,Germany,DE,DEU,Nordrhein-Westfalen,,15063.0,1276022742
+30696,Neutraubling,Neutraubling,48.9936,12.1953,Germany,DE,DEU,Bayern,,13981.0,1276485988
+30712,Edingen-Neckarhausen,Edingen-Neckarhausen,49.4469,8.6094,Germany,DE,DEU,Baden-Württemberg,,14238.0,1276673287
+30717,Markgröningen,Markgroningen,48.9047,9.0808,Germany,DE,DEU,Baden-Württemberg,,14865.0,1276236194
+30730,Groß-Zimmern,Gross-Zimmern,49.8726,8.8343,Germany,DE,DEU,Hessen,,14691.0,1276589803
+30748,Hohenstein-Ernstthal,Hohenstein-Ernstthal,50.8,12.7167,Germany,DE,DEU,Sachsen,,14607.0,1276671628
+30751,Münster,Munster,49.9167,8.8667,Germany,DE,DEU,Hessen,,14672.0,1276203607
+30758,Gräfelfing,Grafelfing,48.1189,11.4289,Germany,DE,DEU,Bayern,,13939.0,1276126852
+30761,Brake,Brake,53.3333,8.4833,Germany,DE,DEU,Niedersachsen,minor,14965.0,1276055035
+30764,Hückeswagen,Huckeswagen,51.145,7.3417,Germany,DE,DEU,Nordrhein-Westfalen,,15060.0,1276742746
+30816,Wentorf bei Hamburg,Wentorf bei Hamburg,53.4931,10.2533,Germany,DE,DEU,Schleswig-Holstein,,13366.0,1276516107
+30825,Blomberg,Blomberg,51.9333,9.0833,Germany,DE,DEU,Nordrhein-Westfalen,,15154.0,1276943915
+30833,Selb,Selb,50.1667,12.1333,Germany,DE,DEU,Bayern,,15128.0,1276030522
+30834,Langelsheim,Langelsheim,51.9381,10.335,Germany,DE,DEU,Niedersachsen,,14990.0,1276567894
+30843,Witzenhausen,Witzenhausen,51.3422,9.8578,Germany,DE,DEU,Hessen,,15167.0,1276417378
+30852,Grefrath,Grefrath,51.3363,6.3408,Germany,DE,DEU,Nordrhein-Westfalen,,14802.0,1276931895
+30891,Ritterhude,Ritterhude,53.1861,8.758,Germany,DE,DEU,Niedersachsen,,14800.0,1276391599
+30895,Beckingen,Beckingen,49.3928,6.7008,Germany,DE,DEU,Saarland,,14958.0,1276301126
+30962,Niedernhausen,Niedernhausen,50.1617,8.3176,Germany,DE,DEU,Hessen,,14766.0,1276265252
+30974,Landsberg,Landsberg,51.5333,12.1667,Germany,DE,DEU,Sachsen-Anhalt,,15054.0,1276487466
+31024,Dorfen,Dorfen,48.2667,12.15,Germany,DE,DEU,Bayern,,14992.0,1276442321
+31044,Ratzeburg,Ratzeburg,53.7,10.75,Germany,DE,DEU,Schleswig-Holstein,minor,14652.0,1276258916
+31072,Lohfelden,Lohfelden,51.2716,9.5487,Germany,DE,DEU,Hessen,,14252.0,1276890913
+31073,Burbach,Burbach,50.7444,8.0861,Germany,DE,DEU,Nordrhein-Westfalen,,14924.0,1276749212
+31101,Hilchenbach,Hilchenbach,50.9983,8.1094,Germany,DE,DEU,Nordrhein-Westfalen,,14906.0,1276321870
+31132,Stein bei Nürnberg,Stein bei Nurnberg,49.4167,11.0167,Germany,DE,DEU,Bayern,,14329.0,1276407895
+31140,Uhingen,Uhingen,48.7058,9.5919,Germany,DE,DEU,Baden-Württemberg,,14439.0,1276901108
+31185,Markt Schwaben,Markt Schwaben,48.1917,11.8681,Germany,DE,DEU,Bayern,,13761.0,1276009835
+31202,Neu-Anspach,Neu-Anspach,50.2931,8.5089,Germany,DE,DEU,Hessen,,14618.0,1276155891
+31237,Usingen,Usingen,50.3344,8.5375,Germany,DE,DEU,Hessen,,14733.0,1276509598
+31262,Langenselbold,Langenselbold,50.1833,9.0333,Germany,DE,DEU,Hessen,,14421.0,1276686360
+31288,Fritzlar,Fritzlar,51.1333,9.2833,Germany,DE,DEU,Hessen,,14780.0,1276290750
+31333,Meerane,Meerane,50.8519,12.4636,Germany,DE,DEU,Sachsen,,14208.0,1276923420
+31335,Bad Wurzach,Bad Wurzach,47.9094,9.8994,Germany,DE,DEU,Baden-Württemberg,,14827.0,1276243830
+31341,Malsch,Malsch,48.8808,8.3342,Germany,DE,DEU,Baden-Württemberg,,14616.0,1276981496
+31347,Jever,Jever,53.5744,7.9008,Germany,DE,DEU,Niedersachsen,minor,14550.0,1276105413
+31394,Pattensen,Pattensen,52.2667,9.7667,Germany,DE,DEU,Niedersachsen,,14636.0,1276603378
+31400,Rotenburg an der Fulda,Rotenburg an der Fulda,50.9961,9.7278,Germany,DE,DEU,Hessen,,14676.0,1276092129
+31415,Spenge,Spenge,52.1333,8.4833,Germany,DE,DEU,Nordrhein-Westfalen,,14487.0,1276387127
+31427,Bissendorf,Bissendorf,52.2333,8.1667,Germany,DE,DEU,Niedersachsen,,14680.0,1276073314
+31459,Montabaur,Montabaur,50.4375,7.8258,Germany,DE,DEU,Rheinland-Pfalz,minor,14391.0,1276982904
+31461,Baiersbronn,Baiersbronn,48.5058,8.3711,Germany,DE,DEU,Baden-Württemberg,,14741.0,1276633374
+31466,Schwabmünchen,Schwabmunchen,48.1789,10.755,Germany,DE,DEU,Bayern,,14553.0,1276593802
+31483,Tornesch,Tornesch,53.7,9.7167,Germany,DE,DEU,Schleswig-Holstein,,14118.0,1276106363
+31497,Schiffdorf,Schiffdorf,53.5355,8.6622,Germany,DE,DEU,Niedersachsen,,14665.0,1276001395
+31530,Much,Much,50.9167,7.4,Germany,DE,DEU,Nordrhein-Westfalen,,14577.0,1276464394
+31567,Wilsdruff,Wilsdruff,51.0522,13.5383,Germany,DE,DEU,Sachsen,,14559.0,1276738335
+31613,Ottweiler,Ottweiler,49.3667,7.1667,Germany,DE,DEU,Saarland,,14395.0,1276806597
+31626,Mittweida,Mittweida,50.9856,12.9811,Germany,DE,DEU,Sachsen,,14351.0,1276378266
+31627,Rehlingen-Siersburg,Rehlingen-Siersburg,49.3686,6.6786,Germany,DE,DEU,Saarland,,14469.0,1276372658
+31639,Lauda-Königshofen,Lauda-Konigshofen,49.5686,9.7039,Germany,DE,DEU,Baden-Württemberg,,14542.0,1276018769
+31647,Isny im Allgäu,Isny im Allgau,47.6919,10.0394,Germany,DE,DEU,Baden-Württemberg,,14518.0,1276817029
+31670,Bischofsheim,Bischofsheim,49.989,8.355,Germany,DE,DEU,Hessen,,13230.0,1276670052
+31687,Harsefeld,Harsefeld,53.45,9.5,Germany,DE,DEU,Niedersachsen,,14378.0,1276886588
+31697,Neustadt an der Donau,Neustadt an der Donau,48.8,11.7667,Germany,DE,DEU,Bayern,,14495.0,1276348770
+31698,Münsingen,Munsingen,48.4128,9.4953,Germany,DE,DEU,Baden-Württemberg,,14524.0,1276411655
+31719,Eberbach,Eberbach,49.4667,8.9833,Germany,DE,DEU,Baden-Württemberg,,14460.0,1276456342
+31720,Markdorf,Markdorf,47.7208,9.3917,Germany,DE,DEU,Baden-Württemberg,,14284.0,1276086137
+31748,Langwedel,Langwedel,52.9999,9.1732,Germany,DE,DEU,Niedersachsen,,14425.0,1276601336
+31752,Olsberg,Olsberg,51.35,8.4833,Germany,DE,DEU,Nordrhein-Westfalen,,14489.0,1276829513
+31760,Oschatz,Oschatz,51.3003,13.1072,Germany,DE,DEU,Sachsen,,14349.0,1276313153
+31762,Grünstadt,Grunstadt,49.5692,8.1681,Germany,DE,DEU,Rheinland-Pfalz,,13840.0,1276261667
+31802,Hatten,Hatten,53.0083,8.3167,Germany,DE,DEU,Niedersachsen,,14440.0,1276627272
+31839,Löbau,Lobau,51.0944,14.6667,Germany,DE,DEU,Sachsen,,14363.0,1276786301
+31861,Bad Camberg,Bad Camberg,50.3,8.2667,Germany,DE,DEU,Hessen,,14263.0,1276097713
+31864,Abensberg,Abensberg,48.8,11.85,Germany,DE,DEU,Bayern,,14284.0,1276501504
+31880,Eching,Eching,48.3,11.6167,Germany,DE,DEU,Bayern,,14130.0,1276481683
+31884,Lotte,Lotte,52.2764,7.9167,Germany,DE,DEU,Nordrhein-Westfalen,,14135.0,1276170713
+31899,Tostedt,Tostedt,53.2833,9.7167,Germany,DE,DEU,Niedersachsen,,14206.0,1276412627
+31913,Denzlingen,Denzlingen,48.0683,7.8825,Germany,DE,DEU,Baden-Württemberg,,13686.0,1276127515
+31916,Immenstadt im Allgäu,Immenstadt im Allgau,47.5667,10.2167,Germany,DE,DEU,Bayern,,14315.0,1276627298
+31918,Maisach,Maisach,48.2167,11.2667,Germany,DE,DEU,Bayern,,14223.0,1276438792
+31919,Schneeberg,Schneeberg,50.5942,12.6456,Germany,DE,DEU,Sachsen,,13894.0,1276764942
+31941,Gernsbach,Gernsbach,48.7633,8.3342,Germany,DE,DEU,Baden-Württemberg,,14296.0,1276744650
+31956,Holzgerlingen,Holzgerlingen,48.6392,9.0108,Germany,DE,DEU,Baden-Württemberg,,13453.0,1276703274
+31983,Sassenberg,Sassenberg,51.9897,8.0408,Germany,DE,DEU,Nordrhein-Westfalen,,14260.0,1276379002
+32026,Grafing bei München,Grafing bei Munchen,48.05,11.9667,Germany,DE,DEU,Bayern,,13936.0,1276799795
+32032,Niederzier,Niederzier,50.8831,6.4667,Germany,DE,DEU,Nordrhein-Westfalen,,14180.0,1276339063
+32037,Angermünde,Angermunde,53.0333,14.0,Germany,DE,DEU,Brandenburg,,14360.0,1276588063
+32054,Hettstedt,Hettstedt,51.6333,11.5,Germany,DE,DEU,Sachsen-Anhalt,,14023.0,1276039853
+32057,Sankt Leon-Rot,Sankt Leon-Rot,49.2653,8.5986,Germany,DE,DEU,Baden-Württemberg,,13849.0,1276660837
+32062,Langerwehe,Langerwehe,50.8167,6.3497,Germany,DE,DEU,Nordrhein-Westfalen,,14050.0,1276770497
+32066,Vöhringen,Vohringen,48.2833,10.0833,Germany,DE,DEU,Bayern,,13800.0,1276392768
+32087,Quakenbrück,Quakenbruck,52.6772,7.9575,Germany,DE,DEU,Niedersachsen,,13612.0,1276336549
+32100,Uslar,Uslar,51.6597,9.6358,Germany,DE,DEU,Niedersachsen,,14236.0,1276673378
+32126,Lengede,Lengede,52.2049,10.3078,Germany,DE,DEU,Niedersachsen,,13937.0,1276406361
+32170,Dippoldiswalde,Dippoldiswalde,50.8933,13.6667,Germany,DE,DEU,Sachsen,,14179.0,1276205316
+32188,Wennigsen,Wennigsen,52.2742,9.5708,Germany,DE,DEU,Niedersachsen,,14043.0,1276983413
+32194,Frankenberg,Frankenberg,50.9108,13.0378,Germany,DE,DEU,Sachsen,,14088.0,1276762731
+32250,Ahrensfelde,Ahrensfelde,52.5762,13.5753,Germany,DE,DEU,Brandenburg,,14011.0,1276671758
+32255,Mittegroßefehn,Mittegrossefehn,53.3833,7.5833,Germany,DE,DEU,Niedersachsen,,14138.0,1276224109
+32268,Eppstein,Eppstein,50.1333,8.4,Germany,DE,DEU,Hessen,,13673.0,1276417820
+32269,Burglengenfeld,Burglengenfeld,49.2,12.0333,Germany,DE,DEU,Bayern,,14086.0,1276523136
+32273,Friedland,Friedland,51.4167,9.9333,Germany,DE,DEU,Niedersachsen,,14050.0,1276585633
+32284,Murrhardt,Murrhardt,48.98,9.5814,Germany,DE,DEU,Baden-Württemberg,,14033.0,1276873434
+32289,Lauchhammer,Lauchhammer,51.5,13.8,Germany,DE,DEU,Brandenburg,,14070.0,1276576746
+32315,Aldenhoven,Aldenhoven,50.8958,6.2831,Germany,DE,DEU,Nordrhein-Westfalen,,13893.0,1276558871
+32330,Neuenkirchen,Neuenkirchen,52.2411,7.3689,Germany,DE,DEU,Nordrhein-Westfalen,,13905.0,1276854717
+32332,Belm,Belm,52.3,8.1333,Germany,DE,DEU,Niedersachsen,,13896.0,1276040946
+32335,Bovenden,Bovenden,51.5897,9.9222,Germany,DE,DEU,Niedersachsen,,13972.0,1276711259
+32364,Eggenfelden,Eggenfelden,48.4039,12.7642,Germany,DE,DEU,Bayern,,13853.0,1276543412
+32386,Lübben (Spreewald),Lubben (Spreewald),51.95,13.9,Germany,DE,DEU,Brandenburg,minor,14036.0,1276964065
+32412,Spaichingen,Spaichingen,48.0758,8.7378,Germany,DE,DEU,Baden-Württemberg,,13407.0,1276488091
+32422,Leuna,Leuna,51.3167,12.0167,Germany,DE,DEU,Sachsen-Anhalt,,13969.0,1276318458
+32431,Tamm,Tamm,48.9167,9.1167,Germany,DE,DEU,Baden-Württemberg,,12685.0,1276203630
+32432,Bebra,Bebra,50.9711,9.7903,Germany,DE,DEU,Hessen,,13972.0,1276742603
+32441,Lich,Lich,50.5217,8.8208,Germany,DE,DEU,Hessen,,13938.0,1276029431
+32451,Kalkar,Kalkar,51.7389,6.2925,Germany,DE,DEU,Nordrhein-Westfalen,,13953.0,1276383703
+32492,Meckenbeuren,Meckenbeuren,47.7,9.5625,Germany,DE,DEU,Baden-Württemberg,,13651.0,1276323112
+32507,Oberhaching,Oberhaching,48.0167,11.5833,Germany,DE,DEU,Bayern,,13657.0,1276103002
+32510,Schmölln,Schmolln,50.895,12.3564,Germany,DE,DEU,Thüringen,,13741.0,1276498002
+32542,Buchloe,Buchloe,48.0375,10.725,Germany,DE,DEU,Bayern,,13668.0,1276184679
+32546,Genthin,Genthin,52.4,12.1667,Germany,DE,DEU,Sachsen-Anhalt,,13985.0,1276284209
+32550,Aßlar,Asslar,50.5833,8.4667,Germany,DE,DEU,Hessen,,13725.0,1276224828
+32553,Erbach,Erbach,49.6569,8.9931,Germany,DE,DEU,Hessen,minor,13818.0,1276643067
+32588,Landau an der Isar,Landau an der Isar,48.6667,12.6667,Germany,DE,DEU,Bayern,,13852.0,1276797945
+32591,Zeven,Zeven,53.3,9.2833,Germany,DE,DEU,Niedersachsen,,13828.0,1276616913
+32593,Erbach,Erbach,48.3281,9.8878,Germany,DE,DEU,Baden-Württemberg,,13797.0,1276634303
+32608,Hilpoltstein,Hilpoltstein,49.1833,11.1833,Germany,DE,DEU,Bayern,,13852.0,1276036036
+32617,Weißenhorn,Weissenhorn,48.3,10.1667,Germany,DE,DEU,Bayern,,13743.0,1276798632
+32629,Lauterbach,Lauterbach,50.6378,9.3944,Germany,DE,DEU,Hessen,minor,13852.0,1276435243
+32636,Philippsburg,Philippsburg,49.2333,8.45,Germany,DE,DEU,Baden-Württemberg,,13713.0,1276006660
+32645,Wanzleben,Wanzleben,52.0667,11.4333,Germany,DE,DEU,Sachsen-Anhalt,,13903.0,1276538835
+32664,Spiesen-Elversberg,Spiesen-Elversberg,49.3167,7.1331,Germany,DE,DEU,Saarland,,12850.0,1276068112
+32703,Lorsch,Lorsch,49.6539,8.5675,Germany,DE,DEU,Hessen,,13930.0,1276723392
+32731,Krumbach,Krumbach,48.25,10.3667,Germany,DE,DEU,Bayern,,13610.0,1276275014
+32735,Bergen,Bergen,54.4167,13.4333,Germany,DE,DEU,Mecklenburg-Vorpommern,,13647.0,1276083334
+32736,Melsungen,Melsungen,51.1333,9.55,Germany,DE,DEU,Hessen,,13695.0,1276369572
+32780,Ettenheim,Ettenheim,48.2556,7.8119,Germany,DE,DEU,Baden-Württemberg,,13603.0,1276445594
+32792,Haßfurt,Hassfurt,50.0167,10.5,Germany,DE,DEU,Bayern,minor,13609.0,1276364933
+32810,Grünberg,Grunberg,50.6,8.95,Germany,DE,DEU,Hessen,,13694.0,1276207612
+32848,Höchstadt an der Aisch,Hochstadt an der Aisch,49.7,10.8,Germany,DE,DEU,Bayern,,13632.0,1276346402
+32854,Michendorf,Michendorf,52.3129,13.0292,Germany,DE,DEU,Brandenburg,,13618.0,1276652646
+32864,Eichstätt,Eichstatt,48.8919,11.1839,Germany,DE,DEU,Bayern,minor,13525.0,1276205721
+32875,Neckargemünd,Neckargemund,49.3939,8.7975,Germany,DE,DEU,Baden-Württemberg,,13290.0,1276103353
+32882,Marienheide,Marienheide,51.0833,7.5333,Germany,DE,DEU,Nordrhein-Westfalen,,13552.0,1276546142
+32904,Ketsch,Ketsch,49.3658,8.5336,Germany,DE,DEU,Baden-Württemberg,,12995.0,1276661701
+32917,Bad Soden-Salmünster,Bad Soden-Salmunster,50.2667,9.3667,Germany,DE,DEU,Hessen,,13540.0,1276069295
+32931,Biedenkopf,Biedenkopf,50.9128,8.5322,Germany,DE,DEU,Hessen,,13614.0,1276705045
+32966,Hünxe,Hunxe,51.6417,6.7672,Germany,DE,DEU,Nordrhein-Westfalen,,13611.0,1276346440
+32980,Neunkirchen,Neunkirchen,50.7861,8.0056,Germany,DE,DEU,Nordrhein-Westfalen,,13406.0,1276694320
+32997,Schermbeck,Schermbeck,51.695,6.8756,Germany,DE,DEU,Nordrhein-Westfalen,,13599.0,1276572969
+33030,Friesenheim,Friesenheim,48.3731,7.8833,Germany,DE,DEU,Baden-Württemberg,,13412.0,1276429859
+33049,Löningen,Loningen,52.7167,7.7667,Germany,DE,DEU,Niedersachsen,,13592.0,1276522371
+33054,Lappersdorf,Lappersdorf,49.0525,12.0903,Germany,DE,DEU,Bayern,,13298.0,1276955440
+33058,Beverstedt,Beverstedt,53.434,8.8183,Germany,DE,DEU,Niedersachsen,,13608.0,1276723766
+33079,Quierschied,Quierschied,49.3167,7.05,Germany,DE,DEU,Saarland,,13030.0,1276003316
+33081,Bad Laasphe,Bad Laasphe,50.9303,8.4167,Germany,DE,DEU,Nordrhein-Westfalen,,13565.0,1276330247
+33096,Mutterstadt,Mutterstadt,49.4417,8.3561,Germany,DE,DEU,Rheinland-Pfalz,,13036.0,1276681342
+33109,Pfullendorf,Pfullendorf,47.9242,9.2567,Germany,DE,DEU,Baden-Württemberg,,13501.0,1276345734
+33120,Hösbach,Hosbach,50.0,9.2,Germany,DE,DEU,Bayern,,13212.0,1276827182
+33127,Bergen,Bergen,52.8103,9.9611,Germany,DE,DEU,Niedersachsen,,13556.0,1276820204
+33142,Kirchheim bei München,Kirchheim bei Munchen,48.1766,11.7556,Germany,DE,DEU,Bayern,,12806.0,1276864694
+33167,Manching,Manching,48.7186,11.4972,Germany,DE,DEU,Bayern,,12829.0,1276452710
+33174,Bad Dürrheim,Bad Durrheim,48.0167,8.5333,Germany,DE,DEU,Baden-Württemberg,,13397.0,1276778010
+33193,Haaren,Haaren,50.7956,6.1269,Germany,DE,DEU,Nordrhein-Westfalen,,12216.0,1276965294
+33205,Rommerskirchen,Rommerskirchen,51.0347,6.6914,Germany,DE,DEU,Nordrhein-Westfalen,,13377.0,1276832668
+33206,Schüttorf,Schuttorf,52.3167,7.2167,Germany,DE,DEU,Niedersachsen,,12934.0,1276950675
+33209,Saarwellingen,Saarwellingen,49.3542,6.805,Germany,DE,DEU,Saarland,,13279.0,1276467371
+33241,Eichenau,Eichenau,48.1667,11.3167,Germany,DE,DEU,Bayern,,11894.0,1276298284
+33268,Trebur,Trebur,49.9242,8.4092,Germany,DE,DEU,Hessen,,13294.0,1276689795
+33293,Neustadt,Neustadt,49.5967,10.6089,Germany,DE,DEU,Bayern,minor,13319.0,1276596771
+33298,Wiesmoor,Wiesmoor,53.4,7.7333,Germany,DE,DEU,Niedersachsen,,13372.0,1276001031
+33303,Besigheim,Besigheim,48.9983,9.1417,Germany,DE,DEU,Baden-Württemberg,,12772.0,1276386454
+33344,Ubstadt-Weiher,Ubstadt-Weiher,49.1656,8.625,Germany,DE,DEU,Baden-Württemberg,,13143.0,1276999466
+33350,Zehdenick,Zehdenick,52.9833,13.3333,Germany,DE,DEU,Brandenburg,,13437.0,1276607810
+33368,Wasserburg am Inn,Wasserburg am Inn,48.0617,12.2333,Germany,DE,DEU,Bayern,,12800.0,1276900487
+33384,Wickede,Wickede,51.4964,7.8658,Germany,DE,DEU,Nordrhein-Westfalen,,12959.0,1276828839
+33386,Dinklage,Dinklage,52.6667,8.1333,Germany,DE,DEU,Niedersachsen,,13290.0,1276444417
+33397,Wehr,Wehr,47.6297,7.9044,Germany,DE,DEU,Baden-Württemberg,,13098.0,1276432205
+33404,Bad Salzdetfurth,Bad Salzdetfurth,52.0653,10.0092,Germany,DE,DEU,Niedersachsen,,13266.0,1276420532
+33410,Barßel,Barssel,53.1703,7.7467,Germany,DE,DEU,Niedersachsen,,13301.0,1276212188
+33439,Wernau,Wernau,48.6886,9.4222,Germany,DE,DEU,Baden-Württemberg,,12324.0,1276040712
+33450,Pegnitz,Pegnitz,49.7564,11.545,Germany,DE,DEU,Bayern,,13298.0,1276197483
+33453,Tauberbischofsheim,Tauberbischofsheim,49.6225,9.6628,Germany,DE,DEU,Baden-Württemberg,minor,13238.0,1276697756
+33457,Barsbüttel,Barsbuttel,53.5667,10.1667,Germany,DE,DEU,Schleswig-Holstein,,12899.0,1276921067
+33465,Sendenhorst,Sendenhorst,51.8439,7.8278,Germany,DE,DEU,Nordrhein-Westfalen,,13279.0,1276094140
+33487,Plattling,Plattling,48.7667,12.8667,Germany,DE,DEU,Bayern,,13043.0,1276078281
+33488,Pritzwalk,Pritzwalk,53.15,12.1833,Germany,DE,DEU,Brandenburg,,13336.0,1276349904
+33503,Dossenheim,Dossenheim,49.4492,8.6722,Germany,DE,DEU,Baden-Württemberg,,12515.0,1276116472
+33522,Velen,Velen,51.8939,6.9897,Germany,DE,DEU,Nordrhein-Westfalen,,13198.0,1276638227
+33543,Roßdorf,Rossdorf,49.8583,8.7556,Germany,DE,DEU,Hessen,,12755.0,1276485958
+33552,Rödental,Rodental,50.2833,11.0667,Germany,DE,DEU,Bayern,,13107.0,1276302053
+33568,Ottersberg,Ottersberg,53.1,9.15,Germany,DE,DEU,Niedersachsen,,13224.0,1276986240
+33599,Hüllhorst,Hullhorst,52.2833,8.6667,Germany,DE,DEU,Nordrhein-Westfalen,,13047.0,1276646127
+33618,Cremlingen,Cremlingen,52.2489,10.6542,Germany,DE,DEU,Niedersachsen,,13111.0,1276495554
+33621,Weinsberg,Weinsberg,49.1518,9.2857,Germany,DE,DEU,Baden-Württemberg,,12753.0,1276634003
+33626,Wolfhagen,Wolfhagen,51.3167,9.1667,Germany,DE,DEU,Hessen,,13205.0,1276757955
+33628,Pfarrkirchen,Pfarrkirchen,48.4167,12.9167,Germany,DE,DEU,Bayern,minor,13073.0,1276885935
+33645,Zella-Mehlis,Zella-Mehlis,50.6597,10.6669,Germany,DE,DEU,Thüringen,,12863.0,1276496702
+33650,Ergolding,Ergolding,48.5833,12.1667,Germany,DE,DEU,Bayern,,12957.0,1276980704
+33657,Röthenbach an der Pegnitz,Rothenbach an der Pegnitz,49.4847,11.2475,Germany,DE,DEU,Bayern,,12431.0,1276836579
+33669,Herbrechtingen,Herbrechtingen,48.6253,10.1739,Germany,DE,DEU,Baden-Württemberg,,13070.0,1276327261
+33676,Olfen,Olfen,51.7167,7.3833,Germany,DE,DEU,Nordrhein-Westfalen,,13040.0,1276474415
+33687,Gärtringen,Gartringen,48.6408,8.9006,Germany,DE,DEU,Baden-Württemberg,,12657.0,1276667329
+33700,Haselünne,Haselunne,52.6667,7.4667,Germany,DE,DEU,Niedersachsen,,13196.0,1276706458
+33738,Östringen,Ostringen,49.2194,8.7108,Germany,DE,DEU,Baden-Württemberg,,13015.0,1276810660
+33751,Beverungen,Beverungen,51.6628,9.3725,Germany,DE,DEU,Nordrhein-Westfalen,,13115.0,1276597510
+33758,Bedburg,Bedburg,51.7667,6.1833,Germany,DE,DEU,Nordrhein-Westfalen,,13033.0,1276539122
+33791,Sankt Georgen im Schwarzwald,Sankt Georgen im Schwarzwald,48.1247,8.3308,Germany,DE,DEU,Baden-Württemberg,,12998.0,1276384519
+33792,Weilburg,Weilburg,50.4833,8.25,Germany,DE,DEU,Hessen,,12990.0,1276833970
+33798,Gangelt,Gangelt,50.9831,6.0,Germany,DE,DEU,Nordrhein-Westfalen,,12946.0,1276133418
+33865,Oftersheim,Oftersheim,49.3706,8.5847,Germany,DE,DEU,Baden-Württemberg,,12213.0,1276500222
+33886,Schleiden,Schleiden,50.5331,6.4667,Germany,DE,DEU,Nordrhein-Westfalen,,13053.0,1276198974
+33907,Waltershausen,Waltershausen,50.8975,10.5558,Germany,DE,DEU,Thüringen,,12973.0,1276892683
+33911,Hadamar,Hadamar,50.45,8.05,Germany,DE,DEU,Hessen,,12836.0,1276022783
+33939,Bad Doberan,Bad Doberan,54.1069,11.9053,Germany,DE,DEU,Mecklenburg-Vorpommern,,12752.0,1276361039
+33954,Neuhausen auf den Fildern,Neuhausen auf den Fildern,48.6844,9.2744,Germany,DE,DEU,Baden-Württemberg,,12150.0,1276361118
+33955,Rosbach vor der Höhe,Rosbach vor der Hohe,50.2986,8.7006,Germany,DE,DEU,Hessen,,12838.0,1276636774
+33957,Sulingen,Sulingen,52.6667,8.8,Germany,DE,DEU,Niedersachsen,,13005.0,1276180018
+33971,Kaufungen,Kaufungen,51.2811,9.6186,Germany,DE,DEU,Hessen,,12629.0,1276899210
+33984,Scheeßel,Scheessel,53.1706,9.4831,Germany,DE,DEU,Niedersachsen,,13014.0,1276647577
+33992,Hersbruck,Hersbruck,49.5081,11.4328,Germany,DE,DEU,Bayern,,12548.0,1276272170
+34026,Treuchtlingen,Treuchtlingen,48.9553,10.9094,Germany,DE,DEU,Bayern,,12951.0,1276141545
+34043,Herzberg am Harz,Herzberg am Harz,51.6575,10.3411,Germany,DE,DEU,Niedersachsen,,12889.0,1276001736
+34050,Peißenberg,Peissenberg,47.795,11.0603,Germany,DE,DEU,Bayern,,12674.0,1276277124
+34080,Wächtersbach,Wachtersbach,50.2547,9.2919,Germany,DE,DEU,Hessen,,12797.0,1276414935
+34097,Fehmarnsund,Fehmarnsund,54.4454,11.1702,Germany,DE,DEU,Schleswig-Holstein,,12971.0,1276306503
+34116,Linnich,Linnich,50.9789,6.2678,Germany,DE,DEU,Nordrhein-Westfalen,,12835.0,1276427998
+34141,Brieselang,Brieselang,52.5833,13.0,Germany,DE,DEU,Brandenburg,,12735.0,1276596392
+34192,Teutschenthal,Teutschenthal,51.45,11.8,Germany,DE,DEU,Sachsen-Anhalt,,12850.0,1276601483
+34213,Schongau,Schongau,47.8167,10.9,Germany,DE,DEU,Bayern,,12401.0,1276690057
+34258,Beelitz,Beelitz,52.2333,12.9667,Germany,DE,DEU,Brandenburg,,12880.0,1276861998
+34276,Velten,Velten,52.6833,13.1833,Germany,DE,DEU,Brandenburg,,12405.0,1276342323
+34305,Hungen,Hungen,50.4667,8.9,Germany,DE,DEU,Hessen,,12765.0,1276067778
+34314,Niefern-Öschelbronn,Niefern-Oschelbronn,48.9164,8.7842,Germany,DE,DEU,Baden-Württemberg,,12345.0,1276349542
+34323,Möckern,Mockern,52.1406,11.9525,Germany,DE,DEU,Sachsen-Anhalt,,12874.0,1276562892
+34357,Hemsbach,Hemsbach,49.5903,8.6564,Germany,DE,DEU,Baden-Württemberg,,11968.0,1276078759
+34379,Limburgerhof,Limburgerhof,49.4222,8.3919,Germany,DE,DEU,Rheinland-Pfalz,,11578.0,1276445051
+34382,Lauenburg,Lauenburg,53.3833,10.5667,Germany,DE,DEU,Schleswig-Holstein,,11644.0,1276704232
+34393,Bohmte,Bohmte,52.3667,8.3167,Germany,DE,DEU,Niedersachsen,,12741.0,1276943763
+34398,Bretzfeld,Bretzfeld,49.1833,9.4333,Germany,DE,DEU,Baden-Württemberg,,12651.0,1276507113
+34409,Altenstadt,Altenstadt,50.2856,8.945,Germany,DE,DEU,Hessen,,12437.0,1276344597
+34434,Fuldatal,Fuldatal,51.3484,9.5256,Germany,DE,DEU,Hessen,,12467.0,1276357406
+34456,Steinheim,Steinheim,51.8658,9.0944,Germany,DE,DEU,Nordrhein-Westfalen,,12657.0,1276434002
+34469,Kriftel,Kriftel,50.0828,8.4667,Germany,DE,DEU,Hessen,,11188.0,1276384053
+34527,Bad Urach,Bad Urach,48.4931,9.3986,Germany,DE,DEU,Baden-Württemberg,,12561.0,1276416917
+34529,Gaimersheim,Gaimersheim,48.8167,11.3667,Germany,DE,DEU,Bayern,,12251.0,1276719449
+34554,Wadersloh,Wadersloh,51.7386,8.2514,Germany,DE,DEU,Nordrhein-Westfalen,,12669.0,1276176692
+34579,Hirschaid,Hirschaid,49.8167,10.9833,Germany,DE,DEU,Bayern,,12458.0,1276140159
+34603,Brunsbüttel,Brunsbuttel,53.8964,9.1386,Germany,DE,DEU,Schleswig-Holstein,,12554.0,1276581579
+34609,Bad Abbach,Bad Abbach,48.9333,12.05,Germany,DE,DEU,Bayern,,12515.0,1276008199
+34610,Steinheim am der Murr,Steinheim am der Murr,48.9667,9.2833,Germany,DE,DEU,Baden-Württemberg,,12220.0,1276793728
+34611,Alpen,Alpen,51.575,6.5125,Germany,DE,DEU,Nordrhein-Westfalen,,12528.0,1276474767
+34655,Ladenburg,Ladenburg,49.4667,8.6167,Germany,DE,DEU,Baden-Württemberg,,12076.0,1276610621
+34664,Gundelfingen,Gundelfingen,48.0425,7.8657,Germany,DE,DEU,Baden-Württemberg,,11872.0,1276046048
+34668,Sulz am Neckar,Sulz am Neckar,48.3628,8.6317,Germany,DE,DEU,Baden-Württemberg,,12560.0,1276239131
+34669,Graben-Neudorf,Graben-Neudorf,49.1592,8.4894,Germany,DE,DEU,Baden-Württemberg,,12277.0,1276955602
+34674,Grünwald,Grunwald,48.0483,11.5317,Germany,DE,DEU,Bayern,,11287.0,1276645609
+34681,Winterberg,Winterberg,51.2,8.5167,Germany,DE,DEU,Nordrhein-Westfalen,,12611.0,1276682144
+34687,Roding,Roding,49.2,12.5167,Germany,DE,DEU,Bayern,,12587.0,1276027598
+34691,Feuchtwangen,Feuchtwangen,49.1667,10.3167,Germany,DE,DEU,Bayern,,12599.0,1276691065
+34709,Blaubeuren,Blaubeuren,48.4119,9.785,Germany,DE,DEU,Baden-Württemberg,,12521.0,1276939647
+34732,Heddesheim,Heddesheim,49.5053,8.6033,Germany,DE,DEU,Baden-Württemberg,,11859.0,1276190557
+34767,Erkner,Erkner,52.4167,13.75,Germany,DE,DEU,Brandenburg,,11935.0,1276566171
+34776,Rielasingen-Worblingen,Rielasingen-Worblingen,47.7347,8.8401,Germany,DE,DEU,Baden-Württemberg,,11995.0,1276133236
+34783,Twistringen,Twistringen,52.8,8.65,Germany,DE,DEU,Niedersachsen,,12527.0,1276091874
+34816,Edemissen,Edemissen,52.3667,10.2667,Germany,DE,DEU,Niedersachsen,,12502.0,1276000727
+34819,Durmersheim,Durmersheim,48.9383,8.2769,Germany,DE,DEU,Baden-Württemberg,,12160.0,1276764193
+34844,Wietmarschen,Wietmarschen,52.5331,7.1331,Germany,DE,DEU,Niedersachsen,,12507.0,1276669327
+34863,Anklam,Anklam,53.85,13.6833,Germany,DE,DEU,Mecklenburg-Vorpommern,,12385.0,1276192154
+34880,Neuenburg am Rhein,Neuenburg am Rhein,47.8147,7.5619,Germany,DE,DEU,Baden-Württemberg,,12314.0,1276286003
+34881,Linkenheim-Hochstetten,Linkenheim-Hochstetten,49.1261,8.41,Germany,DE,DEU,Baden-Württemberg,,12081.0,1276585901
+34936,Lindenberg im Allgäu,Lindenberg im Allgau,47.6,9.9,Germany,DE,DEU,Bayern,,11585.0,1276413375
+34941,Leutenbach,Leutenbach,48.8883,9.3914,Germany,DE,DEU,Baden-Württemberg,,11762.0,1276324506
+34961,Preußisch Oldendorf,Preussisch Oldendorf,52.2833,8.5,Germany,DE,DEU,Nordrhein-Westfalen,,12375.0,1276631008
+34963,Frohburg,Frohburg,51.0561,12.555,Germany,DE,DEU,Sachsen,,12470.0,1276859230
+34993,Bad Windsheim,Bad Windsheim,49.5,10.4167,Germany,DE,DEU,Bayern,,12382.0,1276120612
+34996,Ebersberg,Ebersberg,48.0833,11.9667,Germany,DE,DEU,Bayern,minor,12239.0,1276452047
+35051,Vilsbiburg,Vilsbiburg,48.45,12.35,Germany,DE,DEU,Bayern,,12325.0,1276843205
+35076,Jüterbog,Juterbog,51.9933,13.0728,Germany,DE,DEU,Brandenburg,,12423.0,1276769458
+35086,Möglingen,Moglingen,48.8883,9.1292,Germany,DE,DEU,Baden-Württemberg,,11361.0,1276353037
+35087,Bad Sassendorf,Bad Sassendorf,51.5831,8.1667,Germany,DE,DEU,Nordrhein-Westfalen,,12294.0,1276292004
+35102,Hessisch Lichtenau,Hessisch Lichtenau,51.2,9.7167,Germany,DE,DEU,Hessen,,12360.0,1276002742
+35123,Emstek,Emstek,52.8167,8.15,Germany,DE,DEU,Niedersachsen,,12351.0,1276929642
+35125,Gladenbach,Gladenbach,50.7681,8.5828,Germany,DE,DEU,Hessen,,12294.0,1276762551
+35150,Gaildorf,Gaildorf,49.0,9.7667,Germany,DE,DEU,Baden-Württemberg,,12268.0,1276657591
+35157,Murnau am Staffelsee,Murnau am Staffelsee,47.6833,11.2,Germany,DE,DEU,Bayern,,12128.0,1276454269
+35159,Teningen,Teningen,48.1269,7.8103,Germany,DE,DEU,Baden-Württemberg,,12145.0,1276711820
+35184,Enkesen,Enkesen,51.5006,7.975,Germany,DE,DEU,Nordrhein-Westfalen,,12197.0,1276726975
+35212,Issum,Issum,51.5389,6.4236,Germany,DE,DEU,Nordrhein-Westfalen,,12201.0,1276091414
+35242,Pößneck,Possneck,50.7,11.6,Germany,DE,DEU,Thüringen,,11924.0,1276601734
+35247,Harrislee,Harrislee,54.7972,9.3764,Germany,DE,DEU,Schleswig-Holstein,,11779.0,1276177135
+35261,Bad Fallingbostel,Bad Fallingbostel,52.8675,9.6967,Germany,DE,DEU,Niedersachsen,minor,12209.0,1276618111
+35287,Ludwigslust,Ludwigslust,53.3244,11.4972,Germany,DE,DEU,Mecklenburg-Vorpommern,,12233.0,1276582763
+35309,Jork,Jork,53.5344,9.6817,Germany,DE,DEU,Niedersachsen,,12183.0,1276599000
+35317,Maxhütte-Haidhof,Maxhutte-Haidhof,49.2,12.1,Germany,DE,DEU,Bayern,,12027.0,1276703973
+35334,Bad Freienwalde,Bad Freienwalde,52.7856,14.0325,Germany,DE,DEU,Brandenburg,,12268.0,1276111750
+35350,Titisee-Neustadt,Titisee-Neustadt,47.9122,8.2147,Germany,DE,DEU,Baden-Württemberg,,12216.0,1276001947
+35351,Egelsbach,Egelsbach,49.9694,8.6667,Germany,DE,DEU,Hessen,,11583.0,1276317515
+35380,Meitingen,Meitingen,48.5333,10.8333,Germany,DE,DEU,Bayern,,11936.0,1276827144
+35395,Hagenow,Hagenow,53.4167,11.1833,Germany,DE,DEU,Mecklenburg-Vorpommern,,12146.0,1276783883
+35401,Nordstemmen,Nordstemmen,52.1605,9.7839,Germany,DE,DEU,Niedersachsen,,12123.0,1276522767
+35433,Lehre,Lehre,52.3167,10.6667,Germany,DE,DEU,Niedersachsen,,12135.0,1276041656
+35452,Laichingen,Laichingen,48.4897,9.6861,Germany,DE,DEU,Baden-Württemberg,,12118.0,1276291281
+35479,Zeuthen,Zeuthen,52.3667,13.6167,Germany,DE,DEU,Brandenburg,,11381.0,1276555681
+35484,Lauffen am Neckar,Lauffen am Neckar,49.0833,9.15,Germany,DE,DEU,Baden-Württemberg,,11755.0,1276145495
+35487,Leingarten,Leingarten,49.15,9.1167,Germany,DE,DEU,Baden-Württemberg,,11772.0,1276343480
+35498,Burladingen,Burladingen,48.2903,9.1094,Germany,DE,DEU,Baden-Württemberg,,12169.0,1276159850
+35501,Tholey,Tholey,49.4833,7.0333,Germany,DE,DEU,Saarland,,12059.0,1276082414
+35504,Essenbach,Essenbach,48.6167,12.2167,Germany,DE,DEU,Bayern,,12120.0,1276545666
+35523,Oberschleißheim,Oberschleissheim,48.25,11.5667,Germany,DE,DEU,Bayern,,11864.0,1276407892
+35571,Korb,Korb,48.8417,9.3611,Germany,DE,DEU,Baden-Württemberg,,10942.0,1276683621
+35576,Wolgast,Wolgast,54.05,13.7667,Germany,DE,DEU,Mecklenburg-Vorpommern,,12028.0,1276669762
+35593,Dinkelsbühl,Dinkelsbuhl,49.0708,10.3194,Germany,DE,DEU,Bayern,,12053.0,1276514661
+35603,Mettlach,Mettlach,49.4917,6.5972,Germany,DE,DEU,Saarland,,12049.0,1276284656
+35625,Neuenrade,Neuenrade,51.2839,7.78,Germany,DE,DEU,Nordrhein-Westfalen,,11982.0,1276329110
+35653,Mettingen,Mettingen,52.3167,7.7806,Germany,DE,DEU,Nordrhein-Westfalen,,11883.0,1276290048
+35657,Zwönitz,Zwonitz,50.6167,12.8,Germany,DE,DEU,Sachsen,,11993.0,1276062398
+35662,Unterföhring,Unterfohring,48.1917,11.6528,Germany,DE,DEU,Bayern,,11296.0,1276741944
+35682,Havixbeck,Havixbeck,51.9778,7.4167,Germany,DE,DEU,Nordrhein-Westfalen,,11940.0,1276193299
+35697,Nußloch,Nussloch,49.3236,8.6939,Germany,DE,DEU,Baden-Württemberg,,11325.0,1276967594
+35702,Planegg,Planegg,48.1047,11.4306,Germany,DE,DEU,Bayern,,11126.0,1276760945
+35709,Schwieberdingen,Schwieberdingen,48.8778,9.075,Germany,DE,DEU,Baden-Württemberg,,11383.0,1276325701
+35726,Denkendorf,Denkendorf,48.6958,9.3175,Germany,DE,DEU,Baden-Württemberg,,11277.0,1276329387
+35755,Rosdorf,Rosdorf,51.5,9.9,Germany,DE,DEU,Niedersachsen,,11949.0,1276587321
+35757,Zetel,Zetel,53.4197,7.9742,Germany,DE,DEU,Niedersachsen,,11981.0,1276995932
+35768,Perleberg,Perleberg,53.0667,11.8667,Germany,DE,DEU,Brandenburg,minor,12035.0,1276426476
+35858,Welver,Welver,51.6167,7.9583,Germany,DE,DEU,Nordrhein-Westfalen,,11940.0,1276989258
+35872,Büdelsdorf,Budelsdorf,54.3167,9.6833,Germany,DE,DEU,Schleswig-Holstein,,10456.0,1276054085
+35875,Neustadt,Neustadt,51.0239,14.2167,Germany,DE,DEU,Sachsen,,11926.0,1276897254
+35881,Oestrich-Winkel,Oestrich-Winkel,50.0,8.0,Germany,DE,DEU,Rheinland-Pfalz,,11869.0,1276526238
+35899,Kissing,Kissing,48.3,10.9833,Germany,DE,DEU,Bayern,,11556.0,1276554705
+35914,Weeze,Weeze,51.6267,6.1967,Germany,DE,DEU,Nordrhein-Westfalen,,11900.0,1276950417
+35929,Wildau,Wildau,52.3167,13.6333,Germany,DE,DEU,Brandenburg,,10848.0,1276865619
+35939,Apen,Apen,53.2214,7.8097,Germany,DE,DEU,Niedersachsen,,11883.0,1276951356
+35961,Osterhofen,Osterhofen,48.7019,13.02,Germany,DE,DEU,Bayern,,11920.0,1276874172
+36009,Sassenburg,Sassenburg,52.5167,10.6333,Germany,DE,DEU,Niedersachsen,,11872.0,1276886023
+36033,Hildburghausen,Hildburghausen,50.4167,10.75,Germany,DE,DEU,Thüringen,minor,11836.0,1276098756
+36035,Lichtenstein,Lichtenstein,50.7564,12.6317,Germany,DE,DEU,Sachsen,,11285.0,1276704122
+36048,Geisenheim,Geisenheim,49.9844,7.9672,Germany,DE,DEU,Hessen,,11704.0,1276461244
+36053,Diez,Diez,50.3708,8.0158,Germany,DE,DEU,Rheinland-Pfalz,,11092.0,1276836214
+36096,Bad Dürrenberg,Bad Durrenberg,51.2833,12.0667,Germany,DE,DEU,Sachsen-Anhalt,,11643.0,1276847644
+36106,Drolshagen,Drolshagen,51.0333,7.7667,Germany,DE,DEU,Nordrhein-Westfalen,,11779.0,1276163887
+36113,Möhnesee,Mohnesee,51.4958,8.1306,Germany,DE,DEU,Nordrhein-Westfalen,,11852.0,1276279418
+36133,Mülheim-Kärlich,Mulheim-Karlich,50.3869,7.4953,Germany,DE,DEU,Rheinland-Pfalz,,11248.0,1276940149
+36169,Miesbach,Miesbach,47.7833,11.8333,Germany,DE,DEU,Bayern,minor,11562.0,1276609193
+36178,Burgthann,Burgthann,49.3563,11.3176,Germany,DE,DEU,Bayern,,11614.0,1276619152
+36186,Langgöns,Langgons,50.5,8.6667,Germany,DE,DEU,Hessen,,11683.0,1276380215
+36199,Höhenkirchen-Siegertsbrunn,Hohenkirchen-Siegertsbrunn,48.0167,11.7333,Germany,DE,DEU,Bayern,,11166.0,1276421058
+36237,Rangsdorf,Rangsdorf,52.2831,13.4331,Germany,DE,DEU,Brandenburg,,11540.0,1276090863
+36249,Bopfingen,Bopfingen,48.8569,10.3522,Germany,DE,DEU,Baden-Württemberg,,11727.0,1276407317
+36255,Rodenbach,Rodenbach,50.15,9.0333,Germany,DE,DEU,Hessen,,11204.0,1276944139
+36274,Gerstetten,Gerstetten,48.6225,10.0206,Germany,DE,DEU,Baden-Württemberg,,11737.0,1276822325
+36275,Coswig,Coswig,51.8833,12.4333,Germany,DE,DEU,Sachsen-Anhalt,,11824.0,1276417362
+36277,Oberderdingen,Oberderdingen,49.0625,8.8019,Germany,DE,DEU,Baden-Württemberg,,11517.0,1276945487
+36300,Monschau,Monschau,50.56,6.2564,Germany,DE,DEU,Nordrhein-Westfalen,,11726.0,1276023228
+36304,Wolnzach,Wolnzach,48.6,11.6167,Germany,DE,DEU,Bayern,,11719.0,1276311526
+36309,Hauzenberg,Hauzenberg,48.65,13.6333,Germany,DE,DEU,Bayern,,11703.0,1276386776
+36337,Mömbris,Mombris,50.0667,9.1667,Germany,DE,DEU,Bayern,,11507.0,1276210948
+36357,Überherrn,Uberherrn,49.25,6.7,Germany,DE,DEU,Saarland,,11487.0,1276864490
+36391,Scharbeutz,Scharbeutz,54.0214,10.7456,Germany,DE,DEU,Schleswig-Holstein,,11580.0,1276805857
+36445,Raesfeld,Raesfeld,51.7667,6.8333,Germany,DE,DEU,Nordrhein-Westfalen,,11574.0,1276150873
+36488,Sinzheim,Sinzheim,48.7619,8.1669,Germany,DE,DEU,Baden-Württemberg,,11351.0,1276428146
+36494,Wolmirstedt,Wolmirstedt,52.2519,11.6297,Germany,DE,DEU,Sachsen-Anhalt,,11536.0,1276525433
+36502,Peiting,Peiting,47.8,10.9333,Germany,DE,DEU,Bayern,,11588.0,1276001531
+36505,Raubling,Raubling,47.7881,12.1047,Germany,DE,DEU,Bayern,,11485.0,1276126414
+36527,Harsum,Harsum,52.2054,9.96,Germany,DE,DEU,Niedersachsen,,11496.0,1276328297
+36528,Gräfenhainichen,Grafenhainichen,51.7167,12.4333,Germany,DE,DEU,Sachsen-Anhalt,,11654.0,1276450109
+36544,Walldürn,Walldurn,49.5831,9.3681,Germany,DE,DEU,Baden-Württemberg,,11612.0,1276425115
+36578,Altdorf,Altdorf,48.5667,12.1167,Germany,DE,DEU,Bayern,,11215.0,1276813399
+36580,Geisenfeld,Geisenfeld,48.6667,11.6,Germany,DE,DEU,Bayern,,11569.0,1276340970
+36590,Stelle,Stelle,53.3667,10.1167,Germany,DE,DEU,Niedersachsen,,11402.0,1276799891
+36607,Billerbeck,Billerbeck,51.9792,7.295,Germany,DE,DEU,Nordrhein-Westfalen,,11566.0,1276001817
+36625,Ostrhauderfehn,Ostrhauderfehn,53.1167,7.6167,Germany,DE,DEU,Niedersachsen,,11458.0,1276456715
+36626,Eningen unter Achalm,Eningen unter Achalm,48.4831,9.2522,Germany,DE,DEU,Baden-Württemberg,,11199.0,1276247117
+36645,Bad Nenndorf,Bad Nenndorf,52.3369,9.3786,Germany,DE,DEU,Niedersachsen,,11189.0,1276123356
+36663,Schwaigern,Schwaigern,49.1333,9.05,Germany,DE,DEU,Baden-Württemberg,,11438.0,1276311065
+36680,Hallbergmoos,Hallbergmoos,48.3333,11.75,Germany,DE,DEU,Bayern,,11337.0,1276167916
+36681,Rudersberg,Rudersberg,48.8856,9.5281,Germany,DE,DEU,Baden-Württemberg,,11382.0,1276269287
+36729,Dautphe,Dautphe,50.8583,8.55,Germany,DE,DEU,Hessen,,11475.0,1276569570
+36753,Schöningen,Schoningen,52.1333,10.95,Germany,DE,DEU,Niedersachsen,,11306.0,1276898175
+36780,Marktheidenfeld,Marktheidenfeld,49.85,9.6,Germany,DE,DEU,Bayern,,11292.0,1276902218
+36786,Nauheim,Nauheim,49.9447,8.4548,Germany,DE,DEU,Hessen,,10819.0,1276153324
+36821,Bannewitz,Bannewitz,50.9931,13.7167,Germany,DE,DEU,Sachsen,,11157.0,1276329981
+36826,Stollberg,Stollberg,50.7083,12.7783,Germany,DE,DEU,Sachsen,,11303.0,1276429853
+36832,Werther,Werther,52.075,8.4125,Germany,DE,DEU,Nordrhein-Westfalen,,11274.0,1276520918
+36838,Rutesheim,Rutesheim,48.8097,8.945,Germany,DE,DEU,Baden-Württemberg,,10916.0,1276637060
+36845,Adendorf,Adendorf,53.2833,10.45,Germany,DE,DEU,Niedersachsen,,10903.0,1276724557
+36850,Recke,Recke,52.37,7.7189,Germany,DE,DEU,Nordrhein-Westfalen,,11371.0,1276107083
+36858,Schönaich,Schonaich,48.6569,9.0628,Germany,DE,DEU,Baden-Württemberg,,10813.0,1276014009
+36860,Trostberg an der Alz,Trostberg an der Alz,48.0167,12.55,Germany,DE,DEU,Bayern,,11355.0,1276546741
+36897,Kirchhundem,Kirchhundem,51.1,8.0833,Germany,DE,DEU,Nordrhein-Westfalen,,11485.0,1276082488
+36903,Bad Schwalbach,Bad Schwalbach,50.1333,8.0667,Germany,DE,DEU,Hessen,minor,11277.0,1276875328
+36907,Wittingen,Wittingen,52.7167,10.7333,Germany,DE,DEU,Niedersachsen,,11503.0,1276184475
+36920,Rheinau,Rheinau,48.6678,7.9347,Germany,DE,DEU,Baden-Württemberg,,11395.0,1276702024
+36923,Cadolzburg,Cadolzburg,49.45,10.8667,Germany,DE,DEU,Bayern,,11298.0,1276504101
+36933,Hasbergen,Hasbergen,52.2167,7.9167,Germany,DE,DEU,Niedersachsen,,11024.0,1276722564
+36941,Plankstadt,Plankstadt,49.3933,8.5942,Germany,DE,DEU,Baden-Württemberg,,10321.0,1276993241
+36980,Karlsdorf-Neuthard,Karlsdorf-Neuthard,49.1364,8.5439,Germany,DE,DEU,Baden-Württemberg,,10746.0,1276052458
+36982,Welzheim,Welzheim,48.8747,9.6344,Germany,DE,DEU,Baden-Württemberg,,11219.0,1276045821
+36986,Rothenburg ob der Tauber,Rothenburg ob der Tauber,49.3833,10.1833,Germany,DE,DEU,Bayern,,11243.0,1276993004
+36996,Balve,Balve,51.3333,7.8667,Germany,DE,DEU,Nordrhein-Westfalen,,11361.0,1276429587
+37031,Ochsenfurt,Ochsenfurt,49.65,10.0667,Germany,DE,DEU,Bayern,,11319.0,1276225092
+37069,Prien am Chiemsee,Prien am Chiemsee,47.856,12.3462,Germany,DE,DEU,Bayern,,10950.0,1276129063
+37084,Herbolzheim,Herbolzheim,48.2219,7.7775,Germany,DE,DEU,Baden-Württemberg,,11156.0,1276610094
+37170,Kall,Kall,50.5497,6.5497,Germany,DE,DEU,Nordrhein-Westfalen,,11264.0,1276548947
+37229,Handewitt,Handewitt,54.7667,9.3167,Germany,DE,DEU,Schleswig-Holstein,,11250.0,1276919280
+37243,Lauingen,Lauingen,48.5667,10.4333,Germany,DE,DEU,Bayern,,11137.0,1276983214
+37255,Westerkappeln,Westerkappeln,52.3153,7.8806,Germany,DE,DEU,Nordrhein-Westfalen,,11249.0,1276848242
+37287,Herrsching am Ammersee,Herrsching am Ammersee,48.0,11.1833,Germany,DE,DEU,Bayern,,10843.0,1276350477
+37304,Ostbevern,Ostbevern,52.0389,7.8458,Germany,DE,DEU,Nordrhein-Westfalen,,11229.0,1276717272
+37329,Eichenzell,Eichenzell,50.4934,9.6961,Germany,DE,DEU,Hessen,,11145.0,1276335851
+37354,Mülsen,Mulsen,50.7447,12.5747,Germany,DE,DEU,Sachsen,,11113.0,1276902814
+37374,Eisenberg,Eisenberg,50.9667,11.9,Germany,DE,DEU,Thüringen,minor,10885.0,1276013201
+37447,Kleinblittersdorf,Kleinblittersdorf,49.1583,7.0381,Germany,DE,DEU,Saarland,,10885.0,1276026284
+37465,Drochtersen,Drochtersen,53.7,9.3833,Germany,DE,DEU,Niedersachsen,,11184.0,1276168894
+37467,Nieder-Olm,Nieder-Olm,49.9083,8.2028,Germany,DE,DEU,Rheinland-Pfalz,,10348.0,1276571549
+37489,Feldkirchen-Westerham,Feldkirchen-Westerham,47.9,11.85,Germany,DE,DEU,Bayern,,11055.0,1276377703
+37500,Engen,Engen,47.8528,8.7714,Germany,DE,DEU,Baden-Württemberg,,11101.0,1276209924
+37522,Lorch,Lorch,48.7983,9.6883,Germany,DE,DEU,Baden-Württemberg,,10929.0,1276178171
+37524,Glückstadt,Gluckstadt,53.7917,9.4219,Germany,DE,DEU,Schleswig-Holstein,,10779.0,1276320912
+37525,Kirchseeon,Kirchseeon,48.0731,11.8861,Germany,DE,DEU,Bayern,,10655.0,1276337335
+37538,Friedrichsthal,Friedrichsthal,49.3256,7.0961,Germany,DE,DEU,Saarland,,10133.0,1276137098
+37561,Kranenburg,Kranenburg,51.7897,6.0072,Germany,DE,DEU,Nordrhein-Westfalen,,11087.0,1276141690
+37573,Braunfels,Braunfels,50.5167,8.3833,Germany,DE,DEU,Hessen,,10994.0,1276721051
+37617,Gottmadingen,Gottmadingen,47.7356,8.7767,Germany,DE,DEU,Baden-Württemberg,,10750.0,1276476754
+37627,Gengenbach,Gengenbach,48.4,8.0167,Germany,DE,DEU,Baden-Württemberg,,11023.0,1276778224
+37651,Isselburg,Isselburg,51.8331,6.4667,Germany,DE,DEU,Nordrhein-Westfalen,,10928.0,1276291183
+37684,Regen,Regen,48.9667,13.1333,Germany,DE,DEU,Bayern,minor,11001.0,1276612143
+37689,Hagen im Bremischen,Hagen im Bremischen,53.3577,8.6456,Germany,DE,DEU,Niedersachsen,,11110.0,1276318696
+37707,Barmstedt,Barmstedt,53.7833,9.7667,Germany,DE,DEU,Schleswig-Holstein,,10542.0,1276501444
+37711,Osterwieck,Osterwieck,51.9667,10.7167,Germany,DE,DEU,Sachsen-Anhalt,,11103.0,1276571992
+37714,Betzdorf,Betzdorf,50.7856,7.8728,Germany,DE,DEU,Rheinland-Pfalz,,10141.0,1276302333
+37735,Belzig,Belzig,52.1422,12.5956,Germany,DE,DEU,Brandenburg,,11096.0,1276375390
+37746,Flöha,Floha,50.8558,13.0714,Germany,DE,DEU,Sachsen,,10762.0,1276141987
+37790,Weinböhla,Weinbohla,51.1667,13.5667,Germany,DE,DEU,Sachsen,,10568.0,1276478682
+37799,Hammelburg,Hammelburg,50.1167,9.9,Germany,DE,DEU,Bayern,,11037.0,1276000245
+37847,Herxheim,Herxheim,49.1469,8.22,Germany,DE,DEU,Rheinland-Pfalz,,10732.0,1276512469
+37854,Goldbach,Goldbach,49.9889,9.1864,Germany,DE,DEU,Bayern,,10171.0,1276681530
+37895,Burgstädt,Burgstadt,50.9167,12.8167,Germany,DE,DEU,Sachsen,,10672.0,1276198411
+37899,Olbernhau,Olbernhau,50.6667,13.3333,Germany,DE,DEU,Sachsen,,10991.0,1276224877
+37922,Donzdorf,Donzdorf,48.6833,9.8167,Germany,DE,DEU,Baden-Württemberg,,10795.0,1276029380
+37955,Malente,Malente,54.1667,10.55,Germany,DE,DEU,Schleswig-Holstein,,10895.0,1276687583
+37970,Schkopau,Schkopau,51.3833,11.9667,Germany,DE,DEU,Sachsen-Anhalt,,10937.0,1276553925
+37973,Schleusingen,Schleusingen,50.5167,10.75,Germany,DE,DEU,Thüringen,,10960.0,1276153970
+37975,Stephanskirchen,Stephanskirchen,47.85,12.1833,Germany,DE,DEU,Bayern,,10643.0,1276424384
+37990,Gernsheim,Gernsheim,49.75,8.4833,Germany,DE,DEU,Hessen,,10772.0,1276371631
+37999,Waldkirchen,Waldkirchen,48.7305,13.6011,Germany,DE,DEU,Bayern,,10901.0,1276702006
+38037,Rüthen,Ruthen,51.4933,8.4833,Germany,DE,DEU,Nordrhein-Westfalen,,10957.0,1276776072
+38083,Altensteig,Altensteig,48.5864,8.6047,Germany,DE,DEU,Baden-Württemberg,,10806.0,1276878570
+38125,Diedorf,Diedorf,48.35,10.7667,Germany,DE,DEU,Bayern,,10667.0,1276299283
+38132,Süßen,Sussen,48.6797,9.7575,Germany,DE,DEU,Baden-Württemberg,,10192.0,1276876267
+38143,Nörvenich,Norvenich,50.8,6.65,Germany,DE,DEU,Nordrhein-Westfalen,,10816.0,1276001252
+38148,Haigerloch,Haigerloch,48.3647,8.805,Germany,DE,DEU,Baden-Württemberg,,10836.0,1276522466
+38183,Neuhof,Neuhof,50.4333,9.6167,Germany,DE,DEU,Hessen,,10843.0,1276724879
+38207,Bischofswerda,Bischofswerda,51.1275,14.1797,Germany,DE,DEU,Sachsen,,10723.0,1276164300
+38214,Bad Iburg,Bad Iburg,52.1592,8.0472,Germany,DE,DEU,Niedersachsen,,10661.0,1276794541
+38216,Boizenburg,Boizenburg,53.3667,10.7167,Germany,DE,DEU,Mecklenburg-Vorpommern,,10724.0,1276001527
+38226,Burgkirchen an der Alz,Burgkirchen an der Alz,48.1667,12.7167,Germany,DE,DEU,Bayern,,10710.0,1276642803
+38245,Ilvesheim,Ilvesheim,49.4725,8.5675,Germany,DE,DEU,Baden-Württemberg,,9346.0,1276902316
+38248,Kaufering,Kaufering,48.0833,10.8833,Germany,DE,DEU,Bayern,,10355.0,1276831409
+38291,Langenzenn,Langenzenn,49.4944,10.7947,Germany,DE,DEU,Bayern,,10684.0,1276092377
+38318,Riedlingen,Riedlingen,48.1553,9.4728,Germany,DE,DEU,Baden-Württemberg,,10741.0,1276567884
+38321,Meßstetten,Messstetten,48.1806,8.9625,Germany,DE,DEU,Baden-Württemberg,,10766.0,1276150050
+38335,Kenzingen,Kenzingen,48.1917,7.7683,Germany,DE,DEU,Baden-Württemberg,,10614.0,1276334266
+38376,Erlenbach am Main,Erlenbach am Main,49.8039,9.1639,Germany,DE,DEU,Bayern,,10256.0,1276645888
+38387,Lollar,Lollar,50.6497,8.7044,Germany,DE,DEU,Hessen,,10395.0,1276402462
+38401,Hambühren,Hambuhren,52.6333,9.9833,Germany,DE,DEU,Niedersachsen,,10683.0,1276102080
+38428,Fürth,Furth,49.6502,8.7803,Germany,DE,DEU,Hessen,,10587.0,1276167147
+38481,Bestwig,Bestwig,51.3667,8.4,Germany,DE,DEU,Nordrhein-Westfalen,,10687.0,1276089671
+38488,Weingarten,Weingarten,49.0514,8.5306,Germany,DE,DEU,Baden-Württemberg,,10482.0,1276014784
+38526,Braunsbedra,Braunsbedra,51.2833,11.9,Germany,DE,DEU,Sachsen-Anhalt,,10678.0,1276157165
+38547,Wald-Michelbach,Wald-Michelbach,49.5724,8.8243,Germany,DE,DEU,Hessen,,10664.0,1276767345
+38601,Demmin,Demmin,53.905,13.0439,Germany,DE,DEU,Mecklenburg-Vorpommern,,10657.0,1276386093
+38611,Bleicherode,Bleicherode,51.4167,10.5667,Germany,DE,DEU,Thüringen,,10419.0,1276520742
+38638,Birkenfeld,Birkenfeld,48.8697,8.6361,Germany,DE,DEU,Baden-Württemberg,,10238.0,1276313867
+38651,Felsberg,Felsberg,51.1333,9.4167,Germany,DE,DEU,Hessen,,10638.0,1276987745
+38662,Köngen,Kongen,48.6819,9.3667,Germany,DE,DEU,Baden-Württemberg,,9975.0,1276029285
+38679,Tangerhütte,Tangerhutte,52.4333,11.8,Germany,DE,DEU,Sachsen-Anhalt,,10718.0,1276201487
+38690,Böhl-Iggelheim,Bohl-Iggelheim,49.3714,8.3086,Germany,DE,DEU,Rheinland-Pfalz,,10433.0,1276858476
+38719,Lichtenau,Lichtenau,51.6,8.8833,Germany,DE,DEU,Nordrhein-Westfalen,,10685.0,1276302835
+38745,Dießen am Ammersee,Diessen am Ammersee,47.95,11.1,Germany,DE,DEU,Bayern,,10599.0,1276330622
+38799,Wendeburg,Wendeburg,52.3167,10.4,Germany,DE,DEU,Niedersachsen,,10526.0,1276401902
+38801,Taufkirchen,Taufkirchen,48.3439,12.1303,Germany,DE,DEU,Bayern,,10550.0,1276593079
+38841,Neuenhaus,Neuenhaus,52.5,6.9667,Germany,DE,DEU,Niedersachsen,,10356.0,1276154780
+38856,Hilter,Hilter,52.1357,8.1471,Germany,DE,DEU,Niedersachsen,,10480.0,1276002004
+38859,Merchweiler,Merchweiler,49.3603,7.06,Germany,DE,DEU,Saarland,,9905.0,1276171496
+38863,Markt Indersdorf,Markt Indersdorf,48.3667,11.3667,Germany,DE,DEU,Bayern,,10523.0,1276148696
+38870,Burgau,Burgau,48.4322,10.4069,Germany,DE,DEU,Bayern,,10278.0,1276192712
+38889,Ruppichteroth,Ruppichteroth,50.8456,7.4881,Germany,DE,DEU,Nordrhein-Westfalen,,10496.0,1276384709
+38896,Weilheim an der Teck,Weilheim an der Teck,48.615,9.5386,Germany,DE,DEU,Baden-Württemberg,,10275.0,1276869346
+38904,Querfurt,Querfurt,51.3833,11.6,Germany,DE,DEU,Sachsen-Anhalt,,10593.0,1276096185
+38929,Morbach,Morbach,49.8167,7.1167,Germany,DE,DEU,Rheinland-Pfalz,,10565.0,1276004908
+38939,Altötting,Altotting,48.2267,12.6783,Germany,DE,DEU,Bayern,minor,10119.0,1276161581
+38960,Grevesmühlen,Grevesmuhlen,53.8667,11.1667,Germany,DE,DEU,Mecklenburg-Vorpommern,,10440.0,1276634445
+38973,Bobenheim-Roxheim,Bobenheim-Roxheim,49.5839,8.3611,Germany,DE,DEU,Rheinland-Pfalz,,10154.0,1276712928
+38992,Höchberg,Hochberg,49.7831,9.8817,Germany,DE,DEU,Bayern,,9379.0,1276298566
+39021,Aerzen,Aerzen,52.0496,9.2638,Germany,DE,DEU,Niedersachsen,,10510.0,1276826554
+39025,Schalksmühle,Schalksmuhle,51.2403,7.5333,Germany,DE,DEU,Nordrhein-Westfalen,,10341.0,1276387569
+39026,Gommern,Gommern,52.0667,11.8333,Germany,DE,DEU,Sachsen-Anhalt,,10543.0,1276399095
+39056,Wustermark,Wustermark,52.5497,12.9497,Germany,DE,DEU,Brandenburg,,10401.0,1276932359
+39074,Wahlstedt,Wahlstedt,53.95,10.2167,Germany,DE,DEU,Schleswig-Holstein,,9958.0,1276000715
+39094,Nossen,Nossen,51.05,13.3,Germany,DE,DEU,Sachsen,,10498.0,1276123820
+39129,Dallgow-Döberitz,Dallgow-Doberitz,52.5331,13.05,Germany,DE,DEU,Brandenburg,,10415.0,1276604293
+39156,Augustdorf,Augustdorf,51.9094,8.7317,Germany,DE,DEU,Nordrhein-Westfalen,,10317.0,1276232704
+39181,Altenholz,Altenholz,54.4,10.1333,Germany,DE,DEU,Schleswig-Holstein,,10024.0,1276597876
+39184,Bad Orb,Bad Orb,50.2167,9.35,Germany,DE,DEU,Hessen,,10333.0,1276166672
+39187,Veitshöchheim,Veitshochheim,49.8328,9.8817,Germany,DE,DEU,Bayern,,9652.0,1276315080
+39209,Reiskirchen,Reiskirchen,50.6,8.8333,Germany,DE,DEU,Hessen,,10310.0,1276387894
+39210,Bad Lauterberg,Bad Lauterberg,51.6317,10.4706,Germany,DE,DEU,Niedersachsen,,10290.0,1276934554
+39217,Altenberge,Altenberge,52.0458,7.4653,Germany,DE,DEU,Nordrhein-Westfalen,,10371.0,1276349933
+39223,Wilkau-Haßlau,Wilkau-Hasslau,50.6667,12.5167,Germany,DE,DEU,Sachsen,,9784.0,1276704667
+39254,Appenweier,Appenweier,48.5397,7.98,Germany,DE,DEU,Baden-Württemberg,,10256.0,1276074686
+39267,Höchst im Odenwald,Hochst im Odenwald,49.7992,8.9942,Germany,DE,DEU,Hessen,,10185.0,1276437736
+39290,Schwaikheim,Schwaikheim,48.8714,9.3531,Germany,DE,DEU,Baden-Württemberg,,9481.0,1276194197
+39305,Kirchzarten,Kirchzarten,47.9667,7.95,Germany,DE,DEU,Baden-Württemberg,,10030.0,1276548951
+39323,Lahstedt,Lahstedt,52.25,10.2167,Germany,DE,DEU,Niedersachsen,,10262.0,1276001876
+39327,Bad Wildbad,Bad Wildbad,48.7503,8.5506,Germany,DE,DEU,Baden-Württemberg,,10397.0,1276260316
+39349,Steinfeld,Steinfeld,52.6,8.2167,Germany,DE,DEU,Niedersachsen,,10316.0,1276800312
+39350,Wildberg,Wildberg,48.6239,8.7472,Germany,DE,DEU,Baden-Württemberg,,10306.0,1276603722
+39362,Königsbach-Stein,Konigsbach-Stein,48.9664,8.6089,Germany,DE,DEU,Baden-Württemberg,,10179.0,1276050894
+39375,Klipphausen,Klipphausen,51.0833,13.5333,Germany,DE,DEU,Sachsen,,10384.0,1276821311
+39386,Altusried,Altusried,47.8,10.2167,Germany,DE,DEU,Bayern,,10361.0,1276723201
+39387,Aulendorf,Aulendorf,47.9542,9.6389,Germany,DE,DEU,Baden-Württemberg,,10277.0,1276668317
+39392,Niebüll,Niebull,54.7881,8.8296,Germany,DE,DEU,Schleswig-Holstein,,10139.0,1276213521
+39402,Bogen,Bogen,48.9167,12.6833,Germany,DE,DEU,Bayern,,10263.0,1276422463
+39407,Tangermünde,Tangermunde,52.5408,11.9689,Germany,DE,DEU,Sachsen-Anhalt,,10350.0,1276714669
+39419,Mörlenbach,Morlenbach,49.599,8.7369,Germany,DE,DEU,Hessen,,10091.0,1276069994
+39426,Neuenstadt am Kocher,Neuenstadt am Kocher,49.2333,9.3333,Germany,DE,DEU,Baden-Württemberg,,10211.0,1276757079
+39472,Schwaig,Schwaig,49.4692,11.2008,Germany,DE,DEU,Bayern,,8926.0,1276904945
+39485,Großburgwedel,Grossburgwedel,52.4933,9.8586,Germany,DE,DEU,Niedersachsen,,10306.0,1276104367
+39527,Werlte,Werlte,52.85,7.6833,Germany,DE,DEU,Niedersachsen,,10260.0,1276655654
+39540,Merzenich,Merzenich,50.8262,6.5267,Germany,DE,DEU,Nordrhein-Westfalen,,10149.0,1276724272
+39546,Anröchte,Anrochte,51.5667,8.3333,Germany,DE,DEU,Nordrhein-Westfalen,,10275.0,1276004303
+39552,Emsbüren,Emsburen,52.3925,7.2914,Germany,DE,DEU,Niedersachsen,,10338.0,1276520111
+39574,Weil im Schönbuch,Weil im Schonbuch,48.6214,9.0611,Germany,DE,DEU,Baden-Württemberg,,10018.0,1276376071
+39590,Bad Ems,Bad Ems,50.3381,7.7106,Germany,DE,DEU,Rheinland-Pfalz,minor,9761.0,1276819164
+39601,Simbach am Inn,Simbach am Inn,48.2667,13.0167,Germany,DE,DEU,Bayern,,10111.0,1276572176
+39602,Pasewalk,Pasewalk,53.5,14.0,Germany,DE,DEU,Mecklenburg-Vorpommern,,10213.0,1276152058
+39605,Morsbach,Morsbach,50.8667,7.7167,Germany,DE,DEU,Nordrhein-Westfalen,,10210.0,1276963409
+39634,Bad Frankenhausen,Bad Frankenhausen,51.3558,11.1011,Germany,DE,DEU,Thüringen,,10230.0,1276187719
+39651,Steinau an der Straße,Steinau an der Strasse,50.3167,9.4667,Germany,DE,DEU,Hessen,,10275.0,1276321802
+39661,Werneck,Werneck,49.9833,10.1,Germany,DE,DEU,Bayern,,10231.0,1276199382
+39688,Münchberg,Munchberg,50.2,11.7667,Germany,DE,DEU,Bayern,,10215.0,1276739492
+39690,Nideggen,Nideggen,50.7,6.4833,Germany,DE,DEU,Nordrhein-Westfalen,,10204.0,1276330889
+39693,Kirkel,Kirkel,49.2833,7.2333,Germany,DE,DEU,Saarland,,10040.0,1276147467
+39697,Nordkirchen,Nordkirchen,51.7381,7.5256,Germany,DE,DEU,Nordrhein-Westfalen,,10166.0,1276717351
+39704,Neustadt,Neustadt,50.85,9.1167,Germany,DE,DEU,Hessen,,10177.0,1276694590
+39730,Ottendorf-Okrilla,Ottendorf-Okrilla,51.1792,13.8261,Germany,DE,DEU,Sachsen,,9965.0,1276340618
+39755,Marpingen,Marpingen,49.45,7.05,Germany,DE,DEU,Saarland,,10086.0,1276606720
+39758,Aich,Aich,48.6228,9.2372,Germany,DE,DEU,Baden-Württemberg,,9919.0,1276245097
+39781,Friedeburg,Friedeburg,53.45,7.8333,Germany,DE,DEU,Niedersachsen,,10269.0,1276711617
+39790,Bieber,Bieber,50.6,8.5833,Germany,DE,DEU,Hessen,,10098.0,1276631690
+39797,Dettingen an der Erms,Dettingen an der Erms,48.53,9.3472,Germany,DE,DEU,Baden-Württemberg,,9712.0,1276179914
+39879,Roßtal,Rosstal,49.4,10.8833,Germany,DE,DEU,Bayern,,10070.0,1276297806
+39882,Schönwalde-Siedlung,Schonwalde-Siedlung,52.65,12.9833,Germany,DE,DEU,Brandenburg,,10190.0,1276477512
+39924,Pliezhausen,Pliezhausen,48.5586,9.2058,Germany,DE,DEU,Baden-Württemberg,,9721.0,1276097407
+39946,Heubach,Heubach,48.7881,9.9333,Germany,DE,DEU,Baden-Württemberg,,9892.0,1276568606
+39956,Magstadt,Magstadt,48.7422,8.965,Germany,DE,DEU,Baden-Württemberg,,9763.0,1276943465
+39983,Steinen,Steinen,47.6453,7.7403,Germany,DE,DEU,Baden-Württemberg,,10049.0,1276597549
+39999,Birkenau,Birkenau,49.5607,8.7061,Germany,DE,DEU,Hessen,,9857.0,1276778911
+40014,Meuselwitz,Meuselwitz,51.05,12.3,Germany,DE,DEU,Thüringen,,10065.0,1276499309
+40065,Blumberg,Blumberg,47.8392,8.5342,Germany,DE,DEU,Baden-Württemberg,,10127.0,1276268293
+40089,Spelle,Spelle,52.3667,7.4667,Germany,DE,DEU,Niedersachsen,,9931.0,1276461336
+40119,Tutzing,Tutzing,47.9089,11.2814,Germany,DE,DEU,Bayern,,9933.0,1276343820
+40123,Rehburg-Loccum,Rehburg-Loccum,52.4508,9.2078,Germany,DE,DEU,Niedersachsen,,10110.0,1276006999
+40133,Ainring,Ainring,47.8156,12.9429,Germany,DE,DEU,Bayern,,9908.0,1276077892
+40173,Pullach im Isartal,Pullach im Isartal,48.05,11.5167,Germany,DE,DEU,Bayern,,8983.0,1276150760
+40219,Oelsnitz,Oelsnitz,50.4167,12.1667,Germany,DE,DEU,Sachsen,,9993.0,1276364084
+40255,Visbek,Visbek,52.8333,8.3167,Germany,DE,DEU,Niedersachsen,,10047.0,1276431474
+40269,Willstätt,Willstatt,48.5417,7.8964,Germany,DE,DEU,Baden-Württemberg,,9985.0,1276429606
+40289,Mainaschaff,Mainaschaff,49.9833,9.0833,Germany,DE,DEU,Bayern,,8936.0,1276443692
+40292,Bad Breisig,Bad Breisig,50.5092,7.2964,Germany,DE,DEU,Rheinland-Pfalz,,9671.0,1276102640
+40309,Goldenstedt,Goldenstedt,52.7833,8.4167,Germany,DE,DEU,Niedersachsen,,10037.0,1276831361
+40341,Schotten,Schotten,50.5,9.1167,Germany,DE,DEU,Hessen,,10059.0,1276543859
+40354,Oldenburg in Holstein,Oldenburg in Holstein,54.3,10.8833,Germany,DE,DEU,Schleswig-Holstein,,9881.0,1276671809
+40369,Großhansdorf,Grosshansdorf,53.6667,10.2667,Germany,DE,DEU,Schleswig-Holstein,,9292.0,1276549511
+40378,Rüdesheim am Rhein,Rudesheim am Rhein,49.9833,7.9306,Germany,DE,DEU,Hessen,,9922.0,1276263757
+40389,Sulzbach,Sulzbach,50.1331,8.5289,Germany,DE,DEU,Hessen,,8971.0,1276220992
+40392,Klötze,Klotze,52.6263,11.1616,Germany,DE,DEU,Sachsen-Anhalt,,10077.0,1276729835
+40394,Kirchlinteln,Kirchlinteln,52.9428,9.3183,Germany,DE,DEU,Niedersachsen,,10054.0,1276083659
+40427,Lenggries,Lenggries,47.6803,11.5739,Germany,DE,DEU,Bayern,,10058.0,1276352109
+40430,Oberhausen-Rheinhausen,Oberhausen-Rheinhausen,49.2606,8.485,Germany,DE,DEU,Baden-Württemberg,,9593.0,1276286737
+40434,Kurort Steinbach-Hallenberg,Kurort Steinbach-Hallenberg,50.7006,10.5667,Germany,DE,DEU,Thüringen,,9681.0,1276381862
+40435,Töging am Inn,Toging am Inn,48.25,12.5667,Germany,DE,DEU,Bayern,,9407.0,1276814406
+40445,Mengen,Mengen,48.0497,9.33,Germany,DE,DEU,Baden-Württemberg,,9896.0,1276073963
+40447,Beilngries,Beilngries,49.0333,11.4667,Germany,DE,DEU,Bayern,,9993.0,1276091719
+40450,Wölfersheim,Wolfersheim,50.3975,8.8114,Germany,DE,DEU,Hessen,,9863.0,1276879373
+40468,Kösching,Kosching,48.8167,11.5,Germany,DE,DEU,Bayern,,9705.0,1276577514
+40483,Kümmersbruck,Kummersbruck,49.4167,11.8833,Germany,DE,DEU,Bayern,,9870.0,1276949407
+40494,Bad König,Bad Konig,49.75,9.0167,Germany,DE,DEU,Hessen,,9861.0,1276917706
+40554,Rödinghausen,Rodinghausen,52.255,8.4817,Germany,DE,DEU,Nordrhein-Westfalen,,9784.0,1276776306
+40561,Worpswede,Worpswede,53.2222,8.9278,Germany,DE,DEU,Niedersachsen,,9919.0,1276953565
+40571,Frickenhausen,Frickenhausen,48.5928,9.3611,Germany,DE,DEU,Baden-Württemberg,,9232.0,1276458359
+40579,Osthofen,Osthofen,49.7078,8.3289,Germany,DE,DEU,Rheinland-Pfalz,,9528.0,1276502148
+40587,Nohfelden,Nohfelden,49.5867,7.1428,Germany,DE,DEU,Saarland,,9938.0,1276779252
+40608,Gudensberg,Gudensberg,51.1833,9.3667,Germany,DE,DEU,Hessen,,9815.0,1276969422
+40625,Ohrdruf,Ohrdruf,50.8281,10.7328,Germany,DE,DEU,Thüringen,,9784.0,1276929737
+40630,Ilsfeld,Ilsfeld,49.05,9.25,Germany,DE,DEU,Baden-Württemberg,,9657.0,1276001221
+40642,Maisenhausen,Maisenhausen,50.0172,8.9915,Germany,DE,DEU,Bayern,,9488.0,1276399610
+40684,Bad Liebenzell,Bad Liebenzell,48.7742,8.7314,Germany,DE,DEU,Baden-Württemberg,,9712.0,1276138487
+40691,Giesen,Giesen,52.2,9.8833,Germany,DE,DEU,Niedersachsen,,9709.0,1276120261
+40720,Heilsbronn,Heilsbronn,49.3167,10.8,Germany,DE,DEU,Bayern,,9825.0,1276724619
+40782,Höhr-Grenzhausen,Hohr-Grenzhausen,50.435,7.6711,Germany,DE,DEU,Rheinland-Pfalz,,9368.0,1276961599
+40807,Großröhrsdorf,Grossrohrsdorf,51.1444,14.0167,Germany,DE,DEU,Sachsen,,9708.0,1276821884
+40848,Bad Gandersheim,Bad Gandersheim,51.8719,10.0253,Germany,DE,DEU,Niedersachsen,,9823.0,1276778177
+40862,Brandis,Brandis,51.3347,12.6089,Germany,DE,DEU,Sachsen,,9646.0,1276455051
+40864,Waltenhofen,Waltenhofen,47.6667,10.3,Germany,DE,DEU,Bayern,,9759.0,1276889694
+40960,Bockenem,Bockenem,52.0117,10.1319,Germany,DE,DEU,Niedersachsen,,9795.0,1276993037
+41029,Nersingen,Nersingen,48.4289,10.1219,Germany,DE,DEU,Bayern,,9464.0,1276170388
+41041,Plüderhausen,Pluderhausen,48.795,9.6011,Germany,DE,DEU,Baden-Württemberg,,9487.0,1276728589
+41060,Trebbin,Trebbin,52.2167,13.2,Germany,DE,DEU,Brandenburg,,9760.0,1276041588
+41068,Zorneding,Zorneding,48.0833,11.8333,Germany,DE,DEU,Bayern,,9436.0,1276678708
+41070,Schlitz,Schlitz,50.6667,9.5667,Germany,DE,DEU,Hessen,,9764.0,1276405370
+41093,Osterburg,Osterburg,52.7833,11.7667,Germany,DE,DEU,Sachsen-Anhalt,,9782.0,1276131088
+41117,Eisenberg,Eisenberg,49.5614,8.0725,Germany,DE,DEU,Rheinland-Pfalz,,9313.0,1276928244
+41132,Everswinkel,Everswinkel,51.925,7.8478,Germany,DE,DEU,Nordrhein-Westfalen,,9666.0,1276832374
+41139,Vettweiß,Vettweiss,50.7389,6.5972,Germany,DE,DEU,Nordrhein-Westfalen,,9685.0,1276176554
+41149,Heiligenhafen,Heiligenhafen,54.3739,10.9797,Germany,DE,DEU,Schleswig-Holstein,,9283.0,1276378464
+41167,Ostercappeln,Ostercappeln,52.35,8.2333,Germany,DE,DEU,Niedersachsen,,9688.0,1276960639
+41186,Kemberg,Kemberg,51.7833,12.6333,Germany,DE,DEU,Sachsen-Anhalt,,9737.0,1276029857
+41200,Nordwalde,Nordwalde,52.0833,7.4833,Germany,DE,DEU,Nordrhein-Westfalen,,9584.0,1276365254
+41227,Grimmen,Grimmen,54.11,13.0414,Germany,DE,DEU,Mecklenburg-Vorpommern,,9572.0,1276798826
+41235,Altlandsberg,Altlandsberg,52.5667,13.7331,Germany,DE,DEU,Brandenburg,,9662.0,1276344426
+41241,Oberstdorf,Oberstdorf,47.4097,10.2792,Germany,DE,DEU,Bayern,,9707.0,1276143452
+41251,Schmitten,Schmitten,50.2697,8.4443,Germany,DE,DEU,Hessen,,9478.0,1276120658
+41255,Fürstenau,Furstenau,52.5167,7.6667,Germany,DE,DEU,Niedersachsen,,9621.0,1276365707
+41300,Alsbach-Hähnlein,Alsbach-Hahnlein,49.7413,8.6225,Germany,DE,DEU,Hessen,,9146.0,1276622371
+41328,Wehrheim,Wehrheim,50.3033,8.571,Germany,DE,DEU,Hessen,,9468.0,1276437939
+41331,Lüchow,Luchow,52.9667,11.15,Germany,DE,DEU,Niedersachsen,minor,9604.0,1276197749
+41337,Bisingen,Bisingen,48.3119,8.9178,Germany,DE,DEU,Baden-Württemberg,,9423.0,1276249860
+41338,Ehningen,Ehningen,48.6589,8.9403,Germany,DE,DEU,Baden-Württemberg,,9193.0,1276629801
+41378,Hohenmölsen,Hohenmolsen,51.1564,12.0981,Germany,DE,DEU,Sachsen-Anhalt,,9565.0,1276691866
+41379,Visselhövede,Visselhovede,52.9667,9.5833,Germany,DE,DEU,Niedersachsen,,9629.0,1276207705
+41381,Dassel,Dassel,51.8033,9.6903,Germany,DE,DEU,Niedersachsen,,9604.0,1276866794
+41395,Neu Bleckede,Neu Bleckede,53.3,10.7333,Germany,DE,DEU,Niedersachsen,,9613.0,1276752770
+41396,Laubach,Laubach,50.5333,8.99,Germany,DE,DEU,Hessen,,9583.0,1276831355
+41402,Niederwerrn,Niederwerrn,50.0667,10.1831,Germany,DE,DEU,Bayern,,8781.0,1276785718
+41406,Ilsenburg,Ilsenburg,51.8667,10.6833,Germany,DE,DEU,Sachsen-Anhalt,,9526.0,1276193551
+41424,Südlohn,Sudlohn,51.9436,6.8664,Germany,DE,DEU,Nordrhein-Westfalen,,9461.0,1276001303
+41445,Adelsdorf,Adelsdorf,49.7112,10.8935,Germany,DE,DEU,Bayern,,9362.0,1276049542
+41463,Brand-Erbisdorf,Brand-Erbisdorf,50.8689,13.3219,Germany,DE,DEU,Sachsen,,9452.0,1276212051
+41476,Twist,Twist,52.6167,7.0333,Germany,DE,DEU,Niedersachsen,,9554.0,1276686407
+41478,Barleben,Barleben,52.2,11.6333,Germany,DE,DEU,Sachsen-Anhalt,,9330.0,1276521807
+41481,Runkel,Runkel,50.4053,8.155,Germany,DE,DEU,Hessen,,9427.0,1276349515
+41485,Zwiesel,Zwiesel,49.0167,13.2333,Germany,DE,DEU,Bayern,,9421.0,1276620797
+41501,Luckau,Luckau,51.85,13.7167,Germany,DE,DEU,Brandenburg,,9582.0,1276191048
+41502,Oststeinbek,Oststeinbek,53.5442,10.1664,Germany,DE,DEU,Schleswig-Holstein,,8849.0,1276130515
+41519,Elsenfeld,Elsenfeld,49.85,9.1667,Germany,DE,DEU,Bayern,,9238.0,1276319881
+41530,Mittenwalde,Mittenwalde,52.2667,13.5333,Germany,DE,DEU,Brandenburg,,9515.0,1276476761
+41537,Zschopau,Zschopau,50.75,13.0667,Germany,DE,DEU,Sachsen,,9214.0,1276308597
+41548,Ichenhausen,Ichenhausen,48.3667,10.3167,Germany,DE,DEU,Bayern,,9329.0,1276943409
+41554,Sebnitz,Sebnitz,50.9667,14.2833,Germany,DE,DEU,Sachsen,,9490.0,1276466123
+41556,Petersberg,Petersberg,51.6,11.9667,Germany,DE,DEU,Sachsen-Anhalt,,9504.0,1276104833
+41557,Wertingen,Wertingen,48.5333,10.6667,Germany,DE,DEU,Bayern,,9415.0,1276445466
+41562,Bad Bevensen,Bad Bevensen,53.0792,10.5833,Germany,DE,DEU,Niedersachsen,,9400.0,1276837566
+41590,Aschheim,Aschheim,48.1733,11.7178,Germany,DE,DEU,Bayern,,9249.0,1276119666
+41593,Reinfeld,Reinfeld,53.8333,10.4833,Germany,DE,DEU,Schleswig-Holstein,,9058.0,1276759795
+41604,Obernkirchen,Obernkirchen,52.2664,9.1178,Germany,DE,DEU,Niedersachsen,,9288.0,1276033571
+41605,Ehringshausen,Ehringshausen,50.6,8.3833,Germany,DE,DEU,Hessen,,9367.0,1276599931
+41611,Schaafheim,Schaafheim,49.9242,9.0094,Germany,DE,DEU,Hessen,,9282.0,1276791845
+41644,Nittendorf,Nittendorf,49.0256,11.9589,Germany,DE,DEU,Bayern,,9277.0,1276523264
+41648,Nalbach,Nalbach,49.3833,6.7833,Germany,DE,DEU,Saarland,,9145.0,1276451456
+41649,Lügde,Lugde,51.95,9.25,Germany,DE,DEU,Nordrhein-Westfalen,,9448.0,1276075848
+41667,Neuried,Neuried,48.0933,11.4658,Germany,DE,DEU,Bayern,,8643.0,1276429701
+41672,Rehau,Rehau,50.25,12.0167,Germany,DE,DEU,Bayern,,9424.0,1276647977
+41687,Hemau,Hemau,49.0519,11.7828,Germany,DE,DEU,Bayern,,9456.0,1276739454
+41708,Gomaringen,Gomaringen,48.4519,9.0997,Germany,DE,DEU,Baden-Württemberg,,9001.0,1276119838
+41716,Miltenberg,Miltenberg,49.7039,9.2644,Germany,DE,DEU,Bayern,minor,9359.0,1276744365
+41718,Rauenberg,Rauenberg,49.2678,8.7036,Germany,DE,DEU,Baden-Württemberg,,8728.0,1276997920
+41719,Saßnitz,Sassnitz,54.5164,13.6411,Germany,DE,DEU,Mecklenburg-Vorpommern,,9320.0,1276897378
+41738,Wallerfangen,Wallerfangen,49.3278,6.7208,Germany,DE,DEU,Saarland,,9285.0,1276477962
+41800,Vallendar,Vallendar,50.3971,7.622,Germany,DE,DEU,Rheinland-Pfalz,,8808.0,1276411152
+41802,Zwenkau,Zwenkau,51.2175,12.3242,Germany,DE,DEU,Sachsen,,9274.0,1276888789
+41807,Dielheim,Dielheim,49.2825,8.7347,Germany,DE,DEU,Baden-Württemberg,,9071.0,1276260465
+41831,Budenheim,Budenheim,50.0167,8.1667,Germany,DE,DEU,Rheinland-Pfalz,,8641.0,1276397913
+41868,Niesky,Niesky,51.3,14.8167,Germany,DE,DEU,Sachsen,,9267.0,1276763097
+41890,Teisendorf,Teisendorf,47.85,12.8167,Germany,DE,DEU,Bayern,,9325.0,1276609221
+41896,Laufenburg (Baden),Laufenburg (Baden),47.5656,8.0647,Germany,DE,DEU,Baden-Württemberg,,9045.0,1276283641
+41901,Wunsiedel,Wunsiedel,50.0167,12.0167,Germany,DE,DEU,Bayern,minor,9259.0,1276110549
+41904,Bad Laer,Bad Laer,52.1031,8.0892,Germany,DE,DEU,Niedersachsen,,9228.0,1276926087
+41931,Mendig,Mendig,50.3744,7.2808,Germany,DE,DEU,Rheinland-Pfalz,,9032.0,1276853202
+41953,Hallstadt,Hallstadt,49.9333,10.8833,Germany,DE,DEU,Bayern,,8795.0,1276896189
+41954,Kandel,Kandel,49.0833,8.2,Germany,DE,DEU,Rheinland-Pfalz,,9061.0,1276402753
+41957,Schlangen,Schlangen,51.8167,8.8331,Germany,DE,DEU,Nordrhein-Westfalen,,9276.0,1276494835
+41966,Biblis,Biblis,49.6841,8.4508,Germany,DE,DEU,Hessen,,9169.0,1276443433
+41972,Pfedelbach,Pfedelbach,49.175,9.5056,Germany,DE,DEU,Baden-Württemberg,,9171.0,1276090389
+41990,Kolkwitz,Kolkwitz,51.7496,14.2457,Germany,DE,DEU,Brandenburg,,9297.0,1276591838
+42035,Aidlingen,Aidlingen,48.6792,8.8969,Germany,DE,DEU,Baden-Württemberg,,9024.0,1276002867
+42040,Richterich,Richterich,50.8086,6.0625,Germany,DE,DEU,Nordrhein-Westfalen,,8701.0,1276526025
+42045,Tecklenburg,Tecklenburg,52.2194,7.8125,Germany,DE,DEU,Nordrhein-Westfalen,,9229.0,1276770196
+42081,Werneuchen,Werneuchen,52.6333,13.7333,Germany,DE,DEU,Brandenburg,,9261.0,1276171183
+42084,Kyritz,Kyritz,52.95,12.4,Germany,DE,DEU,Brandenburg,,9281.0,1276035237
+42099,Hohenhameln,Hohenhameln,52.26,10.0664,Germany,DE,DEU,Niedersachsen,,9201.0,1276407587
+42148,Bad Liebenwerda,Bad Liebenwerda,51.5167,13.4,Germany,DE,DEU,Brandenburg,,9242.0,1276044120
+42161,Nittenau,Nittenau,49.2,12.2667,Germany,DE,DEU,Bayern,,9210.0,1276358281
+42180,Hohenbrunn,Hohenbrunn,48.05,11.7,Germany,DE,DEU,Bayern,,8823.0,1276417376
+42182,Zörbig,Zorbig,51.6167,12.1167,Germany,DE,DEU,Sachsen-Anhalt,,9216.0,1276066607
+42190,Molbergen,Molbergen,52.8667,7.9333,Germany,DE,DEU,Niedersachsen,,9201.0,1276536842
+42191,Urbach,Urbach,48.8133,9.5789,Germany,DE,DEU,Baden-Württemberg,,8863.0,1276165057
+42206,Gerstungen,Gerstungen,50.9625,10.0597,Germany,DE,DEU,Thüringen,,9165.0,1276563247
+42218,Gnarrenburg,Gnarrenburg,53.3864,9.005,Germany,DE,DEU,Niedersachsen,,9204.0,1276077814
+42224,Torgelow,Torgelow,53.6167,14.0,Germany,DE,DEU,Mecklenburg-Vorpommern,,9153.0,1276888250
+42227,Westerland,Westerland,54.91,8.3075,Germany,DE,DEU,Schleswig-Holstein,,9032.0,1276492039
+42230,Fuldabrück,Fuldabruck,51.2667,9.4833,Germany,DE,DEU,Hessen,,8781.0,1276251915
+42241,Neustadt,Neustadt,50.7333,11.75,Germany,DE,DEU,Thüringen,,9022.0,1276606241
+42248,Altenbeken,Altenbeken,51.7667,8.9333,Germany,DE,DEU,Nordrhein-Westfalen,,9147.0,1276435516
+42287,Salzhemmendorf,Salzhemmendorf,52.0667,9.5833,Germany,DE,DEU,Niedersachsen,,9150.0,1276619297
+42322,Freystadt,Freystadt,49.2,11.3167,Germany,DE,DEU,Bayern,,9116.0,1276684749
+42331,Furth im Wald,Furth im Wald,49.3097,12.84,Germany,DE,DEU,Bayern,,9093.0,1276212241
+42377,Trittau,Trittau,53.6167,10.4,Germany,DE,DEU,Schleswig-Holstein,,8896.0,1276001552
+42392,Furtwangen im Schwarzwald,Furtwangen im Schwarzwald,48.0503,8.2092,Germany,DE,DEU,Baden-Württemberg,,9091.0,1276132141
+42396,Wenzenbach,Wenzenbach,49.0747,12.1944,Germany,DE,DEU,Bayern,,8900.0,1276234994
+42408,Elsfleth,Elsfleth,53.2333,8.4667,Germany,DE,DEU,Niedersachsen,,9113.0,1276056093
+42415,Plön,Plon,54.1622,10.4214,Germany,DE,DEU,Schleswig-Holstein,minor,8943.0,1276527623
+42421,Neuhaus am Rennweg,Neuhaus am Rennweg,50.5167,11.15,Germany,DE,DEU,Thüringen,,9076.0,1276404975
+42437,Waldheim,Waldheim,51.0667,13.0167,Germany,DE,DEU,Sachsen,,8964.0,1276028317
+42448,Neuötting,Neuotting,48.2167,12.6833,Germany,DE,DEU,Bayern,,8932.0,1276928616
+42453,Dörverden,Dorverden,52.85,9.2333,Germany,DE,DEU,Niedersachsen,,9062.0,1276082481
+42454,Timmendorfer Strand,Timmendorfer Strand,53.9944,10.7825,Germany,DE,DEU,Schleswig-Holstein,,8742.0,1276402888
+42460,Memmelsdorf,Memmelsdorf,49.9328,10.9533,Germany,DE,DEU,Bayern,,8828.0,1276224213
+42464,Ortenberg,Ortenberg,50.3558,9.0553,Germany,DE,DEU,Hessen,,9001.0,1276546212
+42466,Borgholzhausen,Borgholzhausen,52.1,8.3,Germany,DE,DEU,Nordrhein-Westfalen,,9001.0,1276557759
+42469,Elze,Elze,52.1167,9.7333,Germany,DE,DEU,Niedersachsen,,8973.0,1276949287
+42473,Rain,Rain,48.6833,10.9167,Germany,DE,DEU,Bayern,,9042.0,1276518985
+42482,Bruchhausen-Vilsen,Bruchhausen-Vilsen,52.8333,9.0,Germany,DE,DEU,Niedersachsen,,9070.0,1276878870
+42502,Kressbronn am Bodensee,Kressbronn am Bodensee,47.5958,9.6,Germany,DE,DEU,Baden-Württemberg,,8720.0,1276612974
+42522,Kißlegg,Kisslegg,47.79,9.8842,Germany,DE,DEU,Baden-Württemberg,,9043.0,1276219486
+42523,Ochsenhausen,Ochsenhausen,48.0722,9.9481,Germany,DE,DEU,Baden-Württemberg,,8991.0,1276059571
+42542,Mühlhausen,Muhlhausen,49.2475,8.7239,Germany,DE,DEU,Baden-Württemberg,,8571.0,1276928543
+42568,Neuenkirchen,Neuenkirchen,52.5167,8.0667,Germany,DE,DEU,Niedersachsen,,9021.0,1276221041
+42569,Doberlug-Kirchhain,Doberlug-Kirchhain,51.6167,13.5667,Germany,DE,DEU,Brandenburg,,9062.0,1276784712
+42607,Waldenbuch,Waldenbuch,48.6372,9.1317,Germany,DE,DEU,Baden-Württemberg,,8717.0,1276938935
+42638,Breckerfeld,Breckerfeld,51.2667,7.4667,Germany,DE,DEU,Nordrhein-Westfalen,,8938.0,1276888240
+42643,Bad Schussenried,Bad Schussenried,48.0067,9.6586,Germany,DE,DEU,Baden-Württemberg,,8925.0,1276967245
+42646,Herzberg,Herzberg,51.6833,13.2333,Germany,DE,DEU,Brandenburg,minor,9027.0,1276357277
+42674,Waldfeucht,Waldfeucht,51.0667,5.9831,Germany,DE,DEU,Nordrhein-Westfalen,,8784.0,1276350109
+42678,Bellheim,Bellheim,49.1981,8.2792,Germany,DE,DEU,Rheinland-Pfalz,,8648.0,1276002204
+42680,Nierstein,Nierstein,49.8694,8.3375,Germany,DE,DEU,Rheinland-Pfalz,,8625.0,1276411938
+42703,Großbeeren,Grossbeeren,52.3551,13.3079,Germany,DE,DEU,Brandenburg,,8891.0,1276213734
+42712,Obernburg am Main,Obernburg am Main,49.84,9.1414,Germany,DE,DEU,Bayern,,8712.0,1276112630
+42746,Ballenstedt,Ballenstedt,51.72,11.2375,Germany,DE,DEU,Sachsen-Anhalt,,8940.0,1276375352
+42749,Hemmoor,Hemmoor,53.7025,9.1394,Germany,DE,DEU,Niedersachsen,,8843.0,1276546938
+42765,Sande,Sande,53.5022,8.0139,Germany,DE,DEU,Niedersachsen,,8835.0,1276159264
+42778,Berching,Berching,49.1,11.4333,Germany,DE,DEU,Bayern,,8957.0,1276699990
+42785,Florstadt,Florstadt,50.3158,8.8631,Germany,DE,DEU,Hessen,,8798.0,1276644408
+42787,Bersenbrück,Bersenbruck,52.5333,7.9167,Germany,DE,DEU,Niedersachsen,,8810.0,1276969333
+42795,Auerbach,Auerbach,49.6833,11.6167,Germany,DE,DEU,Bayern,,8880.0,1276188143
+42804,Volkach,Volkach,49.8667,10.2167,Germany,DE,DEU,Bayern,,8857.0,1276344574
+42844,Fehrbellin,Fehrbellin,52.8144,12.7661,Germany,DE,DEU,Brandenburg,,8951.0,1276574282
+42861,Garching an der Alz,Garching an der Alz,48.1167,12.5833,Germany,DE,DEU,Bayern,,8642.0,1276874361
+42898,Schleiz,Schleiz,50.5833,11.8167,Germany,DE,DEU,Thüringen,minor,8854.0,1276386563
+42909,Naunhof,Naunhof,51.2778,12.5883,Germany,DE,DEU,Sachsen,,8735.0,1276828471
+42912,Bad Lauchstädt,Bad Lauchstadt,51.3667,11.8333,Germany,DE,DEU,Sachsen-Anhalt,,8849.0,1276634742
+42914,Kusterdingen,Kusterdingen,48.5222,9.1208,Germany,DE,DEU,Baden-Württemberg,,8597.0,1276384055
+42919,Eslohe,Eslohe,51.25,8.1667,Germany,DE,DEU,Nordrhein-Westfalen,,8870.0,1276472967
+42927,Groß Kreutz,Gross Kreutz,52.3997,12.7831,Germany,DE,DEU,Brandenburg,,8856.0,1276310156
+42934,Grünheide,Grunheide,52.4255,13.8228,Germany,DE,DEU,Brandenburg,,8872.0,1276449341
+42948,Bockhorn,Bockhorn,53.4,8.0167,Germany,DE,DEU,Niedersachsen,,8821.0,1276050347
+42955,Meine,Meine,52.3833,10.5333,Germany,DE,DEU,Niedersachsen,,8706.0,1276819678
+42982,Hilzingen,Hilzingen,47.7653,8.7844,Germany,DE,DEU,Baden-Württemberg,,8754.0,1276881310
+42986,Schwarzenbruck,Schwarzenbruck,49.35,11.2333,Germany,DE,DEU,Bayern,,8532.0,1276492629
+42988,Penig,Penig,50.9336,12.7058,Germany,DE,DEU,Sachsen,,8780.0,1276085565
+43018,Barth,Barth,54.3667,12.7167,Germany,DE,DEU,Mecklenburg-Vorpommern,,8692.0,1276722582
+43025,Obertraubling,Obertraubling,48.9658,12.1669,Germany,DE,DEU,Bayern,,8557.0,1276906491
+43033,Hürtgenwald,Hurtgenwald,50.7172,6.3797,Germany,DE,DEU,Nordrhein-Westfalen,,8798.0,1276899490
+43079,Föritz,Foritz,50.35,11.2417,Germany,DE,DEU,Thüringen,,8787.0,1276969681
+43088,Weilmünster,Weilmunster,50.4333,8.3667,Germany,DE,DEU,Hessen,,8753.0,1276313563
+43096,Roetgen,Roetgen,50.65,6.2,Germany,DE,DEU,Nordrhein-Westfalen,,8640.0,1276508343
+43128,Efringen-Kirchen,Efringen-Kirchen,47.6556,7.5658,Germany,DE,DEU,Baden-Württemberg,,8642.0,1276766634
+43130,Großbottwar,Grossbottwar,49.0014,9.2931,Germany,DE,DEU,Baden-Württemberg,,8512.0,1276002930
+43142,Lienen,Lienen,52.1461,7.9739,Germany,DE,DEU,Nordrhein-Westfalen,,8715.0,1276837503
+43145,Dornstadt,Dornstadt,48.4692,9.9417,Germany,DE,DEU,Baden-Württemberg,,8686.0,1276592459
+43146,Sonsbeck,Sonsbeck,51.6089,6.3769,Germany,DE,DEU,Nordrhein-Westfalen,,8675.0,1276567959
+43161,Mansfeld,Mansfeld,51.5942,11.4547,Germany,DE,DEU,Sachsen-Anhalt,,8765.0,1276609161
+43177,Kappeln,Kappeln,54.6614,9.9311,Germany,DE,DEU,Schleswig-Holstein,,8619.0,1276715573
+43202,Heek,Heek,52.1167,7.0997,Germany,DE,DEU,Nordrhein-Westfalen,,8681.0,1276008522
+43209,Flieden,Flieden,50.4231,9.5658,Germany,DE,DEU,Hessen,,8629.0,1276338969
+43216,Vohburg an der Donau,Vohburg an der Donau,48.7667,11.6167,Germany,DE,DEU,Bayern,,8605.0,1276723735
+43223,Bad Sooden-Allendorf,Bad Sooden-Allendorf,51.2833,9.9833,Germany,DE,DEU,Hessen,,8675.0,1276874812
+43224,Tirschenreuth,Tirschenreuth,49.8833,12.3333,Germany,DE,DEU,Bayern,minor,8707.0,1276972262
+43254,Mücheln,Mucheln,51.3,11.8,Germany,DE,DEU,Sachsen-Anhalt,,8681.0,1276286774
+43262,Großräschen,Grossraschen,51.5831,14.0,Germany,DE,DEU,Brandenburg,,8655.0,1276514067
+43263,Calbe,Calbe,51.9033,11.7758,Germany,DE,DEU,Sachsen-Anhalt,,8609.0,1276644969
+43266,Hainichen,Hainichen,50.9697,13.1253,Germany,DE,DEU,Sachsen,,8588.0,1276053815
+43307,Barntrup,Barntrup,51.9831,9.1167,Germany,DE,DEU,Nordrhein-Westfalen,,8587.0,1276882548
+43311,Reichelsheim,Reichelsheim,49.7149,8.8396,Germany,DE,DEU,Hessen,,8581.0,1276383443
+43313,Steinheim am Albuch,Steinheim am Albuch,48.6922,10.0642,Germany,DE,DEU,Baden-Württemberg,,8623.0,1276634395
+43354,Borgentreich,Borgentreich,51.5667,9.25,Germany,DE,DEU,Nordrhein-Westfalen,,8638.0,1276811823
+43358,Großenlüder,Grossenluder,50.5925,9.5423,Germany,DE,DEU,Hessen,,8583.0,1276765103
+43371,Ueckermünde,Ueckermunde,53.7389,14.0444,Germany,DE,DEU,Mecklenburg-Vorpommern,,8591.0,1276552736
+43384,Perl,Perl,49.4667,6.3667,Germany,DE,DEU,Saarland,,8566.0,1276009165
+43411,Unterwellenborn,Unterwellenborn,50.6586,11.4419,Germany,DE,DEU,Thüringen,,8513.0,1276207968
+43434,Bösel,Bosel,53.0058,7.9542,Germany,DE,DEU,Niedersachsen,,8550.0,1276774199
+43450,Meßkirch,Messkirch,47.9928,9.1125,Germany,DE,DEU,Baden-Württemberg,,8513.0,1276541566
+43451,Lützen,Lutzen,51.2597,12.1417,Germany,DE,DEU,Sachsen-Anhalt,,8546.0,1276691830
+43467,Osternienburg,Osternienburg,51.8,12.0167,Germany,DE,DEU,Sachsen-Anhalt,,8549.0,1276698635
+43492,Löwenberg,Lowenberg,52.896,13.1546,Germany,DE,DEU,Brandenburg,,8548.0,1276763095

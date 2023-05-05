@@ -21,7 +21,7 @@ def load_exams_data(year):
     exams_data.iloc[:, 0] = exams_data.iloc[:, 0].astype(str)
 
     # Rename names in the States column
-    exams_data[' '] = exams_data[' '].replace({'Zahl der PrÃ¼fungen': 'Examinations Total',
+    exams_data[' '] = exams_data[' '].replace({'Zahl der Prüfungen': 'Examinations Total',
                                                      '- bestanden': 'Passed Examinations',
                                                      '- nicht bestanden (abs.)': 'Failed Examinations'})
 
